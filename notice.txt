@@ -1,0 +1,8 @@
+RSV VER 2.2
+
+1.다운로드 받은 압축 파일을 해제 후 스타듀밸리가 설치된 폴더를 찾습니다.
+2. Mods 폴더에서 다운 받은 파일 명과 같은 폴더를 덮어 씌우면 적용 완료.
+
+1. Release the downloaded compressed file and locate the folder where Stadu Valley is installed.
+2. Overwrite the folder such as the file name you downloaded from the Mods folder to complete the application.
+* I wrote it using a translator, so it may not have been well communicated. Make sure you back up.
