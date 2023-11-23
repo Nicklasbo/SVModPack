@@ -1,0 +1,126 @@
+{
+	
+ "resincraftingbench.name": "レジンクラフトベンチ",
+ "resincraftingbench.description": "木からとれる樹液を加工できる。",
+ 
+ "amber-liquid.name": "コハクレジン液",
+ "amber-liquid.description": "コハク色のレジン液。",
+ 
+ "amber-stone.name": "コハク石",
+ "amber-stone.description": "樹木が生み出した森の宝石。",
+ 
+ "amber-fossil.name": "昆虫のコハク化石",
+ "amber-fossil.description": "樹木が生み出した森の宝石。虫の化石が閉じ込められている。",
+ 
+ "amber-bangle.name": "コハクバングル",
+ "amber-bangle.description": "コハクがはめこまれた素朴なバングル。",
+ 
+ "amber-earrings.name": "コハクの耳飾り",
+ "amber-earrings.description": "コハクがきらきらとゆれる耳飾り。",
+ 
+ "amber-pendant.name": "コハクのペンダント",
+ "amber-pendant.description": "大きなコハクがかがやくペンダント。",
+ 
+ "amber-ring.name": "コハクの指輪",
+ "amber-ring.description": "樹木のぬくもりを感じる指輪。",
+  
+ "amber-arrow.name": "コハクの矢",
+ "amber-arrow.description": "コハクでできた、美しく鋭い矢。",
+ 
+ "amber-drum.name": "コハクの太鼓",
+ "amber-drum.description": "太古の音色がひびく太鼓。",
+ 
+ "amber-fan.name": "コハクの扇",
+ "amber-fan.description": "コハク色に染めた古風な扇。",
+ 
+ "amber-handaxe.name": "コハクの手オノ",
+ "amber-handaxe.description": "とがったコハクをくくりつけた簡素な道具。",
+ 
+ "amber-ocarina.name": "コハクのオカリナ",
+ "amber-ocarina.description": "あたたかな音色を奏でる楽器。",
+ 
+ "amber-shovel.name": "コハクのショベル",
+ "amber-shovel.description": "コハクでできた、土を掘るための道具。",
+
+ "amber-sword.name": "コハクのつるぎ",
+ "amber-sword.description": "コハク色にかがやくかざり用のつるぎ。実戦には向かないが、とても美しい。",
+ 
+ "amber-tiara.name": "コハクのティアラ",
+ "amber-tiara.description": "コハクでかざられた、アンティーク風のティアラ。",
+
+ "amber-toothbrush.name": "コハクの歯ブラシ",
+ "amber-toothbrush.description": "コハク柄の変わった歯ブラシ。",
+ 
+ "amber-book.name": "コハク装丁の本",
+ "amber-book.description": "コハクで美しくかざられた本。本文はドワーフ語で書かれている。",
+ 
+ "amber-amphora.name": "コハクのつぼ",
+ "amber-amphora.description": "古風なかたちのつぼ。園芸にちょうどよさそう。",
+ 
+ "amber-figurine.name": "コハクのおきもの",
+ "amber-figurine.description": "まるく愛らしいかたちのおきもの。",
+ 
+ "amber-egg.name": "コハクのたまご",
+ "amber-egg.description": "巨大な恐竜のタマゴのカラからつくられた。",
+ 
+ "amber-disc.name": "コハクの円盤",
+ "amber-disc.description": "ずっしりとした重量感のあるコハク色の円盤。重さを生かした使い道があるかも？",
+ 
+ "amber-spoon.name": "コハクのスプーン",
+ "amber-spoon.description": "料理人のためのコハク色のスプーン。食卓を美しく彩る。",
+ 
+ "amber-boots.name": "コハクのカウボーイブーツ",
+ "amber-boots.description": "コハク色の拍車をあしらった、個性的なカウボーイブーツ。",
+ 
+ "amber-cog.name": "コハクの歯車",
+ "amber-cog.description": "コハク色の風変わりな歯車。機械の一部としてつかえそう。",
+ 
+ "amber-chicken.name": "コハクのニワトリ像",
+ "amber-chicken.description": "コハクでできたニワトリのおきもの。",
+ 
+ "amber-star.name": "コハクの星かざり",
+ "amber-star.description": "コハク色の星のかたちのかざり。",
+ 
+ "amber-anchor.name": "コハクのいかり",
+ "amber-anchor.description": "つやつやとしたきれいなコハク色のいかり。",
+ 
+ "amber-crystalball.name": "コハクの水晶玉",
+ "amber-crystalball.description": "すきとおったコハク色の神秘的な水晶玉。",
+ 
+ "amber-helm.name": "コハクのカブト",
+ "amber-helm.description": "コハク色がとてもきれいな、めずらしいかたちのカブト。人間がかぶるには少し小さい。",
+ 
+ "amber-computer.name": "コハクのコンピューター",
+ "amber-computer.description": "コハクでつくられた、精巧な外観のコンピューター。動作しない、ただのおもちゃだ。",
+ 
+ "amber-mask.name": "コハクの仮面",
+ "amber-mask.description": "奇妙なかたちの仮面。ひたいには大きなグリーンアンバーがはめこまれている。",
+ 
+ "amber-monument.name": "コハクの石碑",
+ "amber-monument.description": "黄金のプレートから型をとってつくった石碑。読めない文字で書かれている。",
+ 
+ "amber-junimo.name": "コハクのジュニモ像",
+ "amber-junimo.description": "コハクでつくられたジュニモのおきもの。",
+ 
+ "amber-animal.name": "コハクのアニマル像",
+ "amber-animal.description": "コハクでつくられた奇妙な動物の頭。どこかで見たことがあるような…。",
+ 
+ "amber-skull.name": "コハクのドクロ",
+ "amber-skull.description": "本物の巨大生物の頭がい骨を使った、迫力満点の置物。",
+ 
+ "amber-necklace.name": "コハクのビーズネックレス",
+ "amber-necklace.description": "骨からつくられたビーズとコハクを組み合わせた、エキゾチックなネックレス。",
+ 
+ "amber-nautilus.name": "アンモナイトのコハク化石",
+ "amber-nautilus.description": "樹木が生み出した森の宝石。アンモナイトの化石が閉じ込められている。",
+ 
+ "amber-frog.name": "コハクのカエル像",
+ "amber-frog.description": "コハクでつくられたおきもの。カエルの化石が閉じ込められているらしい…？",
+ 
+ "amber-palm.name": "ヤシの葉のコハク化石",
+ "amber-palm.description": "樹木が生み出した森の宝石。ヤシの化石が閉じ込められている。",
+ 
+ "amber-tropical.name": "コハクのトロピカルネックレス",
+ "amber-tropical.description": "南の島で採取した骨からつくられたビーズとコハクを組み合わせた、エキゾチックなネックレス。",
+
+}

@@ -1,0 +1,15 @@
+{
+	"Name": "Amber Skull",
+	"Price": 300,
+	"Description": "...",
+	"TranslationKey":"amber-skull",
+	"Category": "ArtisanGoods",
+	"CategoryColorOverride": "234, 147, 010, 255",
+	"Edibility": -300,
+	"Recipe": null,
+	"GiftTastes":
+		{
+			"Love": ["Vincent", "Oliver"],
+		},
+	"CanPurchase": false,       
+}

@@ -1,0 +1,16 @@
+{
+	"Name": "Amber Earrings",
+	"Price": 275,
+	"Description": "...",
+	"TranslationKey":"amber-earrings",
+	"Category": "ArtisanGoods",
+	"CategoryColorOverride": "234, 147, 010, 255",
+	"Edibility": -300,
+	"Recipe": null,
+	"GiftTastes":
+		{
+			"Like": ["Universal"],
+		},
+	"CanPurchase": false,       
+	"ContextTags": ["color_yellow"],
+}

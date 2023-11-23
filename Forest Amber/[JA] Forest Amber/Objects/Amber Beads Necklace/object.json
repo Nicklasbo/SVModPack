@@ -1,0 +1,15 @@
+{
+	"Name": "Amber Beads Necklace",
+	"Price": 500,
+	"Description": "...",
+	"TranslationKey":"amber-necklace",
+	"Category": "ArtisanGoods",
+	"CategoryColorOverride": "234, 147, 010, 255",
+	"Edibility": -300,
+	"Recipe": null,
+	"GiftTastes":
+		{
+			"Like": ["Universal"],
+		},
+	"CanPurchase": false,       
+}

@@ -1,0 +1,15 @@
+{
+	"Name": "Amber Shovel",
+	"Price": 300,
+	"Description": "...",
+	"TranslationKey":"amber-shovel",
+	"Category": "ArtisanGoods",
+	"CategoryColorOverride": "234, 147, 010, 255",
+	"Edibility": -300,
+	"Recipe": null,
+	"GiftTastes":
+		{
+			"Love": ["Andy", "Susan"],
+		},
+	"CanPurchase": false,       
+}

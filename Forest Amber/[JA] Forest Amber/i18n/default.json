@@ -1,0 +1,126 @@
+{
+	
+ "resincraftingbench.name": "Resin Crafting Bench",
+ "resincraftingbench.description": "Used to craft with tree sap and resin.",
+ 
+ "amber-liquid.name": "Amber Resin Liquid",
+ "amber-liquid.description": "Amber-coloured resin liquid.",
+ 
+ "amber-stone.name": "Amber Stone",
+ "amber-stone.description": "A gem of the forest produced by trees.",
+ 
+ "amber-fossil.name": "Insect Fossil Amber",
+ "amber-fossil.description": "A gem of the forest produced by trees, with a fossilized insects trapped inside.",
+ 
+ "amber-bangle.name": "Amber Bangle",
+ "amber-bangle.description": "A simple bangle inlaid with amber.",
+ 
+ "amber-earrings.name": "Amber Earrings",
+ "amber-earrings.description": "Earrings with sparkling amber.",
+ 
+ "amber-pendant.name": "Amber Pendant",
+ "amber-pendant.description": "A pendant with a large shining amber.",
+ 
+ "amber-ring.name": "Amber Ring",
+ "amber-ring.description": "A ring that gives a sense of warmth from the tree.",
+  
+ "amber-arrow.name": "Amber Arrow",
+ "amber-arrow.description": "A beautifully sharp arrow made of amber.",
+ 
+ "amber-drum.name": "Amber Drum",
+ "amber-drum.description": "A drum that resounds with the ancient tones.",
+ 
+ "amber-fan.name": "Amber Fan",
+ "amber-fan.description": "A vintage fan dyed in amber color.",
+ 
+ "amber-handaxe.name": "Amber Handaxe",
+ "amber-handaxe.description": "A simple tool with amber attached to it.",
+ 
+ "amber-ocarina.name": "Amber Ocarina",
+ "amber-ocarina.description": "An instrument that produces warm tones.",
+ 
+ "amber-shovel.name": "Amber Shovel",
+ "amber-shovel.description": "A tool made of amber for digging soil.",
+
+ "amber-sword.name": "Amber Sword",
+ "amber-sword.description": "A sword that shines in an amber color. It is not meant for real battles but is exceptionally beautiful.",
+ 
+ "amber-tiara.name": "Amber Tiara",
+ "amber-tiara.description": "A tiara adorned with amber, in an antique style.",
+
+ "amber-toothbrush.name": "Amber Toothbrush",
+ "amber-toothbrush.description": "A unique toothbrush with an amber handle.",
+ 
+ "amber-book.name": "Amber Decorated Book",
+ "amber-book.description": "A book adorned beautifully with amber. The text is written in Dwarvish.",
+ 
+ "amber-amphora.name": "Amber Amphora",
+ "amber-amphora.description": "A vintage-style pot that seems perfect for gardening.",
+ 
+ "amber-figurine.name": "Amber Figurine",
+ "amber-figurine.description": "A round and adorable shaped figurine.",
+ 
+ "amber-egg.name": "Amber Egg",
+ "amber-egg.description": "Made from the shell of a giant dinosaur egg.",
+ 
+ "amber-disc.name": "Amber Disc",
+ "amber-disc.description": "A solid and weighty amber-colored disc. There might be a purpose that capitalizes on its weight.",
+ 
+ "amber-spoon.name": "Amber Spoon",
+ "amber-spoon.description": "An amber-colored spoon for chefs. It enhances the dining experience.",
+ 
+ "amber-boots.name": "Amber Cowboy boots",
+ "amber-boots.description": "Unique cowboy boots embellished with amber spurs.",
+ 
+ "amber-cog.name": "Amber Cog",
+ "amber-cog.description": "A quirky amber-colored gear. It appears usable as a part of a machine.",
+ 
+ "amber-chicken.name": "Amber Chicken　Figurine",
+ "amber-chicken.description": "A figurine of a chicken made of amber.",
+
+ "amber-star.name": "Amber Star",
+ "amber-star.description": "An amber-colored decoration in the shape of a star.",
+ 
+ "amber-anchor.name": "Amber Anchor",
+ "amber-anchor.description": "A glossy anchor in a stunning amber color.",
+ 
+ "amber-crystalball.name": "Amber Crystal Ball",
+ "amber-crystalball.description": "A translucent amber-colored mystical crystal sphere.",
+ 
+ "amber-helm.name": "Amber Helm",
+ "amber-helm.description": "A uniquely shaped helmet with a stunning amber color. It is slightly small for a human to wear.",
+ 
+ "amber-computer.name": "Amber Computer",
+ "amber-computer.description": "A computer intricately crafted from amber. Non-functional, merely a decorative toy.",
+ 
+ "amber-mask.name": "Amber Mask",
+ "amber-mask.description": "A peculiar-shaped mask. A large green amber is embedded in the forehead.",
+ 
+ "amber-monument.name": "Amber Monument",
+ "amber-monument.description": "A monument crafted from a mold taken from a Golden Relic. It is inscribed with unreadable characters.",
+ 
+ "amber-junimo.name": "Amber Junimo Figurine",
+ "amber-junimo.description": "A figurine of Junimo made from amber.",
+ 
+ "amber-animal.name": "Amber Animal Figurine",
+ "amber-animal.description": "A strange animal head made of amber. It seems familiar, as if I've seen it somewhere before...",
+ 
+ "amber-skull.name": "Amber Skull",
+ "amber-skull.description": "A powerful figurine crafted from the skull of a real giant creature.",
+ 
+ "amber-necklace.name": "Amber Beads Necklace",
+ "amber-necklace.description": "An exotic necklace combining beads made from bones with amber.",
+ 
+ "amber-nautilus.name": "Nautilus Fossil Amber",
+ "amber-nautilus.description": "A gem of the forest produced by trees, with a fossilized nautilus trapped inside.",
+ 
+ "amber-frog.name": "Amber Frog　Figurine",
+ "amber-frog.description": "A figurine of Frog made from amber, with a fossilized frog seemingly trapped inside...?",
+ 
+ "amber-palm.name": "Palm Fossil Amber",
+ "amber-palm.description": "A gem of the forest produced by trees, with a fossilized palm trapped inside.",
+ 
+ "amber-tropical.name": "Amber Tropical Necklace",
+ "amber-tropical.description": "An exotic necklace combining beads made from bones collected on a tropical island and amber.",
+
+}

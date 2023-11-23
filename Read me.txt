@@ -1,0 +1,11 @@
+Kawaii Hats by Yuikami
+This mod is simply a replace and retouch of the original hat files, so you can still find these hat by buying from the har house, and the tophat from the casino. 
+
+How to install:
+- Put hats.xnb in  Steam\SteamApps\common\Stardew Valley\Content\Characters\Farmer
+- Make sure you back up the original file before you overwrite it!
+- Enjoy!
+
+Please do not reupload this any where else, or include, or edit these files or put it in other mods.
+
+If you have any problem with this mod, feel free to contact me via twitter @yuikami

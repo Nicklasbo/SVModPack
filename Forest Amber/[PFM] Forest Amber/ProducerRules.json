@@ -1,0 +1,1031 @@
+[
+	//Amber Resin Liquid
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 92, //Sap
+		"InputStack": 50,
+		"MinutesUntilReady": 400,
+		"OutputIdentifier":"Amber Resin Liquid",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 724, //Maple Syrup
+		"InputStack": 1,
+		"MinutesUntilReady": 400,
+		"OutputIdentifier":"Amber Resin Liquid",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 725, //Oak Resin
+		"InputStack": 1,
+		"MinutesUntilReady": 400,
+		"OutputIdentifier":"Amber Resin Liquid",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 726, //Pine Tar
+		"InputStack": 1,
+		"MinutesUntilReady": 400,
+		"OutputIdentifier":"Amber Resin Liquid",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Stone
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 881, //Bone Fragment
+		"InputStack": 10,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Stone",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+		
+	//Fossil Amber Stone
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 589, //Trilobite
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Fossil Amber Stone",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Bangle
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 309, //Acorn
+		"InputStack": 10,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Bangle",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 5,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Earrings
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 311, //Pine Cone
+		"InputStack": 10,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Earrings",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 5,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Pendant
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 310, //Maple Seed
+		"InputStack": 10,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Pendant",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 5,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+
+	//Amber Ring
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 292, //Mahogany Seed
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Ring",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 5,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Arrow
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 101, //Arrowhead
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Arrow",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Drum
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 123, //Ancient Drum
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Drum",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Fan
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 106, //Ornamental Fan
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Fan",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Handaxe
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 120, //Prehistoric Handaxe
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Handaxe",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+
+	//Amber Ocarina
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 119, //Bone Flute
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Ocarina",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Shovel
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 115, //Prehistoric Tool
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Shovel",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Sword
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 109, //Ancient Sword
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Sword",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Tiara
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 104, //Elvish Jewelry
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Tiara",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Toothbrush
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 105, //Chewing Stick
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Toothbrush",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Decorated Book
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 96, //Dwarf Scroll I
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"AdditionalFuel": {
+			"97": 1, //Dwarf Scroll II
+			"98": 1, //Dwarf Scroll III
+			"99": 1, //Dwarf Scroll IV
+		},
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Decorated Book",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Amphora
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 100, //Chipped Amphora
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Amphora",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Figurine
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 103, //Ancient Doll
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Figurine",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+
+	//Amber Egg
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 107, //Dinosaur Egg
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Egg",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Disc
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 108, //Rare Disc
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Disc",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Spoon
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 110, //Rusty Spoon
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Spoon",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Cowboy Boots
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 111, //Rusty Spur
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Cowboy Boots",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Cog
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 112, //Rusty Cog
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Cog",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Chicken Figurine
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 113, //Chicken Statue
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Chicken Figurine",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Star
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 116, //Dried Starfish
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Star",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Anchor
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 117, //Anchor
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Anchor",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Crystal Ball
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 118, //Glass Shards
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Crystal Ball",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Helm
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 121, //Dwarvish Helm
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Helm",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Computer
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 122, //Dwarf Gadget
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Computer",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Mask
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 124, //Golden Mask
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Mask",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Monument
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 125, //Golden Relic
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Monument",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Junimo Figurine
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 126, //Strange Doll (green)
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Junimo Figurine",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Animal Figurine
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 127, //Strange Doll (yellow)
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Animal Figurine",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Skull
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 581, //Prehistoric Skull
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Skull",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 820, //Fossilized Skull
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Skull",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Beads Necklace
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 579, //Prehistoric Scapula
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Beads Necklace",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 580, //Prehistoric Tibia
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Beads Necklace",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 582, //Skeletal Hand
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Beads Necklace",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 583, //Prehistoric Rib
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Beads Necklace",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 584, //Prehistoric Vertebra
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Beads Necklace",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 585, //Skeletal Tail
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Beads Necklace",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},	
+	
+	//Nautilus Fossil Amber
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 586, //Nautilus Fossil
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Nautilus Fossil Amber",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Frog Figurine
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 587, //Amphibian Fossil
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Frog Figurine",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 828, //Mummified Frog
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Frog Figurine",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Palm Fossil Amber
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 588, //Palm Fossil
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Palm Fossil Amber",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	//Amber Tropical Necklace
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 821, //Fossilized Spine
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Tropical Necklace",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 822, //Fossilized Tail
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Tropical Necklace",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 823, //Fossilized Leg
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Tropical Necklace",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 824, //Fossilized Ribs
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Tropical Necklace",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 825, //Snake Skull
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Tropical Necklace",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 826, //Snake Vertebrae
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Tropical Necklace",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+	{
+		"ProducerName": "Resin Crafting Bench",
+		"InputIdentifier": 827, //Mummified Bat
+		"InputStack": 1,
+		"FuelIdentifier": "Amber Resin Liquid",
+        "FuelStack": 1,
+		"MinutesUntilReady": 600,
+		"OutputIdentifier":"Amber Tropical Necklace",
+		"InputPriceBased": true,
+		"KeepInputQuality": true,
+		"OutputPriceIncrement": 300,
+		"OutputPriceMultiplier": 3,
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+        "PlacingAnimation": "Bubbles",
+		"PlacingAnimationColorName": "Yellow",
+	},
+	
+]

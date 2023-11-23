@@ -1,0 +1,12 @@
+{
+   "Name": "[JA] Forest Amber",
+   "Author": "Miru",
+   "Description": "Adds amber crafts made from tree sap, seeds and artifacts. ",
+   "Version": "1.1.1",
+   "UniqueID": "miru.forestamberja",
+   "UpdateKeys": ["nexus:16127"],
+   "MinimumApiVersion": "3.0.0",
+   "ContentPackFor": {
+       "UniqueID": "spacechase0.JsonAssets"
+    },
+}

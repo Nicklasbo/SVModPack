@@ -1,0 +1,19 @@
+{
+	"Name": "Resin Crafting Bench",
+	"Price": 1000,
+	"Description": "...",
+	"TranslationKey":"resincraftingbench",
+	"ProvidesLight": false,
+	"Recipe": 
+	{
+		"ResultCount": 1,
+		"Ingredients": [
+			{ "Object": 92, "Count": 50 }, //Sap
+			{ "Object": 388, "Count": 10 }, //Wood
+			{ "Object": 86, "Count": 5 }, //Earth Crystal
+		],
+		"IsDefault": false,
+		"SkillUnlockName": "Foraging",
+		"SkillUnlockLevel": "7",
+    },
+}

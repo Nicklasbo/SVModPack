@@ -1,0 +1,11 @@
+{
+   "Name": "Ghibli Critters",
+   "Author": "sopholophagus",
+   "Version": "1.2.0",
+   "Description": "Ghibli Critters",
+   "UniqueID": "sopholopho.GhibliCritters",
+   "MinimumApiVersion": "2.0",
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher",
+   }
+}

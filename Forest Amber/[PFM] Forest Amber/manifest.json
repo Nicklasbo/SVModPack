@@ -1,0 +1,16 @@
+{
+	"Name": "[PFM] Forest Amber",
+	"Author": "Miru",
+	"Version": "1.1.1",
+	"Description": "Adds amber crafts made from tree sap, seeds and artifacts. ",
+	"UniqueID": "miru.forestamberpfm",
+	"MinimumApiVersion": "3.0.0",
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.ProducerFrameworkMod"
+	},
+	"Dependencies": [
+		{
+			"UniqueID": "miru.forestamberja"
+		}
+	],
+}

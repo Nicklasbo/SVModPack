@@ -1,0 +1,15 @@
+{
+	"Name": "Amber Egg",
+	"Price": 300,
+	"Description": "...",
+	"TranslationKey":"amber-egg",
+	"Category": "ArtisanGoods",
+	"CategoryColorOverride": "234, 147, 010, 255",
+	"Edibility": -300,
+	"Recipe": null,
+	"GiftTastes":
+		{
+			"Love": ["Marnie", "Torts", "Aguar", "Zayne", "Eloise"],
+		},
+	"CanPurchase": false,       
+}

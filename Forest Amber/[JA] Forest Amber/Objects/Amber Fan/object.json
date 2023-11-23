@@ -1,0 +1,15 @@
+{
+	"Name": "Amber Fan",
+	"Price": 300,
+	"Description": "...",
+	"TranslationKey":"amber-fan",
+	"Category": "ArtisanGoods",
+	"CategoryColorOverride": "234, 147, 010, 255",
+	"Edibility": -300,
+	"Recipe": null,
+	"GiftTastes":
+		{
+			"Love": ["Gunther", "Faye", "Maive", "Aideen"],
+		},
+	"CanPurchase": false,       
+}

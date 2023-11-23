@@ -1,0 +1,16 @@
+{
+	"Name": "Amber Tropical Necklace",
+	"Price": 500,
+	"Description": "...",
+	"TranslationKey":"amber-tropical",
+	"Category": "ArtisanGoods",
+	"CategoryColorOverride": "234, 147, 010, 255",
+	"Edibility": -300,
+	"Recipe": null,
+	"GiftTastes":
+		{
+			"Love": ["Leo"],
+			"Like": ["Universal"],
+		},
+	"CanPurchase": false,       
+}

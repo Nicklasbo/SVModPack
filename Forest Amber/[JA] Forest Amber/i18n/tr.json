@@ -1,0 +1,54 @@
+{
+	
+ "resincraftingbench.name": "Reçine Üretim Tezgahı",
+ "resincraftingbench.description": "Ağaç özü ve reçine ile yapılan üretimlerde kullanılır.",
+ 
+ "amber-liquid.name": "Kehribar Reçine Sıvısı",
+ "amber-liquid.description": "Kehribar renginde bir reçine.",
+ 
+ "amber-stone.name": "Kehribar taşı",
+ "amber-stone.description": "Ağaçların ürettiği nadir bir orman cevheri.",
+ 
+ "amber-fossil.name": "Fosil Kehribar Taşı",
+ "amber-fossil.description": "Ağaçların ürettiği nadir bir orman cevheri. Eğer yakından bakarsan, içine bir şey sıkışmış olduğunu görebilirsin.",
+ 
+ "amber-bangle.name": "Kehribar Bileklik",
+ "amber-bangle.description": "Kehribar işlemeli basit bir bileklik.",
+ 
+ "amber-earrings.name": "Kehribar Küpe",
+ "amber-earrings.description": "Parlak kehribarlı küpeler.",
+ 
+ "amber-pendant.name":  "Kehribar Kolye",
+ "amber-pendant.description": "Büyük parlak kehribar taşı olan bir kolye.",
+ 
+ "amber-ring.name": "Kehribar Yüzük",
+ "amber-ring.description": "Ağaçtan gelen sıcaklık hissi veren bir yüzük.",
+  
+ "amber-arrow.name":  "Kehribar Ok",
+ "amber-arrow.description": "Kehribardan yapılmış süs oku. Avlanmak için uygun görünmüyor.",
+ 
+ "amber-drum.name": "Kehribar Davul",
+ "amber-drum.description": "Kadim tonlarda ses çıkaran bir davul..",
+ 
+ "amber-fan.name": "Kehribar Yelpaze",
+ "amber-fan.description": "Kehribar rengine boyanmış bir yelpaze.",
+ 
+ "amber-handaxe.name":"Kehribar El Baltası",
+ "amber-handaxe.description": "Kehribar eklenmiş basit bir araç.",
+ 
+ "amber-ocarina.name":"Kehribar Okarina",
+ "amber-ocarina.description": "Hoş tonlarda ses çıkaran bir flüt.",
+ 
+ "amber-shovel.name": "Kehribar Kürek",
+ "amber-shovel.description": "Toprağı kazmak için kehribardan yapılmış bir araç. Pratikliği düşüktür.",
+
+ "amber-sword.name":  "Kehribar Kılıç",
+ "amber-sword.description": "Kehribar renginde parlayan bir kılıç. Savaş için uygun görünmüyor...",
+ 
+ "amber-tiara.name":  "Kehribar Taç",
+ "amber-tiara.description": "Kehribarla süslenmiş antika bir taç.",
+
+ "amber-toothbrush.name": "Kehribar Diş Fırçası",
+ "amber-toothbrush.description": "Kehribar saplı eşsiz bir diş fırçası.",
+
+}

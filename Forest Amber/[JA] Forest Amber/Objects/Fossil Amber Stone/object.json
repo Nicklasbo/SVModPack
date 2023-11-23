@@ -1,0 +1,15 @@
+{
+	"Name": "Fossil Amber Stone",
+	"Price": 500,
+	"Description": "...",
+	"TranslationKey":"amber-fossil",
+	"Category": "ArtisanGoods",
+	"CategoryColorOverride": "234, 147, 010, 255",
+	"Edibility": -300,
+	"Recipe": null,
+	"GiftTastes":
+		{
+			"Love": ["Demetrius", "Oliver"],
+		},
+	"CanPurchase": false,       
+}

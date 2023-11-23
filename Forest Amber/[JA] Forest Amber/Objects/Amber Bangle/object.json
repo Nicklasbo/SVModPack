@@ -1,0 +1,16 @@
+{
+	"Name": "Amber Bangle",
+	"Price": 500,
+	"Description": "...",
+	"TranslationKey":"amber-bangle",
+	"Category": "ArtisanGoods",
+	"CategoryColorOverride": "234, 147, 010, 255",
+	"Edibility": -300,
+	"Recipe": null,
+	"GiftTastes":
+		{
+			"Like": ["Universal"],
+		},
+	"CanPurchase": false,       
+	"ContextTags": ["color_brown"],
+}

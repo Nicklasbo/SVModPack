@@ -1,0 +1,13 @@
+{
+  "Name": "Pet Displays",
+   "Author": "HopeWasHere",
+   "Version": "1.0.0",
+   "Description": "Different pet cages and containers to display in your house",
+   "UniqueID": "HopeWasHere.CustomFurniture.CraftablePetDisplays",
+   "MinimumApiVersion": "2.5.2",
+   "UpdateKeys": ["Nexus:3212"],
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.CustomFurniture",
+    "MinimumVersion": "0.8.6"
+  }
+}

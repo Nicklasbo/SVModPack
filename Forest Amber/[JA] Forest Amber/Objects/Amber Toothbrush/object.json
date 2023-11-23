@@ -1,0 +1,15 @@
+{
+	"Name": "Amber Toothbrush",
+	"Price": 300,
+	"Description": "...",
+	"TranslationKey":"amber-toothbrush",
+	"Category": "ArtisanGoods",
+	"CategoryColorOverride": "234, 147, 010, 255",
+	"Edibility": -300,
+	"Recipe": null,
+	"GiftTastes":
+		{
+			"Love": ["Harvey", "Paula"],
+		},
+	"CanPurchase": false,       
+}

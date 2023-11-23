@@ -1,0 +1,15 @@
+{
+	"Name": "Amber Spoon",
+	"Price": 300,
+	"Description": "...",
+	"TranslationKey":"amber-spoon",
+	"Category": "ArtisanGoods",
+	"CategoryColorOverride": "234, 147, 010, 255",
+	"Edibility": -300,
+	"Recipe": null,
+	"GiftTastes":
+		{
+			"Love": ["Gus", "Pika", "Irene"],
+		},
+	"CanPurchase": false,       
+}

@@ -1,0 +1,12 @@
+{
+   "Name": "Ghibli Scarecrows",
+   "Author": "Crazy_Leen,AceLeangle,Eleila,mouse,kasumisasori",
+   "Version": "1.5.0",
+   "Description": "Makes all scarecrows Ghibli themed.",
+   "UniqueID": "Crazy_Leen.GhibliScarecrows",
+   "MinimumApiVersion": "3.7",
+   "UpdateKeys": [ "Nexus:6253" ],
+   "ContentPackFor": {
+    	"UniqueID": "Pathoschild.ContentPatcher",
+  }
+}

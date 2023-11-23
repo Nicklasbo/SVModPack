@@ -1,0 +1,15 @@
+{
+	"Name": "Amber Junimo Figurine",
+	"Price": 300,
+	"Description": "...",
+	"TranslationKey":"amber-junimo",
+	"Category": "ArtisanGoods",
+	"CategoryColorOverride": "234, 147, 010, 255",
+	"Edibility": -300,
+	"Recipe": null,
+	"GiftTastes":
+		{
+			"Love": ["Apples", "Kiwi"],
+		},
+	"CanPurchase": false,       
+}

@@ -1,0 +1,15 @@
+{
+	"Name": "Amber Sword",
+	"Price": 350,
+	"Description": "...",
+	"TranslationKey":"amber-sword",
+	"Category": "ArtisanGoods",
+	"CategoryColorOverride": "234, 147, 010, 255",
+	"Edibility": -300,
+	"Recipe": null,
+	"GiftTastes":
+		{
+			"Love": ["Marlon", "Lance",],
+		},
+	"CanPurchase": false,       
+}

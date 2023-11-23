@@ -1,0 +1,16 @@
+{
+	"Name": "Amber Disc",
+	"Price": 300,
+	"Description": "...",
+	"TranslationKey":"amber-disc",
+	"Category": "ArtisanGoods",
+	"CategoryColorOverride": "234, 147, 010, 255",
+	"Edibility": -300,
+	"Recipe": null,
+	"GiftTastes":
+		{
+			"Love": ["Alex", "Gunther", "Ysabelle", "Philip"],
+			"Neutral": ["Krobus", "Dwarf"],
+		},
+	"CanPurchase": false,       
+}

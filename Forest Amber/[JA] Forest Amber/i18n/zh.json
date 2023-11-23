@@ -1,0 +1,126 @@
+{
+	
+    "resincraftingbench.name": "树脂工艺品制作台",
+    "resincraftingbench.description": "用于加工从树上提取的树液。",
+    
+    "amber-liquid.name": "液态琥珀树脂",
+    "amber-liquid.description": "琥珀色的树脂液体。",
+    
+    "amber-stone.name": "琥珀石",
+    "amber-stone.description": "由树木中产出的森林宝石。",
+    
+    "amber-fossil.name": "琥珀化石",
+    "amber-fossil.description": "树木产生的森林宝石。仔细看看，里面好像有东西。",
+    
+    "amber-bangle.name": "琥珀手镯",
+    "amber-bangle.description": "镶嵌着琥珀的朴素手镯。",
+    
+    "amber-earrings.name": "琥珀耳环",
+    "amber-earrings.description": "琥珀色闪闪发光的耳环。",
+    
+    "amber-pendant.name": "琥珀吊坠",
+    "amber-pendant.description": "一个有着闪闪发光的大琥珀装饰的吊坠。",
+    
+    "amber-ring.name": "琥珀戒指",
+    "amber-ring.description": "从这个戒指上能感受到树木的温暖。",
+     
+    "amber-arrow.name": "琥珀之箭",
+    "amber-arrow.description": "一种由琥珀制成的装饰性箭头。它似乎不适合狩猎。",
+    
+    "amber-drum.name": "琥珀色鼓",
+    "amber-drum.description": "一个回荡着古老音调的鼓。",
+    
+    "amber-fan.name": "琥珀扇",
+    "amber-fan.description": "一把染成琥珀色的复古扇子。",
+    
+    "amber-handaxe.name": "琥珀手斧",
+    "amber-handaxe.description": "绑着尖琥珀的简单工具。",
+    
+    "amber-ocarina.name": "琥珀笛",
+    "amber-ocarina.description": "一个能发出温暖音调的乐器。",
+    
+    "amber-shovel.name": "琥珀铲",
+    "amber-shovel.description": "一种用琥珀制成的挖掘工具。实用性很低。",
+   
+    "amber-sword.name": "琥珀剑",
+    "amber-sword.description": "琥珀色的装饰剑。似乎不适合实战…",
+    
+    "amber-tiara.name": "琥珀头饰",
+    "amber-tiara.description": "一个装饰着琥珀的复古头饰。",
+   
+    "amber-toothbrush.name": "琥珀牙刷",
+    "amber-toothbrush.description": "带有独特的琥珀色花纹的牙刷。",
+    
+    "amber-book.name": "琥珀装饰书",
+    "amber-book.description": "一本用琥珀装饰得很漂亮的书，这篇文章是用矮人文写的。",
+    
+    "amber-amphora.name": "琥珀色双耳瓶",
+    "amber-amphora.description": "一款复古风格的花盆，看起来非常适合园艺。",
+    
+    "amber-figurine.name": "琥珀色小雕像",
+    "amber-figurine.description": "一个圆形可爱的小雕像。",
+    
+    "amber-egg.name": "琥珀色鸡蛋",
+    "amber-egg.description": "由巨型恐龙蛋壳制成。",
+    
+    "amber-disc.name": "琥珀色光盘",
+    "amber-disc.description": "一个坚实而沉重的琥珀色圆盘。可能有一个利用其重量的目的。",
+    
+    "amber-spoon.name": "琥珀色勺子",
+    "amber-spoon.description": "厨师用的琥珀色汤匙，它提升了用餐体验。",
+    
+    "amber-boots.name": "琥珀色牛仔靴",
+    "amber-boots.description": "独特的牛仔靴点缀着琥珀色的马刺。",
+    
+    "amber-cog.name": "琥珀色齿轮",
+    "amber-cog.description": "古怪的琥珀色装备。它似乎可以作为机器的一部分使用。",
+    
+    "amber-chicken.name": "琥珀鸡雕像",
+    "amber-chicken.description": "用琥珀做成的鸡雕像。",
+   
+    "amber-star.name": "琥珀色星星",
+    "amber-star.description": "琥珀色的星形装饰。",
+    
+    "amber-anchor.name": "琥珀色锚点",
+    "amber-anchor.description": "琥珀色的光滑锚。",
+    
+    "amber-crystalball.name": "琥珀水晶球",
+    "amber-crystalball.description": "半透明的琥珀色神秘水晶球。",
+    
+    "amber-helm.name": "琥珀色头盔",
+    "amber-helm.description": "形状独特的头盔，琥珀色令人惊叹。它对人类来说有点小。",
+    
+    "amber-computer.name": "琥珀色电脑",
+    "amber-computer.description": "一台由琥珀制成的电脑。非功能性，只是一个装饰性玩具。",
+    
+    "amber-mask.name": "琥珀色面具",
+    "amber-mask.description": "形状奇特的面具。额头上嵌着一块巨大的绿色琥珀。",
+    
+    "amber-monument.name": "琥珀纪念碑",
+    "amber-monument.description": "一座纪念碑，由取自黄金遗迹的模具制成。上面刻着无法辨认的文字。",
+    
+    "amber-junimo.name": "琥珀祝尼魔雕像",
+    "amber-junimo.description": "一座用琥珀做成的祝尼魔雕像。",
+    
+    "amber-animal.name": "琥珀动物雕像",
+    "amber-animal.description": "琥珀做成的奇怪的动物头。它看起来很熟悉，好像我以前在什么地方见过它...",
+    
+    "amber-skull.name": "琥珀色骷髅",
+    "amber-skull.description": "用一个真正的巨型生物的头骨制作的一个强大的雕像。",
+    
+    "amber-necklace.name": "琥珀色珠子项链",
+    "amber-necklace.description": "一条由骨头制成的珠子与琥珀相结合的异国项链。",
+    
+    "amber-nautilus.name": "琥珀色的鹦鹉螺化石",
+    "amber-nautilus.description": "森林中由树木形成的宝石，里面有一只鹦鹉螺化石。",
+    
+    "amber-frog.name": "琥珀青蛙雕像",
+    "amber-frog.description": "琥珀制成的青蛙雕像，里面似乎有一只青蛙化石...?",
+    
+    "amber-palm.name": "琥珀色棕榈化石",
+    "amber-palm.description": "一颗由树木形成的森林宝石，里面有一个棕榈化石。",
+    
+    "amber-tropical.name": "琥珀热带项链",
+    "amber-tropical.description": "一条由热带岛屿上采集的骨头制成的珠子和琥珀组成的异国项链。",
+   
+   }
