@@ -3,7 +3,7 @@
   "version": 1,
   "deploymentMethod": "hardlink_activator",
   "gameId": "stardewvalley",
-  "deploymentTime": 1700782646693,
+  "deploymentTime": 1700784649005,
   "stagingPath": "C:\\Users\\Bo\\AppData\\Roaming\\Vortex\\stardewvalley\\mods",
   "targetPath": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods",
   "files": [
@@ -242,874 +242,10 @@
       "time": 1575372670000
     },
     {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Duck\\SolidGrey.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608808543000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Duck\\SolidCream.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608808541000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Duck\\SolidBrown.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608808506000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Duck\\SolidBlonde.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608808528000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Duck\\SolidBlack.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608808531000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Duck\\MallardMale.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608808534000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Duck\\MallardFemale.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608808537000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\SolidGreyBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452565000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\References\\3 Rabbits (continued).png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609455519000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\References\\1 Chickens.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609507438000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\References\\2 Rabbits.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609455493000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\SolidGrey.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878077000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\SolidCreamBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452559000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\SolidCream.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878083000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\SolidBrown.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878088000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\SolidBrownBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452580000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\SolidBlondeBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452591000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\SolidBlonde.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878095000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\SolidBlackBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452573000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\SolidBlack.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878101000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\PointedGreyBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878115000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\PointedGrey.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878119000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\PointedBrownBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878128000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\PointedBrown.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878132000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\PointedBlondeBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878152000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\PointedBlonde.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878155000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\PointedBlackBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878164000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopSolidWhiteBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609438637000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\PointedBlack.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878168000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopSolidWhite.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609438608000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopSolidGreyBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554451978000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopSolidGrey.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1558592498000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopSolidCreamBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554451985000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopSolidCream.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1558592470000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopSolidBrownBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554451964000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopSolidBrown.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1558592507000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopSolidBlondeBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554451957000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Dinosaur\\Purple.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609438447000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Dinosaur\\Blue.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609438389000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Dinosaur\\Black.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609438422000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopSolidBlonde.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1558592521000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopSolidBlack.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1558592530000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopSolidBlackBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554451972000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopPointedGreyBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452111000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopPointedGrey.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1558592543000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopPointedBlondeBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452135000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopPointedBrownBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452126000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopPointedBrown.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1558592555000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopPointedBlonde.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1558592560000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopPointedBlackBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452118000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopPointedBlack.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1558592564000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopBeltedGreyBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452026000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopBeltedGrey.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1558592573000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopBeltedBrownBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452057000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopBeltedBrown.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1558592582000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopBeltedBlondeBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452064000
-    },
-    {
       "relPath": "[CF] Pet Displays\\manifest.json",
       "source": "CF - Pet Displays-3212-1-0-0-1546557340",
       "target": "",
       "time": 1546524842000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopBeltedBlonde.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1558592590000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopBeltedBlackBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452034000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\LopBeltedBlack.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1558592601000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\BeltedGreyBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452628000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\BeltedGrey.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878195000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\BeltedBrown.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878200000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\BeltedBrownBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452611000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\BeltedBlondeBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452604000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\BeltedBlackBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1554452621000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\BeltedBlonde.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878205000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\BeltedBlack.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878059000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Dinosaur\\Grey.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609438281000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Dinosaur\\Green.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609465814000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Dinosaur\\Cream.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609438345000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\VoidRed.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608634839000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\VoidPurple.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608634810000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\VoidPurpleBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805296000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\VoidEyesBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805549000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\VoidEyes.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608635200000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\VoidBlackBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805570000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\SilkieWhiteBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609437937000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\VoidBlack.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608634849000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\SilkieWhite.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609437968000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\SilkieGreyBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805588000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\SilkieGrey.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608635142000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\SilkieCreamBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805322000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\SilkieCream.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608634741000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Duck\\SolidWhite.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609438543000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\SilkieBlondeBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805411000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\SilkieBrown.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608634858000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\SilkieBlonde.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608634754000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\SilkieBlackBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805625000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\SilkieBrownBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805609000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\SilkieBlack.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608635151000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\PurpleBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805430000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\Purple.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608634780000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\GoldenBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805644000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\References\\4 Ducks and Dinosaurs.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609556832000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\References\\5 Other.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609455328000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\Golden.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608634872000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BrahmaWhiteBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609437868000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BrahmaWhite.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609437904000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BrahmaGrey.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608635160000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BrahmaCreamBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805364000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BrahmaGreyBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805661000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BrahmaCream.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608634763000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BrahmaBrown.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608634882000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BrahmaBlondeBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805395000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\SolidWhite.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878068000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BrahmaBrownBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805683000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Rabbit\\SolidWhiteBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609438720000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BrahmaBlonde.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608634772000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BrahmaBlack.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608635169000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BlueWhite.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609437756000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BrahmaBlackBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805698000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BlueWhiteBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609437707000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BluePurpleBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805447000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BluePurple.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608634789000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BlueGreyBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609458422000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BlueGrey.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608635179000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BlueCreamBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805714000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BlueCream.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608634890000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BlueBrownBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805747000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BlueBrown.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608634900000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BlueBlondeBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805511000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BlueBlackBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805465000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BlueBlonde.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608634909000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BlueBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805768000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\BlueBlack.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608634800000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\Blue.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608635187000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Dinosaur\\White.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609438491000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\ShopIcons.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1558623316000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Chicken\\VoidRedBaby.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1608805528000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Foot_White.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609376332000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Foot_Grey.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609376340000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Foot_Cream.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609376336000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Foot_Brown.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609376350000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Foot_Blonde.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609376355000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Foot_Black.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609376344000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Feather_Mallard.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609376399000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Feather_White.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609376368000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Feather_Grey.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609376389000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Feather_Cream.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609376373000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Feather_Blonde.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609376379000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\manifest.json",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1612878317000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Feather_Black.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609376394000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\Assets\\Feather_Brown.png",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609376385000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\content.json",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1609475257000
     },
     {
       "relPath": "[CP] Hot Spring Farmcave\\FarmCave.png",
@@ -29750,55 +28886,7 @@
       "time": 1644439886000
     },
     {
-      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\gwenPortraitsGoth.png",
-      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
-      "target": "",
-      "time": 1644439886000
-    },
-    {
-      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\kristoffPortraits.png",
-      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
-      "target": "",
-      "time": 1644439886000
-    },
-    {
-      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\sadiePortraits.png",
-      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
-      "target": "",
-      "time": 1644439886000
-    },
-    {
-      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\gwenPortraits.png",
-      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
-      "target": "",
-      "time": 1644439886000
-    },
-    {
-      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\davidPortraits.png",
-      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
-      "target": "",
-      "time": 1644439886000
-    },
-    {
-      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\calPortraits.png",
-      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
-      "target": "",
-      "time": 1644439886000
-    },
-    {
       "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Dialogue\\gwenMarriageDialogue.json",
-      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
-      "target": "",
-      "time": 1644439886000
-    },
-    {
-      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\Callum_Custom_DTZ_JojaMini.png",
-      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
-      "target": "",
-      "time": 1644439886000
-    },
-    {
-      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\buddyPortraits.png",
       "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
       "target": "",
       "time": 1644439886000
@@ -44702,12 +43790,6 @@
       "time": 1677326672000
     },
     {
-      "relPath": "ShowBirthdays\\config.json",
-      "source": "Show Birthdays 1.3.0-7495-1-3-0-1652192602",
-      "target": "",
-      "time": 1700779497000
-    },
-    {
       "relPath": "[CP] DaisyNiko's Tilesheets\\readme.txt",
       "source": "DaisyNiko's Tilesheets-4736-1-9-1-1677283651",
       "target": "",
@@ -45374,272 +44456,8 @@
       "time": 1649792114000
     },
     {
-      "relPath": "[CP] Medieval SV Expanded\\config.json",
-      "source": "Medieval SVE-6086-2-8-1639741660",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "Stardew Valley Expanded\\[CP] Stardew Valley Expanded\\config.json",
-      "source": "-Stardew Valley Expanded--3753-1-14-24-1688505756",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "TractorMod\\config.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1700779495000
-    },
-    {
-      "relPath": "MultiYieldCrops\\config.json",
-      "source": "Multi Yield Crops-6069-1-0-2-1608582009",
-      "target": "",
-      "time": 1700779494000
-    },
-    {
-      "relPath": "HarvestWithScythe\\config.json",
-      "source": "Harvest With Scythe-2731-6-0-1671189018",
-      "target": "",
-      "time": 1700779494000
-    },
-    {
-      "relPath": "BiggerBackpack\\config.json",
-      "source": "Bigger Backpack-1845-5-0-1627885971",
-      "target": "",
-      "time": 1700779492000
-    },
-    {
-      "relPath": "[CP] Suitcase Record Player\\config.json",
-      "source": "Suitcase Record Player-4794-1-1-0-1575583611",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "TMXLoader\\config.json",
-      "source": "TMXL Map Toolkit-1820-1-22-1-1627473427",
-      "target": "",
-      "time": 1700779493000
-    },
-    {
-      "relPath": "MailServicesMod\\config.json",
-      "source": "MailServicesMod-v1.4.1-7842-1-4-1-1617489304",
-      "target": "",
-      "time": 1700779497000
-    },
-    {
-      "relPath": "ExperienceBars\\config.json",
-      "source": "Experience Bars 1.3.0-509-1-3-0-1625961504",
-      "target": "",
-      "time": 1700779494000
-    },
-    {
-      "relPath": "SkullCavernElevator\\config.json",
-      "source": "SkullCavernElevator-963-1-4-0-1617813114",
-      "target": "",
-      "time": 1700779495000
-    },
-    {
-      "relPath": "[CP] Gwen's Medieval Craftables\\config.json",
-      "source": "Gwen's Medieval Craftables-5513-2-3-1-1612963435",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "[CP] Seasonal Cute Characters\\config.json",
-      "source": "Seasonal Cute Characters-5450-3-2-3-1620136000",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "MoreGrass\\config.json",
-      "source": "More Grass-5398-1-1-7-1642651204",
-      "target": "",
-      "time": 1700779494000
-    },
-    {
-      "relPath": "[CP] Gwen's Paths\\config.json",
-      "source": "Gwen's Paths-8683-1-0-0-1620459899",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "ShopTileFramework\\config.json",
-      "source": "Shop Tile Framework-5005-1-0-9-1608583142",
-      "target": "",
-      "time": 1700779494000
-    },
-    {
-      "relPath": "FarmTypeManager\\config.json",
-      "source": "Farm Type Manager v1.14.0-3231-1-14-0-1621864510",
-      "target": "",
-      "time": 1700779493000
-    },
-    {
-      "relPath": "ContentPatcher\\config.json",
-      "source": "Content Patcher 1.23.5-1915-1-23-5-1632019341",
-      "target": "",
-      "time": 1700779492000
-    },
-    {
-      "relPath": "SpaceCore\\config.json",
-      "source": "SpaceCore1.17.2-1348-1-17-2-1693525373",
-      "target": "",
-      "time": 1700779492000
-    },
-    {
-      "relPath": "QuestFramework\\config.json",
-      "source": "Quest Framework 1.4.3-6414-1-4-3-1676467536",
-      "target": "",
-      "time": 1700779494000
-    },
-    {
-      "relPath": "GenericModConfigMenu\\config.json",
-      "source": "Generic Mod Config Menu 1.11.2-5098-1-11-2-1689343508",
-      "target": "",
-      "time": 1700779492000
-    },
-    {
-      "relPath": "ExtraMapLayers\\config.json",
-      "source": "Extra Map Layers-9633-0-3-10-1693187696",
-      "target": "",
-      "time": 1700779494000
-    },
-    {
-      "relPath": "BetterJunimos\\BetterJunimos\\config.json",
-      "source": "Better Junimos-2221-2-1-2-1655294538",
-      "target": "",
-      "time": 1700779497000
-    },
-    {
-      "relPath": "[CP] Better Crops and Foraging\\config.json",
-      "source": "BCAF 1.5 Update (Fixed Manifest)-4912-4-0-0-1624291982",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "Downtown-Zuzu-main\\[DLL] Downtown Zuzu\\config.json",
-      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
-      "target": "",
-      "time": 1700779493000
-    },
-    {
-      "relPath": "TrainStation\\config.json",
-      "source": "Train Station-6183-1-1-1-1618775674",
-      "target": "",
-      "time": 1700779494000
-    },
-    {
-      "relPath": "[CP] Starblue Valley\\config.json",
-      "source": "Starblue Valley (1.5 Dirty Fix) 1.5.1-1869-1-5-1-1610749374",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "ActivateSprinklers\\config.json",
-      "source": "Activate Sprinklers-2088-1-2-4-1577711044",
-      "target": "",
-      "time": 1700779492000
-    },
-    {
-      "relPath": "Automate\\config.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1700779492000
-    },
-    {
-      "relPath": "[CPA]Better Gems and Minerals Animated\\config.json",
-      "source": "Better Gems and Minerals animated 1_1-6930-1-0-1-1602368150",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "[CP] Better Resources\\config.json",
-      "source": "1.2.0-6942-1-2-0-1629421095",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "[CP] Better Gems and Minerals\\config.json",
-      "source": "Better Gems and Minerals-5443-1-0-1-1582280178",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "UndergroundSecrets\\config.json",
-      "source": "Underground Secrets-6597-0-6-0-1610965810",
-      "target": "",
-      "time": 1700779495000
-    },
-    {
-      "relPath": "[CP] Cottagecore Fences\\config.json",
-      "source": "Cottagecore Fences-8558-1-0-1619036300",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "[CP] Ghibli Critters\\config.json",
-      "source": "ghiblicritters-7267-1-2-0-1613443014",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "SMAPIHealthBarMod\\config.json",
-      "source": "Enemy Health Bars-193-1-9-1575392244",
-      "target": "",
-      "time": 1700779495000
-    },
-    {
-      "relPath": "[CP] Better Artisan Goods\\config.json",
-      "source": "Better Artisan Goods-5394-1-2-1-1612842259",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "[CP]Bernese by Gweniaczek\\config.json",
-      "source": "CP Bernese Mountain Dog-1848-1-2-1575538672",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "WinterGrass\\config.json",
-      "source": "Winter Grass-1601-2-0-3-1608585082",
-      "target": "",
-      "time": 1700779495000
-    },
-    {
-      "relPath": "[CP] Elle's New Coop Animals\\config.json",
-      "source": "Coop Animal Replacements-3168-1-1-5-1612878436",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "[CP] Aesthetic Garbage\\config.json",
-      "source": "(CP) Aesthetic Garbage-11052-1-1-0-1645196548",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
       "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\config.json",
       "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "[MG] Flowergrass and Snowfields - Vanilla\\config.json",
-      "source": "Flowergrass and Snowfields-6742-1-0-1620498445",
-      "target": "",
-      "time": 1700779494000
-    },
-    {
-      "relPath": "Grandpa's Tools\\[CP]Grandpa's Tools\\config.json",
-      "source": "Grandpa's Tools-8835-1-2-0-1623179381",
-      "target": "",
-      "time": 1700779498000
-    },
-    {
-      "relPath": "Walk to the Desert Redux 1.3.1-alpha\\[CP] WTDR\\config.json",
-      "source": "Walk to the Desert Redux 1.3.1 Alpha-8630-1-3-1-alpha-1662963377",
       "target": "",
       "time": 1700779498000
     },
@@ -51662,12 +50480,6 @@
       "time": 1552850230000
     },
     {
-      "relPath": "[CP] Cuter Fatter Animals\\config.json",
-      "source": "CP Cuter Fatter Animals Set (Cow Pig Chickens Sheep Rabbit Dino)-348-1-1553790613",
-      "target": "",
-      "time": 1553116513000
-    },
-    {
       "relPath": "[CP] Cuter Fatter Animals\\assets\\Baby Pig.xnb",
       "source": "CP Cuter Fatter Animals Set (Cow Pig Chickens Sheep Rabbit Dino)-348-1-1553790613",
       "target": "",
@@ -54012,6 +52824,1572 @@
       "source": "CP - DCBurger's High Res Portraits-4745-1-5-2-1611820458",
       "target": "",
       "time": 1611769971000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\manifest.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637538412000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\JosephineK\\Josephine.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1631190582000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Lexi\\Lexi_portrait.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1631205848000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\content.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637538194000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\LKKataryna\\Kataryna.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637537458000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\OliverK\\Oliver.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1631190626000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Rosa\\Rosa.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637537500000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Aideen\\Aideen.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1631190094000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_fall.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630617162000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\JosephineK\\Josephine.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630970952000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_Work.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630616796000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Lexi\\Lexi_portrait.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1631225710000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630617130000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob (1).pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630617116000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630616856000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_Magician.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630617484000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_Magician.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630613236000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_fall.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630616126000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_summer.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630616178000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_summer.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630617186000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\LKKataryna\\Kataryna.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637536632000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\OliverK\\Oliver.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1631139598000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_Work.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630617450000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_winter.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630617426000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Aideen\\Aideen.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630927324000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_winter.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630616720000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Rosa\\Rosa.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637536748000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob (1).png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630616002000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_winter_2.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637537262000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_winter_2.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637536974000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_bird.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1631190478000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_fall_1.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637536832000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637537108000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_fall_2.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1631190390000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_bird.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630883444000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_rain.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637536872000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_rain.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637537214000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_spring_1.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637536898000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_fall_1.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637537132000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_fall_2.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630885170000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_spring_2.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630885260000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_spring_1.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637537224000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_spring_2.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1631190414000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_summer_1.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637536926000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_summer_1.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637537238000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_summer_2.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1631190434000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_winter_1.pytk.json",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637537252000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_summer_2.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1630885326000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_winter_1.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637536952000
+    },
+    {
+      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise.png",
+      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
+      "target": "",
+      "time": 1637536790000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\buddyPortraits.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700783522000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\Callum_Custom_DTZ_JojaMini.pytk.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700783520000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\buddyPortraits.pytk.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700783520000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\calPortraits.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700783522000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\calPortraits.pytk.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700783520000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\Callum_Custom_DTZ_JojaMini.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700783522000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\davidPortraits.pytk.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700783521000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\davidPortraits.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700783522000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\gwenPortraits.pytk.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700783521000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\gwenPortraits.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700783522000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\gwenPortraitsGoth.pytk.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700783521000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\gwenPortraitsGoth.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700783522000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\kristoffPortraits.pytk.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700783521000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\kristoffPortraits.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700783522000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\sadiePortraits.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700783522000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\sadiePortraits.pytk.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700783521000
+    },
+    {
+      "relPath": "[CP] Hats Won't Mess Up Hair\\manifest.json",
+      "source": "Hats Won't Mess Up Hair-2847-1-4-0-1608612717",
+      "target": "",
+      "time": 1608612541000
+    },
+    {
+      "relPath": "[CP] Hats Won't Mess Up Hair\\content.json",
+      "source": "Hats Won't Mess Up Hair-2847-1-4-0-1608612717",
+      "target": "",
+      "time": 1608611885000
+    },
+    {
+      "relPath": "[CP] Coii's Hair Sets Pack\\content.json",
+      "source": "CP - Coii's Hair Sets Pack-2869-1-4-0-1579392040",
+      "target": "",
+      "time": 1579407800000
+    },
+    {
+      "relPath": "[CP] Coii's Hair Sets Pack\\assets\\short.png",
+      "source": "CP - Coii's Hair Sets Pack-2869-1-4-0-1579392040",
+      "target": "",
+      "time": 1579398642000
+    },
+    {
+      "relPath": "[CP] Coii's Hair Sets Pack\\manifest.json",
+      "source": "CP - Coii's Hair Sets Pack-2869-1-4-0-1579392040",
+      "target": "",
+      "time": 1579406602000
+    },
+    {
+      "relPath": "[CP] Coii's Hair Sets Pack\\assets\\long.png",
+      "source": "CP - Coii's Hair Sets Pack-2869-1-4-0-1579392040",
+      "target": "",
+      "time": 1579398498000
+    },
+    {
+      "relPath": "[CP] Better Rings\\content.json",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619984446000
+    },
+    {
+      "relPath": "[CP] Better Rings\\manifest.json",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619990376000
+    },
+    {
+      "relPath": "[CP] Better Rings\\BetterRings.jpg",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619989404000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\burglar.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619952174000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\amethyst.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619951038000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\combined.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619987322000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\emerald.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619957554000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\crabshell.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619956974000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\glow.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619959212000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\glowstone.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619958802000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\hotjava.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619959832000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\immunityband.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619961020000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\jukebox.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619972242000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\iridiumband.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619971306000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\jade.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619963574000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\lucky.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619964682000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\napalm.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619950512000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\magnet.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619965360000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\phoenix.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619970122000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\ruby.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619964104000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\savage.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619972144000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\protection.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619968918000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\slimecharmer.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619966910000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\smallglow.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619959084000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\soulsapper.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619967738000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\thorns.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619970712000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\smallmagnet.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619965730000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\sturdy.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619968120000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\topaz.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619964992000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\vampire.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619963018000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\warrior.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619971730000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\yoba.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619969586000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\wedding.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619972414000
+    },
+    {
+      "relPath": "[CP] Better Rings\\assets\\aquamarine.png",
+      "source": "Better Rings-8642-1-0-1619968901",
+      "target": "",
+      "time": 1619951652000
+    },
+    {
+      "relPath": "[PFM] Coffee Maker\\[PFM] Coffee Maker\\ProducerRules.json",
+      "source": "PFM Coffee Maker-4396-2-0-2-1605394842",
+      "target": "",
+      "time": 1601160187000
+    },
+    {
+      "relPath": "[PFM] Coffee Maker\\[PFM] Coffee Maker\\ProducersConfig.json",
+      "source": "PFM Coffee Maker-4396-2-0-2-1605394842",
+      "target": "",
+      "time": 1601160549000
+    },
+    {
+      "relPath": "[PFM] Coffee Maker\\[JA] Coffee Maker\\BigCraftables\\Coffee Maker\\big-craftable-6.png",
+      "source": "PFM Coffee Maker-4396-2-0-2-1605394842",
+      "target": "",
+      "time": 1577393971000
+    },
+    {
+      "relPath": "[PFM] Coffee Maker\\[JA] Coffee Maker\\BigCraftables\\Coffee Maker\\big-craftable-5.png",
+      "source": "PFM Coffee Maker-4396-2-0-2-1605394842",
+      "target": "",
+      "time": 1601159512000
+    },
+    {
+      "relPath": "[PFM] Coffee Maker\\[JA] Coffee Maker\\BigCraftables\\Coffee Maker\\big-craftable.json",
+      "source": "PFM Coffee Maker-4396-2-0-2-1605394842",
+      "target": "",
+      "time": 1601160301000
+    },
+    {
+      "relPath": "[PFM] Coffee Maker\\[PFM] Coffee Maker\\manifest.json",
+      "source": "PFM Coffee Maker-4396-2-0-2-1605394842",
+      "target": "",
+      "time": 1605394507000
+    },
+    {
+      "relPath": "[PFM] Coffee Maker\\[JA] Coffee Maker\\BigCraftables\\Coffee Maker\\big-craftable-3.png",
+      "source": "PFM Coffee Maker-4396-2-0-2-1605394842",
+      "target": "",
+      "time": 1601159485000
+    },
+    {
+      "relPath": "[PFM] Coffee Maker\\[JA] Coffee Maker\\manifest.json",
+      "source": "PFM Coffee Maker-4396-2-0-2-1605394842",
+      "target": "",
+      "time": 1577396368000
+    },
+    {
+      "relPath": "[PFM] Coffee Maker\\[JA] Coffee Maker\\BigCraftables\\Coffee Maker\\big-craftable-2.png",
+      "source": "PFM Coffee Maker-4396-2-0-2-1605394842",
+      "target": "",
+      "time": 1601159469000
+    },
+    {
+      "relPath": "[PFM] Coffee Maker\\[JA] Coffee Maker\\BigCraftables\\Coffee Maker\\big-craftable-4.png",
+      "source": "PFM Coffee Maker-4396-2-0-2-1605394842",
+      "target": "",
+      "time": 1601159497000
+    },
+    {
+      "relPath": "[PFM] Coffee Maker\\[JA] Coffee Maker\\BigCraftables\\Coffee Maker\\big-craftable.png",
+      "source": "PFM Coffee Maker-4396-2-0-2-1605394842",
+      "target": "",
+      "time": 1577393962000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\content.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\config.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700779498000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\manifest.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1647356632000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\__folder_managed_by_vortex",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700764403000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\__folder_managed_by_vortex",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700764403000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Dialogue\\billDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Dialogue\\buddyDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Dialogue\\calDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1628601536000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Dialogue\\calDialogueQuit.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Dialogue\\calMarriageDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\OverworldSprites\\amandaSprites.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\OverworldSprites\\buddySprites.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Dialogue\\davidDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\OverworldSprites\\Callum_Custom_DTZ_JojaMini.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Dialogue\\davidMarriageDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Dialogue\\gwenDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Dialogue\\gwenMarriageDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\OverworldSprites\\calSprites.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\OverworldSprites\\billSprites.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Dialogue\\kristoffDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Dialogue\\kristoffMarriageDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\OverworldSprites\\davidSprites.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\OverworldSprites\\gwenSprites.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\OverworldSprites\\gwenSpritesGoth.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\OverworldSprites\\sadieSprites.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Dialogue\\sadieMarriageDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\OverworldSprites\\selenaSprites.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\OverworldSprites\\kristoffSprites.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1628601536000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\OverworldSprites\\__folder_managed_by_vortex",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700764403000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Dialogue\\sadieDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Dialogue\\selenaDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1646758360000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Dialogue\\selenaMarriageDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1646758360000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Portraits\\billPortraits.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Dialogue\\__folder_managed_by_vortex",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700764403000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Portraits\\amandaPortraits.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Portraits\\buddyPortraits.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Portraits\\Callum_Custom_DTZ_JojaMini.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Portraits\\calPortraits.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Portraits\\davidPortraits.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\BetterFarmAnimalVariety.dll",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\BetterFarmAnimalVariety.dll.config",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\BetterFarmAnimalVariety.pdb",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Portraits\\gwenPortraits.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\billSchedule.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Portraits\\kristoffPortraits.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\billScheduleDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Portraits\\gwenPortraitsGoth.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\buddySchedule.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1646758360000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Portraits\\__folder_managed_by_vortex",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700764403000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Portraits\\sadiePortraits.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Portraits\\selenaPortraits.png",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\buddyScheduleDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\calScheduleQuit.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\calSchedule.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\davidSchedule.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1647167722000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\calScheduleDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\gwenScheduleDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\gwenSchedule.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\davidScheduleDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\kristoffSchedule.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\sadieSchedule.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\kristoffScheduleDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\sadieScheduleDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1644439886000
+    },
+    {
+      "relPath": "[CP] DaisyNiko's Tilesheets\\config.json",
+      "source": "DaisyNiko's Tilesheets-4736-1-9-1-1677283651",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\selenaScheduleDialogue.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1646758360000
+    },
+    {
+      "relPath": "[CP] Lumisteria Tilesheets - Indoor\\config.json",
+      "source": "Lumisteria Tilesheets - Indoor-9599-1-3-0-1649793195",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "DestroyableBushes\\config.json",
+      "source": "Destroyable Bushes v1.2.2-6304-1-2-2-1691959356",
+      "target": "",
+      "time": 1700784498000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\__folder_managed_by_vortex",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700764403000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu - Backup.disabled mods\\assets\\Schedules\\selenaSchedule.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1646758360000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\config.json",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1549431815000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\manifest.json",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\Newtonsoft.Json.pdb",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Kitty Cats\\[CP] Kitty Cats\\config.json",
+      "source": "Kitty Cats-7998-1-1-0-1621203775",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "East Scarp\\[CP] East Scarp\\config.json",
+      "source": "East Scarp-5787-2-3-8-1696628861",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "East Scarp\\[CP] East Scarp NPCs\\config.json",
+      "source": "East Scarp-5787-2-3-8-1696628861",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "[CP] Zenith Farm\\config.json",
+      "source": "Zenith Farm (CFL)-15618-1-1-4-1679022878",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "Custom Farm Loader\\FarmTypeCache.json",
+      "source": "Custom Farm Loader-13804-1-1-7-1697371888",
+      "target": "",
+      "time": 1700784498000
+    },
+    {
+      "relPath": "Custom Farm Loader\\config.json",
+      "source": "Custom Farm Loader-13804-1-1-7-1697371888",
+      "target": "",
+      "time": 1700784498000
+    },
+    {
+      "relPath": "[CP] DCBurger's High Res Portraits\\config.json",
+      "source": "CP - DCBurger's High Res Portraits-4745-1-5-2-1611820458",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\Paritee.StardewValleyAPI.dll",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\0Harmony.dll",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\i18n\\de.json",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\i18n\\default.json",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\assets\\animal_shop_dairy cow.png",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\assets\\animal_shop_chicken.png",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\assets\\animal_shop_goat.png",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\assets\\animal_shop_duck.png",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\assets\\animal_shop_hog.png",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\assets\\animal_shop_sheep.png",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\assets\\animal_shop_pig.png",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\assets\\animal_shop_rabbit.png",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\i18n\\pt.json",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\i18n\\es.json",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\i18n\\zh.json",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\i18n\\ru.json",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\i18n\\ja.json",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\i18n\\br.json",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "Paritee's Better Farm Animal Variety\\assets\\animal_shop_brown cow.png",
+      "source": "Paritee's Better Farm Animal Variety-3296-2-2-6-1551720026",
+      "target": "",
+      "time": 1551698264000
+    },
+    {
+      "relPath": "ShowBirthdays\\config.json",
+      "source": "Show Birthdays 1.3.0-7495-1-3-0-1652192602",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "[CP] Medieval SV Expanded\\config.json",
+      "source": "Medieval SVE-6086-2-8-1639741660",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "TractorMod\\config.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1700784499000
+    },
+    {
+      "relPath": "Stardew Valley Expanded\\[CP] Stardew Valley Expanded\\config.json",
+      "source": "-Stardew Valley Expanded--3753-1-14-24-1688505756",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "MultiYieldCrops\\config.json",
+      "source": "Multi Yield Crops-6069-1-0-2-1608582009",
+      "target": "",
+      "time": 1700784499000
+    },
+    {
+      "relPath": "HarvestWithScythe\\config.json",
+      "source": "Harvest With Scythe-2731-6-0-1671189018",
+      "target": "",
+      "time": 1700784499000
+    },
+    {
+      "relPath": "BiggerBackpack\\config.json",
+      "source": "Bigger Backpack-1845-5-0-1627885971",
+      "target": "",
+      "time": 1700784497000
+    },
+    {
+      "relPath": "[CP] Suitcase Record Player\\config.json",
+      "source": "Suitcase Record Player-4794-1-1-0-1575583611",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "MailServicesMod\\config.json",
+      "source": "MailServicesMod-v1.4.1-7842-1-4-1-1617489304",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "TMXLoader\\config.json",
+      "source": "TMXL Map Toolkit-1820-1-22-1-1627473427",
+      "target": "",
+      "time": 1700784498000
+    },
+    {
+      "relPath": "ExperienceBars\\config.json",
+      "source": "Experience Bars 1.3.0-509-1-3-0-1625961504",
+      "target": "",
+      "time": 1700784499000
+    },
+    {
+      "relPath": "[CP] Gwen's Medieval Craftables\\config.json",
+      "source": "Gwen's Medieval Craftables-5513-2-3-1-1612963435",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "SkullCavernElevator\\config.json",
+      "source": "SkullCavernElevator-963-1-4-0-1617813114",
+      "target": "",
+      "time": 1700784499000
+    },
+    {
+      "relPath": "[CP] Seasonal Cute Characters\\config.json",
+      "source": "Seasonal Cute Characters-5450-3-2-3-1620136000",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "MoreGrass\\config.json",
+      "source": "More Grass-5398-1-1-7-1642651204",
+      "target": "",
+      "time": 1700784499000
+    },
+    {
+      "relPath": "ShopTileFramework\\config.json",
+      "source": "Shop Tile Framework-5005-1-0-9-1608583142",
+      "target": "",
+      "time": 1700784498000
+    },
+    {
+      "relPath": "[CP] Gwen's Paths\\config.json",
+      "source": "Gwen's Paths-8683-1-0-0-1620459899",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "FarmTypeManager\\config.json",
+      "source": "Farm Type Manager v1.14.0-3231-1-14-0-1621864510",
+      "target": "",
+      "time": 1700784498000
+    },
+    {
+      "relPath": "ContentPatcher\\config.json",
+      "source": "Content Patcher 1.23.5-1915-1-23-5-1632019341",
+      "target": "",
+      "time": 1700784496000
+    },
+    {
+      "relPath": "GenericModConfigMenu\\config.json",
+      "source": "Generic Mod Config Menu 1.11.2-5098-1-11-2-1689343508",
+      "target": "",
+      "time": 1700784497000
+    },
+    {
+      "relPath": "SpaceCore\\config.json",
+      "source": "SpaceCore1.17.2-1348-1-17-2-1693525373",
+      "target": "",
+      "time": 1700784496000
+    },
+    {
+      "relPath": "QuestFramework\\config.json",
+      "source": "Quest Framework 1.4.3-6414-1-4-3-1676467536",
+      "target": "",
+      "time": 1700784498000
+    },
+    {
+      "relPath": "ExtraMapLayers\\config.json",
+      "source": "Extra Map Layers-9633-0-3-10-1693187696",
+      "target": "",
+      "time": 1700784498000
+    },
+    {
+      "relPath": "[CP] Better Crops and Foraging\\config.json",
+      "source": "BCAF 1.5 Update (Fixed Manifest)-4912-4-0-0-1624291982",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "BetterJunimos\\BetterJunimos\\config.json",
+      "source": "Better Junimos-2221-2-1-2-1655294538",
+      "target": "",
+      "time": 1700784501000
+    },
+    {
+      "relPath": "TrainStation\\config.json",
+      "source": "Train Station-6183-1-1-1-1618775674",
+      "target": "",
+      "time": 1700784498000
+    },
+    {
+      "relPath": "[CP] Starblue Valley\\config.json",
+      "source": "Starblue Valley (1.5 Dirty Fix) 1.5.1-1869-1-5-1-1610749374",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[DLL] Downtown Zuzu\\config.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1700784498000
+    },
+    {
+      "relPath": "ActivateSprinklers\\config.json",
+      "source": "Activate Sprinklers-2088-1-2-4-1577711044",
+      "target": "",
+      "time": 1700784496000
+    },
+    {
+      "relPath": "[CP] Better Resources\\config.json",
+      "source": "1.2.0-6942-1-2-0-1629421095",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "[CPA]Better Gems and Minerals Animated\\config.json",
+      "source": "Better Gems and Minerals animated 1_1-6930-1-0-1-1602368150",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "[CP] Cottagecore Fences\\config.json",
+      "source": "Cottagecore Fences-8558-1-0-1619036300",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "UndergroundSecrets\\config.json",
+      "source": "Underground Secrets-6597-0-6-0-1610965810",
+      "target": "",
+      "time": 1700784500000
+    },
+    {
+      "relPath": "WinterGrass\\config.json",
+      "source": "Winter Grass-1601-2-0-3-1608585082",
+      "target": "",
+      "time": 1700784500000
+    },
+    {
+      "relPath": "SMAPIHealthBarMod\\config.json",
+      "source": "Enemy Health Bars-193-1-9-1575392244",
+      "target": "",
+      "time": 1700784499000
+    },
+    {
+      "relPath": "[CP] Better Artisan Goods\\config.json",
+      "source": "Better Artisan Goods-5394-1-2-1-1612842259",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "[CP] Ghibli Critters\\config.json",
+      "source": "ghiblicritters-7267-1-2-0-1613443014",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "[CP]Bernese by Gweniaczek\\config.json",
+      "source": "CP Bernese Mountain Dog-1848-1-2-1575538672",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "[CP] Aesthetic Garbage\\config.json",
+      "source": "(CP) Aesthetic Garbage-11052-1-1-0-1645196548",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "[CP] Better Gems and Minerals\\config.json",
+      "source": "Better Gems and Minerals-5443-1-0-1-1582280178",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "Automate\\config.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1700784497000
+    },
+    {
+      "relPath": "[MG] Flowergrass and Snowfields - Vanilla\\config.json",
+      "source": "Flowergrass and Snowfields-6742-1-0-1620498445",
+      "target": "",
+      "time": 1700784499000
+    },
+    {
+      "relPath": "Grandpa's Tools\\[CP]Grandpa's Tools\\config.json",
+      "source": "Grandpa's Tools-8835-1-2-0-1623179381",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "Walk to the Desert Redux 1.3.1-alpha\\[CP] WTDR\\config.json",
+      "source": "Walk to the Desert Redux 1.3.1 Alpha-8630-1-3-1-alpha-1662963377",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "[CP] Coii's Hair Sets Pack\\config.json",
+      "source": "CP - Coii's Hair Sets Pack-2869-1-4-0-1579392040",
+      "target": "",
+      "time": 1700784502000
+    },
+    {
+      "relPath": "[CP] Cuter Fatter Animals\\config.json",
+      "source": "CP Cuter Fatter Animals Set (Cow Pig Chickens Sheep Rabbit Dino)-348-1-1553790613",
+      "target": "",
+      "time": 1700784502000
     }
   ]
 }

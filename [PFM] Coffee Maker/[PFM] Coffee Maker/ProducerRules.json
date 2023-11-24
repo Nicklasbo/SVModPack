@@ -1,0 +1,17 @@
+﻿[
+	{
+		"ProducerName": "Coffee Maker",
+		"InputIdentifier": "433",
+		"InputStack": 5,
+		"MinutesUntilReady": 20,
+		"OutputIdentifier": "395",
+		"OutputPriceIncrement": 200,
+		"OutputPriceMultiplier": 2.5,
+		"KeepInputQuality": true,
+		"OutputStack": 1,
+		"Sounds": [
+			"sipTea"
+		],
+		"PlacingAnimationColorName": "White"
+	}
+]
