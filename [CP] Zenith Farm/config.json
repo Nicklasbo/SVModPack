@@ -2,7 +2,7 @@
   "EnableDecorations": "true",
   "EnableMinecarts": "true",
   "EnableDebris": "true",
-  "StoneBridges": "false",
+  "StoneBridges": "true",
   "NorthWestMinecartName": "Northwest Farm",
   "NorthEastMinecartName": "Northeast Farm",
   "SouthWestMinecartName": "Southwest Farm",
