@@ -3,7 +3,7 @@
   "version": 1,
   "deploymentMethod": "hardlink_activator",
   "gameId": "stardewvalley",
-  "deploymentTime": 1700954625010,
+  "deploymentTime": 1700955235034,
   "stagingPath": "C:\\Users\\Bo\\AppData\\Roaming\\Vortex\\stardewvalley\\mods",
   "targetPath": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods",
   "files": [
@@ -70806,6 +70806,294 @@
       "source": "Medieval DNT-10908-1-1-1693686204",
       "target": "",
       "time": 1643717167000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\bladetail_sturgeon_new.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1651410895000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\caped_tree_frog.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1608700674000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\caped_tree_frog_new.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1651411255000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\cardia_septal_jellyfish_new.Png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1651412057000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\cardia_septal_jellyfish.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1608701006000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\config.json",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1651430043000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\crimson_spiked_clam.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1608883422000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\content.json",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1651430013000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\cutthroat_trout.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1643779076000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\crimson_spiked_clam_new.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1651426266000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\deep_ridge_angler.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1643779284000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\fairytale_lionfish_new.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1651427308000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\fixer_eel.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1608702452000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\fairytale_lionfish.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1611350191000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\fixer_eel_new.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1651427751000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\golden_rose_fin_new.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1651428279000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\golden_rose_fin.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1608705626000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\harvester_trout.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1608705946000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\harvester_trout_new.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1651428482000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\lullaby_carp.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1611349705000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\lullaby_carp_new.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1651428642000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\mountain_redbelly_dace.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1643779304000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\mountain_whitefish.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1643779322000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\pebble_back_crab_new.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1651411712000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\manifest.json",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1651428835000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\pebble_back_crab.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1608880982000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\ridgeside_bass.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1643779346000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\ridge_bluegill.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1643779334000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\sockeye_salmon.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1643779409000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\skulpin_fish.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1643779395000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\bladetail_sturgeon.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1608700334000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\waterfall_snakehead.png",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1643779423000
+    },
+    {
+      "relPath": "BetterJunimosForestry\\manifest.json",
+      "source": "Better Junimos Forestry-8992-1-0-7-1650711219",
+      "target": "",
+      "time": 1650742586000
+    },
+    {
+      "relPath": "BetterJunimosForestry\\BetterJunimosForestry.pdb",
+      "source": "Better Junimos Forestry-8992-1-0-7-1650711219",
+      "target": "",
+      "time": 1650742586000
+    },
+    {
+      "relPath": "BetterJunimosForestry\\assets\\icons.png",
+      "source": "Better Junimos Forestry-8992-1-0-7-1650711219",
+      "target": "",
+      "time": 1650742586000
+    },
+    {
+      "relPath": "BetterJunimosForestry\\BetterJunimosForestry.dll",
+      "source": "Better Junimos Forestry-8992-1-0-7-1650711219",
+      "target": "",
+      "time": 1650742586000
+    },
+    {
+      "relPath": "BetterJunimosForestry\\assets\\scroll.png",
+      "source": "Better Junimos Forestry-8992-1-0-7-1650711219",
+      "target": "",
+      "time": 1650742586000
+    },
+    {
+      "relPath": "BetterJunimosForestry\\assets\\scroll2.png",
+      "source": "Better Junimos Forestry-8992-1-0-7-1650711219",
+      "target": "",
+      "time": 1650742586000
+    },
+    {
+      "relPath": "[CP] Cozy Farmhouse Kitchen\\content.json",
+      "source": "Cozy Farmhouse Kitchen-10473-1-2-2-1680122559",
+      "target": "",
+      "time": 1680075482000
+    },
+    {
+      "relPath": "[CP] Cozy Farmhouse Kitchen\\manifest.json",
+      "source": "Cozy Farmhouse Kitchen-10473-1-2-2-1680122559",
+      "target": "",
+      "time": 1680075758000
+    },
+    {
+      "relPath": "[CP] Cozy Farmhouse Kitchen\\config.json",
+      "source": "Cozy Farmhouse Kitchen-10473-1-2-2-1680122559",
+      "target": "",
+      "time": 1680075548000
+    },
+    {
+      "relPath": "[CP] Cozy Farmhouse Kitchen\\assets\\farmhouse_tiles_darkI.png",
+      "source": "Cozy Farmhouse Kitchen-10473-1-2-2-1680122559",
+      "target": "",
+      "time": 1680074384000
+    },
+    {
+      "relPath": "[CP] Cozy Farmhouse Kitchen\\assets\\farmhouse_tiles_darkII.png",
+      "source": "Cozy Farmhouse Kitchen-10473-1-2-2-1680122559",
+      "target": "",
+      "time": 1680074384000
+    },
+    {
+      "relPath": "[CP] Cozy Farmhouse Kitchen\\assets\\farmhouse_tiles_lightII.png",
+      "source": "Cozy Farmhouse Kitchen-10473-1-2-2-1680122559",
+      "target": "",
+      "time": 1680074384000
+    },
+    {
+      "relPath": "[CP] Cozy Farmhouse Kitchen\\assets\\farmhouse_tiles_lightI.png",
+      "source": "Cozy Farmhouse Kitchen-10473-1-2-2-1680122559",
+      "target": "",
+      "time": 1680074384000
+    },
+    {
+      "relPath": "[CP] Cozy Farmhouse Kitchen\\assets\\OpenFridge.png",
+      "source": "Cozy Farmhouse Kitchen-10473-1-2-2-1680122559",
+      "target": "",
+      "time": 1680074384000
+    },
+    {
+      "relPath": "[CP] Cozy Farmhouse Kitchen\\assets\\farmhouse_tiles_darkIII.png",
+      "source": "Cozy Farmhouse Kitchen-10473-1-2-2-1680122559",
+      "target": "",
+      "time": 1680074384000
+    },
+    {
+      "relPath": "[CP] Cozy Farmhouse Kitchen\\assets\\farmhouse_tiles_lightIII.png",
+      "source": "Cozy Farmhouse Kitchen-10473-1-2-2-1680122559",
+      "target": "",
+      "time": 1680074384000
     }
   ]
 }
