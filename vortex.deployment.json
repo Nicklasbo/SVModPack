@@ -3,7 +3,7 @@
   "version": 1,
   "deploymentMethod": "hardlink_activator",
   "gameId": "stardewvalley",
-  "deploymentTime": 1700952485681,
+  "deploymentTime": 1700954625010,
   "stagingPath": "C:\\Users\\Bo\\AppData\\Roaming\\Vortex\\stardewvalley\\mods",
   "targetPath": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods",
   "files": [
@@ -68522,24 +68522,6 @@
       "time": 1587467387000
     },
     {
-      "relPath": "CustomWallsAndFloorsRedux\\manifest.json",
-      "source": "Custom Walls And Floors Redux-3010-2-1-7-1582201131",
-      "target": "",
-      "time": 1582200762000
-    },
-    {
-      "relPath": "CustomWallsAndFloorsRedux\\CustomWallsAndFloorsRedux.pdb",
-      "source": "Custom Walls And Floors Redux-3010-2-1-7-1582201131",
-      "target": "",
-      "time": 1582200762000
-    },
-    {
-      "relPath": "CustomWallsAndFloorsRedux\\CustomWallsAndFloorsRedux.dll",
-      "source": "Custom Walls And Floors Redux-3010-2-1-7-1582201131",
-      "target": "",
-      "time": 1582200762000
-    },
-    {
       "relPath": "catGifts\\config.json",
       "source": "catGifts-v-1-2-0-2132-1-2-0-1648317202",
       "target": "",
@@ -70044,6 +70026,786 @@
       "source": "More Rings 1.2.3-2054-1-2-3-1642054358",
       "target": "",
       "time": 1642027502000
+    },
+    {
+      "relPath": "IndustrialFurnace\\IndustrialFurnace.pdb",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "IndustrialFurnace\\manifest.json",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "IndustrialFurnace\\IndustrialFurnace.dll",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "IndustrialFurnace\\i18n\\ja.json",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "IndustrialFurnace\\i18n\\ru.json",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "IndustrialFurnace\\i18n\\es.json",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "IndustrialFurnace\\assets\\IndustrialFurnaceBlueprint.json",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "IndustrialFurnace\\i18n\\zh.json",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "IndustrialFurnace\\i18n\\hu.json",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "IndustrialFurnace\\assets\\IndustrialFurnaceOff.png",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "IndustrialFurnace\\i18n\\default.json",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "IndustrialFurnace\\assets\\IndustrialFurnaceOn.png",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "IndustrialFurnace\\assets\\README using custom animations or seasonal textures.txt",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "IndustrialFurnace\\assets\\SmokeAnimation.json",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "IndustrialFurnace\\assets\\SmeltingRules.json",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "IndustrialFurnace\\i18n\\de.json",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "IndustrialFurnace\\assets\\FireAnimation.json",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1652198112000
+    },
+    {
+      "relPath": "ImmersiveScarecrows\\manifest.json",
+      "source": "Immersive Scarecrows-15290-0-5-0-1696898921",
+      "target": "",
+      "time": 1696880858000
+    },
+    {
+      "relPath": "ImmersiveScarecrows\\ImmersiveScarecrows.pdb",
+      "source": "Immersive Scarecrows-15290-0-5-0-1696898921",
+      "target": "",
+      "time": 1696880858000
+    },
+    {
+      "relPath": "ImmersiveScarecrows\\ImmersiveScarecrows.dll",
+      "source": "Immersive Scarecrows-15290-0-5-0-1696898921",
+      "target": "",
+      "time": 1696880858000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\manifest.json",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693686043000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\DNEarthyRecolour\\1_summer.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643716925000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\DNEarthyRecolour\\1_spring.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643716925000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\DNEarthyRecolour\\2_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643716925000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\indoor_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693646854000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\cave_daisyextras_overlay.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693647212000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\desert_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693647032000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\wood.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693646936000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\stone.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693646901000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\DNEarthyRecolour\\2_spring.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643716925000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\DNEarthyRecolour\\2_summer.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643716925000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\DNEarthyRecolour\\1_winter.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643716925000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\DNEarthyRecolour\\2_winter.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643716925000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\DNEarthyRecolour\\summer_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648620000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\DNEarthyRecolour\\spring_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648566000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\DNEarthyRecolour\\fall_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648970000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\DNEarthyRecolour\\winter_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648743000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\1_winter.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717167000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\1_summer.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717167000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\2_summer.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717167000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\2_spring.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717167000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\spring_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648567000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\summer_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648620000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\winter_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648743000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\2_winter.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717167000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\FoliageRedone\\1_spring.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717543000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\2\\2_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717166000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\1\\2_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717167000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\1\\summer_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648620000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\1\\fall_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648970000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\2\\fall_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648969000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\1\\spring_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648567000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\1\\winter_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648743000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\2\\spring_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648567000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\2\\summer_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648620000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\FoliageRedone\\1_winter.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717543000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\FoliageRedone\\1_summer.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717543000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\FoliageRedone\\2_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717543000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\2\\winter_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648743000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\FoliageRedone\\2_spring.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717543000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\FoliageRedone\\2_summer.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717543000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\FoliageRedone\\2_winter.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717543000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\FoliageRedone\\fall_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648970000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\FoliageRedone\\spring_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648567000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\FoliageRedone\\summer_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648619000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\FoliageRedone\\winter_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648743000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Starblue\\1_spring.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717614000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Starblue\\1_summer.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717614000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Starblue\\2_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717614000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Starblue\\1_winter.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717614000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Starblue\\2_spring.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717614000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Starblue\\2_summer.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717614000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Starblue\\2_winter.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717614000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Starblue\\fall_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648970000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Starblue\\spring_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648567000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Starblue\\summer_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648619000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Starblue\\winter_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648743000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Vanilla\\1_summer.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717928000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Vanilla\\1_spring.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717928000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Vanilla\\2_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717928000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Vanilla\\1_winter.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717928000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Vanilla\\2_spring.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717928000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Vanilla\\2_summer.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717928000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Vanilla\\2_winter.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717928000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Vanilla\\fall_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648970000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Vanilla\\spring_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648567000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Vanilla\\winter_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648743000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Vanilla\\summer_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648619000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\1_winter.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717336000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\1_summer.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717336000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\2_spring.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717336000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\2_summer.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717336000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\2_winter.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717336000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\summer_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648619000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\spring_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648566000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\winter_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648743000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\1\\2_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717336000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\1\\spring_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648566000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\1\\fall_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648970000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\2\\2_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717336000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\WittilyNamed\\1_spring.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643718009000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\1\\winter_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648743000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\1\\summer_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648619000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\2\\fall_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648969000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\2\\summer_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648619000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\2\\spring_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648566000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\2\\winter_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648743000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\content.json",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693677932000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\cave_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693647252000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\DNEarthyRecolour\\1_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643716925000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\WittilyNamed\\summer_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648619000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\WittilyNamed\\winter_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648743000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\WittilyNamed\\spring_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648566000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\1_spring.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717167000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\WittilyNamed\\2_winter.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643718009000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\WittilyNamed\\fall_daisyextras.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1693648969000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\WittilyNamed\\2_summer.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643718009000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\1\\1_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717167000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\WittilyNamed\\2_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643718009000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\WittilyNamed\\1_winter.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643718009000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\WittilyNamed\\2_spring.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643718009000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\WittilyNamed\\1_summer.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643718009000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Starblue\\1_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717614000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\FoliageRedone\\1_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717543000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\2\\1_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717336000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Vanilla\\1_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717928000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\WittilyNamed\\1_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643718009000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\1_spring.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717336000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\VibrantPastoral\\1\\1_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717336000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\assets\\Eemie's\\2\\1_fall.png",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1643717167000
     }
   ]
 }
