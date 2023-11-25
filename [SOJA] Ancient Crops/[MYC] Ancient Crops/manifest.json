@@ -1,0 +1,10 @@
+﻿{
+  "Name": "[MYC] Ancient Crops",
+  "Author": "Trent XV",
+  "Version": "1.0",
+  "Description": "Adds rules for Ancient Flower to allow it to produce seeds.",
+  "UniqueID": "MYC.AncientCrops",
+  "ContentPackFor": {
+	"UniqueID": "Cherry.MultiYieldCrops",
+  },
+}

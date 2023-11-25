@@ -1,0 +1,131 @@
+{
+  "Id": "AirynYri.GardenStatue.SF_EnchantedDeityStatue",
+  "Name": "Enchanted Deity Statue",
+  "Description": "A classical statue of a beloved ridge deity. It's been enchanted to give a foraging blessing.",
+  "DrawShadow": false,
+  "FadeWhenBehind": true,
+
+  "Builder": "Wizard",
+  "BuildingToUpgrade": "AirynYri.GardenStatue.SF_ClassicalGardenStatue",
+  "MagicalConstruction": false,
+  "BuildDays": 1,
+
+  "Size": 
+  {
+    "X": 3,
+    "Y": 2
+  },
+  "CollisionMap": "OXO\nOXO",
+  
+  "BuildCost": 1000,
+  "BuildMaterials": 
+  [
+    {
+      "ItemID": 768,
+      "Amount": 2
+    },
+    {
+      "ItemID": 769,
+      "Amount": 2
+    }
+  ],
+
+  "ActionTiles": 
+  [
+    {
+      "Tile": 
+      {
+        "X": 2,
+        "Y": 8
+      }
+    }
+  ],
+
+  "DefaultSpecialAction": 
+  {
+    "ModifyBuff": 
+    {
+      "Buff": "Foraging",
+      "Description": "The enchanted deity statue is blessing you.",
+      "Level": 2,
+      "DurationInMilliseconds": 180000
+    },
+    "PlaySound": 
+    {
+      "Sound": "yoba",
+      "Pitch": 1000,
+      "MinPitchRandomness": -500,
+      "MaxPitchRandomness": 500,
+      "Volume": 0.8,
+      "AmbientSettings": 
+      {
+        "Source": "0, 0",
+        "MaxDistance": 1024
+      }
+    }
+  },
+  
+  "Skins": 
+  [
+    {
+      "ID": "SeasonalFoliage",
+      "Name": "Foliage",
+      "Description": "A classical deity statue with foliage growing over it.",
+      "Texture": "RSVStatue_Seasonal"
+    },
+    {
+      "ID": "PinkFlowers",
+      "Name": "Pink Flowers",
+      "Description": "A classical deity statue with pink flowers growing over it.",
+      "Texture": "RSVStatue_Pink"
+    },
+    {
+      "ID": "RedFlowers",
+      "Name": "Red Flowers",
+      "Description": "A classical deity statue with red flowers growing over it.",
+      "Texture": "RSVStatue_Red"
+    },
+    {
+      "ID": "OrangeFlowers",
+      "Name": "Orange Flowers",
+      "Description": "A classical deity statue with orange flowers growing over it.",
+      "Texture": "RSVStatue_Orange"
+    },
+    {
+      "ID": "YellowFlowers",
+      "Name": "Yellow Flowers",
+      "Description": "A classical deity statue with yellow flowers growing over it.",
+      "Texture": "RSVStatue_Yellow"
+    },
+    {
+      "ID": "AzureFlowers",
+      "Name": "Azure Flowers",
+      "Description": "A classical deity statue with azure flowers growing over it.",
+      "Texture": "RSVStatue_Azure"
+    },
+    {
+      "ID": "BlueFlowers",
+      "Name": "Blue Flowers",
+      "Description": "A classical deity statue with blue flowers growing over it.",
+      "Texture": "RSVStatue_Blue"
+    },
+    {
+      "ID": "IndigoFlowers",
+      "Name": "Indigo Flowers",
+      "Description": "A classical deity statue with indigo flowers growing over it.",
+      "Texture": "RSVStatue_Indigo"
+    },
+    {
+      "ID": "PurpleFlowers",
+      "Name": "Purple Flowers",
+      "Description": "A classical deity statue with purple flowers growing over it.",
+      "Texture": "RSVStatue_Purple"
+    },
+    {
+      "ID": "WhiteFlowers",
+      "Name": "White Flowers",
+      "Description": "A classical deity statue with white flowers growing over it.",
+      "Texture": "RSVStatue_White"
+    }
+  ]
+}

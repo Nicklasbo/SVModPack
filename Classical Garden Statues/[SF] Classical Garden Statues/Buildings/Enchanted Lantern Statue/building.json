@@ -1,0 +1,131 @@
+{
+  "Id": "AirynYri.GardenStatue.SF_EnchantedLanternStatue",
+  "Name": "Enchanted Lantern Statue",
+  "Description": "A classical statue of a vigilant lighthouse lamplighter. It's been enchanted to give a magnetism blessing.",
+  "DrawShadow": false,
+  "FadeWhenBehind": true,
+
+  "Builder": "Wizard",
+  "BuildingToUpgrade": "AirynYri.GardenStatue.SF_ClassicalGardenStatue",
+  "MagicalConstruction": false,
+  "BuildDays": 1,
+
+  "Size": 
+  {
+    "X": 3,
+    "Y": 2
+  },
+  "CollisionMap": "OXO\nOXO",
+  
+  "BuildCost": 1000,
+  "BuildMaterials": 
+  [
+    {
+      "ItemID": 768,
+      "Amount": 2
+    },
+    {
+      "ItemID": 769,
+      "Amount": 2
+    }
+  ],
+
+  "ActionTiles": 
+  [
+    {
+      "Tile": 
+      {
+        "X": 2,
+        "Y": 8
+      }
+    }
+  ],
+
+  "DefaultSpecialAction": 
+  {
+    "ModifyBuff": 
+    {
+      "Buff": "MagneticRadius",
+      "Description": "The enchanted lantern statue is blessing you.",
+      "Level": 2,
+      "DurationInMilliseconds": 180000
+    },
+    "PlaySound": 
+    {
+      "Sound": "yoba",
+      "Pitch": 1000,
+      "MinPitchRandomness": -500,
+      "MaxPitchRandomness": 500,
+      "Volume": 0.8,
+      "AmbientSettings": 
+      {
+        "Source": "0, 0",
+        "MaxDistance": 1024
+      }
+    }
+  },
+  
+  "Skins": 
+  [
+    {
+      "ID": "SeasonalFoliage",
+      "Name": "Foliage",
+      "Description": "A classical lantern statue with foliage growing over it.",
+      "Texture": "ScarpStatue_Seasonal"
+    },
+    {
+      "ID": "PinkFlowers",
+      "Name": "Pink Flowers",
+      "Description": "A classical lantern statue with pink flowers growing over it.",
+      "Texture": "ScarpStatue_Pink"
+    },
+    {
+      "ID": "RedFlowers",
+      "Name": "Red Flowers",
+      "Description": "A classical lantern statue with red flowers growing over it.",
+      "Texture": "ScarpStatue_Red"
+    },
+    {
+      "ID": "OrangeFlowers",
+      "Name": "Orange Flowers",
+      "Description": "A classical lantern statue with orange flowers growing over it.",
+      "Texture": "ScarpStatue_Orange"
+    },
+    {
+      "ID": "YellowFlowers",
+      "Name": "Yellow Flowers",
+      "Description": "A classical lantern statue with yellow flowers growing over it.",
+      "Texture": "ScarpStatue_Yellow"
+    },
+    {
+      "ID": "AzureFlowers",
+      "Name": "Azure Flowers",
+      "Description": "A classical lantern statue with azure flowers growing over it.",
+      "Texture": "ScarpStatue_Azure"
+    },
+    {
+      "ID": "BlueFlowers",
+      "Name": "Blue Flowers",
+      "Description": "A classical lantern statue with blue flowers growing over it.",
+      "Texture": "ScarpStatue_Blue"
+    },
+    {
+      "ID": "IndigoFlowers",
+      "Name": "Indigo Flowers",
+      "Description": "A classical lantern statue with indigo flowers growing over it.",
+      "Texture": "ScarpStatue_Indigo"
+    },
+    {
+      "ID": "PurpleFlowers",
+      "Name": "Purple Flowers",
+      "Description": "A classical lantern statue with purple flowers growing over it.",
+      "Texture": "ScarpStatue_Purple"
+    },
+    {
+      "ID": "WhiteFlowers",
+      "Name": "White Flowers",
+      "Description": "A classical lantern statue with white flowers growing over it.",
+      "Texture": "ScarpStatue_White"
+    }
+  ]
+}

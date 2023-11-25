@@ -1,0 +1,17 @@
+﻿{
+	"Name": "[PFM] Ancient Crops - Artisan Valley Add-on",
+	"Author": "Project Populate Json Assets",
+	"Version": "2.1.3",
+	"Description": "Adds producing rules for Ancient Crops products to Artisan Valley machines.",
+	"UniqueID": "SOJA.AncientCropsAddOn",
+	"MinimumApiVersion": "3.6.0",
+	"Dependencies": [
+		{
+      "UniqueID": "SOJA.artisanvalleyPFM",
+      "IsRequired": false,
+   },
+	],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.ProducerFrameworkMod"
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "Name": "Rustic Country Walls and Floors (CWF)",
+  "Author": "DustBeauty",
+  "Version": "1.0",
+  "Description": "CWF version",
+  "UniqueID": "CWF.RusticCountryWallsandFloors",
+  "UpdateKeys": ["Nexus:5857"],
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.CustomWallsAndFloors",
+  }
+}

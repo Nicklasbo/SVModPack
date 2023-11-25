@@ -1,0 +1,131 @@
+{
+  "Id": "AirynYri.GardenStatue.SF_EnchantedModernStatue",
+  "Name": "Enchanted Modern Statue",
+  "Description": "A classical statue of a proud modern woman. It's been enchanted to give a speed blessing.",
+  "DrawShadow": false,
+  "FadeWhenBehind": true,
+
+  "Builder": "Wizard",
+  "BuildingToUpgrade": "AirynYri.GardenStatue.SF_ClassicalGardenStatue",
+  "MagicalConstruction": false,
+  "BuildDays": 1,
+
+  "Size": 
+  {
+    "X": 3,
+    "Y": 2
+  },
+  "CollisionMap": "OXO\nOXO",
+  
+  "BuildCost": 1000,
+  "BuildMaterials": 
+  [
+    {
+      "ItemID": 768,
+      "Amount": 2
+    },
+    {
+      "ItemID": 769,
+      "Amount": 2
+    }
+  ],
+
+  "ActionTiles": 
+  [
+    {
+      "Tile": 
+      {
+        "X": 2,
+        "Y": 8
+      }
+    }
+  ],
+
+  "DefaultSpecialAction": 
+  {
+    "ModifyBuff": 
+    {
+      "Buff": "Speed",
+      "Description": "The enchanted modern statue is blessing you.",
+      "Level": 2,
+      "DurationInMilliseconds": 180000
+    },
+    "PlaySound": 
+    {
+      "Sound": "yoba",
+      "Pitch": 1000,
+      "MinPitchRandomness": -500,
+      "MaxPitchRandomness": 500,
+      "Volume": 0.8,
+      "AmbientSettings": 
+      {
+        "Source": "0, 0",
+        "MaxDistance": 1024
+      }
+    }
+  },
+  
+  "Skins": 
+  [
+    {
+      "ID": "SeasonalFoliage",
+      "Name": "Foliage",
+      "Description": "A classical modern statue with foliage growing over it.",
+      "Texture": "DTZStatue_Seasonal"
+    },
+    {
+      "ID": "PinkFlowers",
+      "Name": "Pink Flowers",
+      "Description": "A classical modern statue with pink flowers growing over it.",
+      "Texture": "DTZStatue_Pink"
+    },
+    {
+      "ID": "RedFlowers",
+      "Name": "Red Flowers",
+      "Description": "A classical modern statue with red flowers growing over it.",
+      "Texture": "DTZStatue_Red"
+    },
+    {
+      "ID": "OrangeFlowers",
+      "Name": "Orange Flowers",
+      "Description": "A classical modern statue with orange flowers growing over it.",
+      "Texture": "DTZStatue_Orange"
+    },
+    {
+      "ID": "YellowFlowers",
+      "Name": "Yellow Flowers",
+      "Description": "A classical modern statue with yellow flowers growing over it.",
+      "Texture": "DTZStatue_Yellow"
+    },
+    {
+      "ID": "AzureFlowers",
+      "Name": "Azure Flowers",
+      "Description": "A classical modern statue with azure flowers growing over it.",
+      "Texture": "DTZStatue_Azure"
+    },
+    {
+      "ID": "BlueFlowers",
+      "Name": "Blue Flowers",
+      "Description": "A classical modern statue with blue flowers growing over it.",
+      "Texture": "DTZStatue_Blue"
+    },
+    {
+      "ID": "IndigoFlowers",
+      "Name": "Indigo Flowers",
+      "Description": "A classical modern statue with indigo flowers growing over it.",
+      "Texture": "DTZStatue_Indigo"
+    },
+    {
+      "ID": "PurpleFlowers",
+      "Name": "Purple Flowers",
+      "Description": "A classical modern statue with purple flowers growing over it.",
+      "Texture": "DTZStatue_Purple"
+    },
+    {
+      "ID": "WhiteFlowers",
+      "Name": "White Flowers",
+      "Description": "A classical modern statue with white flowers growing over it.",
+      "Texture": "DTZStatue_White"
+    }
+  ]
+}

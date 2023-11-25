@@ -1,0 +1,83 @@
+{
+  "Id": "AirynYri.GardenStatue.SF_ClassicalGardenStatue",
+  "Name": "Classical Garden Statue",
+  "Description": "A beautiful stone garden statue in a classical style.",
+  "DrawShadow": false,
+  "FadeWhenBehind": true,
+  
+  "Builder": "Robin",
+
+  "Size": 
+  {
+    "X": 3,
+    "Y": 2
+  },
+  "CollisionMap": "OXO\nOXO",
+  
+  "BuildCost": 1000,
+  "BuildMaterials": 
+  [
+    {
+      "ItemID": 390,
+      "Amount": 40
+    }
+  ],
+  
+  "Skins": 
+  [
+    {
+      "ID": "DeepwoodsStatue",
+      "Name": "Classical Warrior Statue",
+      "Description": "A classical statue of a courageous forest warrior.",
+      "Texture": "Deepwoods Statue"
+    },
+    {
+      "ID": "DesertStatue",
+      "Name": "Classical Desert Statue",
+      "Description": "A classical statue of an elegant desert dancer.",
+      "Texture": "Desert Statue"
+    },
+    {
+      "ID": "EarthStatue",
+      "Name": "Classical Earth Statue",
+      "Description": "A classical statue of a musical mountain faun.",
+      "Texture": "Earth Statue"
+    },
+    {
+      "ID": "FarmStatue",
+      "Name": "Classical Farm Statue",
+      "Description": "A classical statue of a prosperous wheat farmer.",
+      "Texture": "Farm Statue"
+    },
+    {
+      "ID": "IslandStatue",
+      "Name": "Classical Island Statue",
+      "Description": "A classical statue of a beautiful island mermaid.",
+      "Texture": "Island Statue"
+    },
+    {
+      "ID": "RSVStatue",
+      "Name": "Classical Deity Statue",
+      "Description": "A classical statue of a beloved ridge deity.",
+      "Texture": "RSV Statue"
+    },
+    {
+      "ID": "ESStatue",
+      "Name": "Classical Lantern Statue",
+      "Description": "A classical statue of a vigilant lighthouse lamplighter.",
+      "Texture": "Scarp Statue"
+    },
+    {
+      "ID": "WaterStatue",
+      "Name": "Classical Water Statue",
+      "Description": "A classical statue of a calm water bearer.",
+      "Texture": "Water Statue"
+    },
+    {
+      "ID": "DTZStatue",
+      "Name": "Classical Modern Statue",
+      "Description": "A classical statue of a proud modern woman.",
+      "Texture": "Zuzu Statue"
+    }
+  ]
+}

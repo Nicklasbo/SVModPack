@@ -1,0 +1,593 @@
+﻿{
+  "Format": "1.29.0",
+  "ConfigSchema": 
+  {
+    "StatueCost":
+    {
+      "AllowValues": "Default, Cheap, Expensive",
+      "Default": "Default"
+    },
+    "BuffDuration":
+    {
+      "AllowValues": "OneHour, ThreeHours, SixHours, 24Hours",
+      "Default": "ThreeHours"
+    },
+		"SeasonalFoliage": 
+		{ 
+			"AllowValues": "true, false", 
+			"Default": "false" 
+		},
+  },
+
+  "DynamicTokens": 
+  [
+    {
+      "Name": "BuffDurationToken",
+      "Value": "60000",
+      "When": 
+      {
+        "BuffDuration": "OneHour"
+      }
+    },
+    {
+      "Name": "BuffDurationToken",
+      "Value": "180000",
+      "When": 
+      {
+        "BuffDuration": "ThreeHours"
+      }
+    },
+    {
+      "Name": "BuffDurationToken",
+      "Value": "360000",
+      "When": 
+      {
+        "BuffDuration": "SixHours"
+      }
+    },
+    {
+      "Name": "BuffDurationToken",
+      "Value": "1440000",
+      "When": 
+      {
+        "BuffDuration": "24Hours"
+      }
+    }
+  ],
+
+  "Changes": 
+  [
+
+// CHEAPER STATUES
+
+    {
+      "Action": "EditData",
+      "Target": "Data/BuildingsData",
+      "Fields": 
+      {
+        "AirynYri.GardenStatue.SF_ClassicalGardenStatue": 
+        {
+          "BuildCost": 100,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 390,
+              "Amount": 5
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedDeityStatue": 
+        {
+          "BuildCost": 100,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 80,
+              "Amount": 1
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedDesertStatue": 
+        {
+          "BuildCost": 100,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 80,
+              "Amount": 1
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedEarthStatue": 
+        {
+          "BuildCost": 100,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 80,
+              "Amount": 1
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedFarmStatue": 
+        {
+          "BuildCost": 100,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 80,
+              "Amount": 1
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedIslandStatue": 
+        {
+          "BuildCost": 100,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 80,
+              "Amount": 1
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedLanternStatue": 
+        {
+          "BuildCost": 100,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 80,
+              "Amount": 1
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedModernStatue": 
+        {
+          "BuildCost": 100,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 80,
+              "Amount": 1
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedWarriorStatue": 
+        {
+          "BuildCost": 100,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 80,
+              "Amount": 1
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedWaterStatue": 
+        {
+          "BuildCost": 100,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 80,
+              "Amount": 1
+            }
+          ],
+        }
+      },
+      "When": 
+      {
+        "StatueCost": "Cheap"
+      }
+    },
+
+// EXPENSIVE STATUES
+
+    {
+      "Action": "EditData",
+      "Target": "Data/BuildingsData",
+      "Fields": 
+      {
+        "AirynYri.GardenStatue.SF_ClassicalGardenStatue": 
+        {
+          "BuildCost": 10000,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 390,
+              "Amount": 150
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedDeityStatue": 
+        {
+          "BuildCost": 10000,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 80,
+              "Amount": 1
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedDesertStatue": 
+        {
+          "BuildCost": 10000,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 768,
+              "Amount": 5
+            },
+            {
+              "ItemID": 769,
+              "Amount": 5
+            },
+            {
+              "ItemID": 80,
+              "Amount": 5
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedEarthStatue": 
+        {
+          "BuildCost": 10000,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 768,
+              "Amount": 5
+            },
+            {
+              "ItemID": 769,
+              "Amount": 5
+            },
+            {
+              "ItemID": 80,
+              "Amount": 5
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedFarmStatue": 
+        {
+          "BuildCost": 10000,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 768,
+              "Amount": 5
+            },
+            {
+              "ItemID": 769,
+              "Amount": 5
+            },
+            {
+              "ItemID": 80,
+              "Amount": 5
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedIslandStatue": 
+        {
+          "BuildCost": 10000,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 768,
+              "Amount": 5
+            },
+            {
+              "ItemID": 769,
+              "Amount": 5
+            },
+            {
+              "ItemID": 80,
+              "Amount": 5
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedLanternStatue": 
+        {
+          "BuildCost": 10000,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 768,
+              "Amount": 5
+            },
+            {
+              "ItemID": 769,
+              "Amount": 5
+            },
+            {
+              "ItemID": 80,
+              "Amount": 5
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedModernStatue": 
+        {
+          "BuildCost": 10000,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 768,
+              "Amount": 5
+            },
+            {
+              "ItemID": 769,
+              "Amount": 5
+            },
+            {
+              "ItemID": 80,
+              "Amount": 5
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedWarriorStatue": 
+        {
+          "BuildCost": 10000,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 768,
+              "Amount": 5
+            },
+            {
+              "ItemID": 769,
+              "Amount": 5
+            },
+            {
+              "ItemID": 80,
+              "Amount": 5
+            }
+          ],
+        },
+        "AirynYri.GardenStatue.SF_EnchantedWaterStatue": 
+        {
+          "BuildCost": 10000,
+          "BuildMaterials": 
+          [
+            {
+              "ItemID": 768,
+              "Amount": 5
+            },
+            {
+              "ItemID": 769,
+              "Amount": 5
+            },
+            {
+              "ItemID": 80,
+              "Amount": 5
+            }
+          ],
+        }
+      },
+      "When": 
+      {
+        "StatueCost": "Expensive"
+      }
+    },
+
+// BUFF DURATION
+
+    {
+      "Action": "EditData",
+      "Target": "Data/BuildingsData",
+      "Fields": 
+      {
+        "AirynYri.GardenStatue.SF_EnchantedDeityStatue": 
+        {
+          "DefaultSpecialAction": 
+          {
+            "ModifyBuff": 
+            {
+              "Buff": "Foraging",
+              "Description": "The enchanted deity statue is blessing you.",
+              "Level": 2,
+              "DurationInMilliseconds": "{{BuffDurationToken}}"
+            },
+          }
+        },
+        "AirynYri.GardenStatue.SF_EnchantedDesertStatue": 
+        {
+          "DefaultSpecialAction": 
+          {
+            "ModifyBuff": 
+            {
+              "Buff": "Attack",
+              "Description": "The enchanted desert statue is blessing you.",
+              "Level": 2,
+              "DurationInMilliseconds": "{{BuffDurationToken}}"
+            },
+          }
+        },
+        "AirynYri.GardenStatue.SF_EnchantedEarthStatue": 
+        {
+          "DefaultSpecialAction": 
+          {
+            "ModifyBuff": 
+            {
+              "Buff": "Mining",
+              "Description": "The enchanted earth statue is blessing you.",
+              "Level": 2,
+              "DurationInMilliseconds": "{{BuffDurationToken}}"
+            },
+          }
+        },
+        "AirynYri.GardenStatue.SF_EnchantedFarmStatue": 
+        {
+          "DefaultSpecialAction": 
+          {
+            "ModifyBuff": 
+            {
+              "Buff": "Farming",
+              "Description": "The enchanted farm statue is blessing you.",
+              "Level": 2,
+              "DurationInMilliseconds": "{{BuffDurationToken}}"
+            },
+          }
+        },
+        "AirynYri.GardenStatue.SF_EnchantedIslandStatue": 
+        {
+          "DefaultSpecialAction": 
+          {
+            "ModifyBuff": 
+            {
+              "Buff": "Luck",
+              "Description": "The enchanted island statue is blessing you.",
+              "Level": 2,
+              "DurationInMilliseconds": "{{BuffDurationToken}}"
+            },
+          }
+        },
+        "AirynYri.GardenStatue.SF_EnchantedLanternStatue": 
+        {
+          "DefaultSpecialAction": 
+          {
+            "ModifyBuff": 
+            {
+              "Buff": "MagneticRadius",
+              "Description": "The enchanted lantern statue is blessing you.",
+              "Level": 2,
+              "DurationInMilliseconds": "{{BuffDurationToken}}"
+            },
+          }
+        },
+        "AirynYri.GardenStatue.SF_EnchantedModernStatue": 
+        {
+          "DefaultSpecialAction": 
+          {
+            "ModifyBuff": 
+            {
+              "Buff": "Speed",
+              "Description": "The enchanted modern statue is blessing you.",
+              "Level": 2,
+              "DurationInMilliseconds": "{{BuffDurationToken}}"
+            },
+          }
+        },
+        "AirynYri.GardenStatue.SF_EnchantedWarriorStatue": 
+        {
+          "DefaultSpecialAction": 
+          {
+            "ModifyBuff": 
+            {
+              "Buff": "Defense",
+              "Description": "The enchanted warrior statue is blessing you.",
+              "Level": 2,
+              "DurationInMilliseconds": "{{BuffDurationToken}}"
+            },
+          }
+        },
+        "AirynYri.GardenStatue.SF_EnchantedWaterStatue": 
+        {
+          "DefaultSpecialAction": 
+          {
+            "ModifyBuff": 
+            {
+              "Buff": "Fishing",
+              "Description": "The enchanted water statue is blessing you.",
+              "Level": 2,
+              "DurationInMilliseconds": "{{BuffDurationToken}}"
+            },
+          }
+        }
+      }
+    },
+
+// SEASONAL FOLIAGE
+
+    {
+      "Action": "EditImage",
+      "Target": "{{PeacefulEnd.SolidFoundations/BuildingTexture:AirynYri.GardenStatue.SF_EnchantedDeityStatue}}",
+      "FromFile": "assets/{{season}}/RSVObelisk.png",
+      "PatchMode": "Replace",
+      "When": 
+      {
+        "SeasonalFoliage": "true"
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "{{PeacefulEnd.SolidFoundations/BuildingTexture:AirynYri.GardenStatue.SF_EnchantedDesertStatue}}",
+      "FromFile": "assets/{{season}}/DesertObelisk.png",
+      "PatchMode": "Replace",
+      "When": 
+      {
+        "SeasonalFoliage": "true"
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "{{PeacefulEnd.SolidFoundations/BuildingTexture:AirynYri.GardenStatue.SF_EnchantedEarthStatue}}",
+      "FromFile": "assets/{{season}}/EarthObelisk.png",
+      "PatchMode": "Replace",
+      "When": 
+      {
+        "SeasonalFoliage": "true"
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "{{PeacefulEnd.SolidFoundations/BuildingTexture:AirynYri.GardenStatue.SF_EnchantedFarmStatue}}",
+      "FromFile": "assets/{{season}}/FarmObelisk.png",
+      "PatchMode": "Replace",
+      "When": 
+      {
+        "SeasonalFoliage": "true"
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "{{PeacefulEnd.SolidFoundations/BuildingTexture:AirynYri.GardenStatue.SF_EnchantedIslandStatue}}",
+      "FromFile": "assets/{{season}}/IslandObelisk.png",
+      "PatchMode": "Replace",
+      "When": 
+      {
+        "SeasonalFoliage": "true"
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "{{PeacefulEnd.SolidFoundations/BuildingTexture:AirynYri.GardenStatue.SF_EnchantedLanternStatue}}",
+      "FromFile": "assets/{{season}}/ScarpObelisk.png",
+      "PatchMode": "Replace",
+      "When": 
+      {
+        "SeasonalFoliage": "true"
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "{{PeacefulEnd.SolidFoundations/BuildingTexture:AirynYri.GardenStatue.SF_EnchantedModernStatue}}",
+      "FromFile": "assets/{{season}}/ZuzuObelisk.png",
+      "PatchMode": "Replace",
+      "When": 
+      {
+        "SeasonalFoliage": "true"
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "{{PeacefulEnd.SolidFoundations/BuildingTexture:AirynYri.GardenStatue.SF_EnchantedWarriorStatue}}",
+      "FromFile": "assets/{{season}}/WoodsObelisk.png",
+      "PatchMode": "Replace",
+      "When": 
+      {
+        "SeasonalFoliage": "true"
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "{{PeacefulEnd.SolidFoundations/BuildingTexture:AirynYri.GardenStatue.SF_EnchantedWaterStatue}}",
+      "FromFile": "assets/{{season}}/WaterObelisk.png",
+      "PatchMode": "Replace",
+      "When": 
+      {
+        "SeasonalFoliage": "true"
+      }
+    },
+  ]
+}

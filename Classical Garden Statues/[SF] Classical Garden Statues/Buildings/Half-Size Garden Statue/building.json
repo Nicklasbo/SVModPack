@@ -1,0 +1,83 @@
+{
+  "Id": "AirynYri.GardenStatue.SF_HalfsizeGardenStatue",
+  "Name": "Half-Size Garden Statue",
+  "Description": "A beautiful stone garden statue in a classical style. The plinth has been removed to reduce the size.",
+  "DrawShadow": false,
+  "FadeWhenBehind": true,
+  
+  "Builder": "Robin",
+
+  "Size": 
+  {
+    "X": 3,
+    "Y": 2
+  },
+  "CollisionMap": "OXO\nOXO",
+  
+  "BuildCost": 1000,
+  "BuildMaterials": 
+  [
+    {
+      "ItemID": 390,
+      "Amount": 30
+    }
+  ],
+  
+  "Skins": 
+  [
+    {
+      "ID": "DeepwoodsStatue",
+      "Name": "Half-Size Warrior Statue",
+      "Description": "A half-size statue of a courageous forest warrior.",
+      "Texture": "Deepwoods Statue"
+    },
+    {
+      "ID": "DesertStatue",
+      "Name": "Half-Size Desert Statue",
+      "Description": "A half-size statue of an elegant desert dancer.",
+      "Texture": "Desert Statue"
+    },
+    {
+      "ID": "EarthStatue",
+      "Name": "Half-Size Earth Statue",
+      "Description": "A half-size statue of a musical mountain faun.",
+      "Texture": "Earth Statue"
+    },
+    {
+      "ID": "FarmStatue",
+      "Name": "Half-Size Farm Statue",
+      "Description": "A half-size statue of a prosperous wheat farmer.",
+      "Texture": "Farm Statue"
+    },
+    {
+      "ID": "IslandStatue",
+      "Name": "Half-Size Island Statue",
+      "Description": "A half-size statue of a beautiful island mermaid.",
+      "Texture": "Island Statue"
+    },
+    {
+      "ID": "RSVStatue",
+      "Name": "Half-Size Deity Statue",
+      "Description": "A half-size statue of a beloved ridge deity.",
+      "Texture": "RSV Statue"
+    },
+    {
+      "ID": "ESStatue",
+      "Name": "Half-Size Lantern Statue",
+      "Description": "A half-size statue of a vigilant lighthouse lamplighter.",
+      "Texture": "Scarp Statue"
+    },
+    {
+      "ID": "WaterStatue",
+      "Name": "Half-Size Water Statue",
+      "Description": "A half-size statue of a calm water bearer.",
+      "Texture": "Water Statue"
+    },
+    {
+      "ID": "DTZStatue",
+      "Name": "Half-Size Modern Statue",
+      "Description": "A half-size statue of a proud modern woman.",
+      "Texture": "Zuzu Statue"
+    }
+  ]
+}

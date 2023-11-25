@@ -67,7 +67,7 @@
       "AnimalShop": {
         "Name": "Chicken",
         "Description": "Well cared-for adult chickens lay eggs every day.",
-        "Icon": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\BetterFarmAnimalVariety\\assets\\AnimalShop\\Chicken.png",
+        "Icon": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods\\BetterFarmAnimalVariety\\assets\\AnimalShop\\Chicken.png",
         "Exclude": [
           "Void Chicken"
         ]
@@ -107,7 +107,7 @@
       "AnimalShop": {
         "Name": "Dairy Cow",
         "Description": "Adults can be milked daily. A milk pail is required to harvest the milk.",
-        "Icon": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\BetterFarmAnimalVariety\\assets\\AnimalShop\\DairyCow.png",
+        "Icon": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods\\BetterFarmAnimalVariety\\assets\\AnimalShop\\DairyCow.png",
         "Exclude": []
       }
     },
@@ -133,7 +133,7 @@
       "AnimalShop": {
         "Name": "Goat",
         "Description": "Happy adults provide goat milk every other day. A milk pail is required to harvest the milk.",
-        "Icon": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\BetterFarmAnimalVariety\\assets\\AnimalShop\\Goat.png",
+        "Icon": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods\\BetterFarmAnimalVariety\\assets\\AnimalShop\\Goat.png",
         "Exclude": []
       }
     },
@@ -159,7 +159,7 @@
       "AnimalShop": {
         "Name": "Duck",
         "Description": "Happy adults lay duck eggs every other day.",
-        "Icon": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\BetterFarmAnimalVariety\\assets\\AnimalShop\\Duck.png",
+        "Icon": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods\\BetterFarmAnimalVariety\\assets\\AnimalShop\\Duck.png",
         "Exclude": []
       }
     },
@@ -184,7 +184,7 @@
       "AnimalShop": {
         "Name": "Sheep",
         "Description": "Adults can be shorn for wool. Sheep who form a close bond with their owners can grow wool faster. A pair of shears is required to harvest the wool.",
-        "Icon": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\BetterFarmAnimalVariety\\assets\\AnimalShop\\Sheep.png",
+        "Icon": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods\\BetterFarmAnimalVariety\\assets\\AnimalShop\\Sheep.png",
         "Exclude": []
       }
     },
@@ -209,7 +209,7 @@
       "AnimalShop": {
         "Name": "Rabbit",
         "Description": "These are woolly rabbits! They shed precious wool every few days.",
-        "Icon": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\BetterFarmAnimalVariety\\assets\\AnimalShop\\Rabbit.png",
+        "Icon": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods\\BetterFarmAnimalVariety\\assets\\AnimalShop\\Rabbit.png",
         "Exclude": []
       }
     },
@@ -234,7 +234,7 @@
       "AnimalShop": {
         "Name": "Pig",
         "Description": "These pigs are trained to find truffles!",
-        "Icon": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\BetterFarmAnimalVariety\\assets\\AnimalShop\\Pig.png",
+        "Icon": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods\\BetterFarmAnimalVariety\\assets\\AnimalShop\\Pig.png",
         "Exclude": []
       }
     },
@@ -289,9 +289,9 @@
           "DeluxeProduceLuck": 0.02,
           "Localization": {},
           "Sprites": {
-            "Adult": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\Alpacas\\[BFAV] Alpaca\\assets/alpaca.png",
-            "Baby": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\Alpacas\\[BFAV] Alpaca\\assets/babyalpaca.png",
-            "ReadyForHarvest": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\Alpacas\\[BFAV] Alpaca\\assets/shearedalpaca.png"
+            "Adult": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods\\Alpacas\\[BFAV] Alpaca\\assets/alpaca.png",
+            "Baby": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods\\Alpacas\\[BFAV] Alpaca\\assets/babyalpaca.png",
+            "ReadyForHarvest": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods\\Alpacas\\[BFAV] Alpaca\\assets/shearedalpaca.png"
           },
           "Type": "Alpaca"
         }
@@ -302,7 +302,7 @@
       "AnimalShop": {
         "Name": "Alpaca",
         "Description": "These alpaca's provide soft and durable wool.",
-        "Icon": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\Alpacas\\[BFAV] Alpaca\\assets/animal_shop_alpaca.png",
+        "Icon": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods\\Alpacas\\[BFAV] Alpaca\\assets/animal_shop_alpaca.png",
         "Exclude": [
           "Void Chicken"
         ]

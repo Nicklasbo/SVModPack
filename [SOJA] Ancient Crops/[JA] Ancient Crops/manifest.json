@@ -1,0 +1,18 @@
+{
+    "Name": "Ancient Crops",
+    "Author": "6480&TrentXV",
+    "Version": "2.2.0",
+    "MinimumApiVersion": "3.6.0",
+    "Description": "Adds ancient crops to obtain and plant.",
+    "UniqueID": "SOJA.ancientcrops",
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+    "Dependencies": [
+    {
+        "UniqueID": "SOJA.AncientCropsAddOn",
+        "IsRequired": true
+    }, ],
+    "UpdateKeys": ["Nexus:4472"],
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Classical Garden Statues",
+  "Author": "Airyn & Yri",
+  "Version": "1.0.1",
+  "Description": "Airyn & Yri's classical-style garden statue obelisks as SF buildings.",
+  "UniqueID": "AirynYri.GardenStatues.SF",
+  "UpdateKeys": ["Nexus:16375"],
+  "Dependencies": [],
+  "ContentPackFor": 
+  {
+    "UniqueID": "PeacefulEnd.SolidFoundations",
+    "MinimumVersion": "1.9.2"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "Id": "AirynYri.GardenStatue.SF_EnchantedIslandStatue",
+  "Name": "Enchanted Island Statue",
+  "Description": "A classical statue of a beautiful island mermaid. It's been enchanted to give a luck blessing.",
+  "DrawShadow": false,
+  "FadeWhenBehind": true,
+
+  "Builder": "Wizard",
+  "BuildingToUpgrade": "AirynYri.GardenStatue.SF_ClassicalGardenStatue",
+  "MagicalConstruction": false,
+  "BuildDays": 1,
+
+  "Size": 
+  {
+    "X": 3,
+    "Y": 2
+  },
+  "CollisionMap": "OXO\nOXO",
+  
+  "BuildCost": 1000,
+  "BuildMaterials": 
+  [
+    {
+      "ItemID": 768,
+      "Amount": 2
+    },
+    {
+      "ItemID": 769,
+      "Amount": 2
+    }
+  ],
+
+  "ActionTiles": 
+  [
+    {
+      "Tile": 
+      {
+        "X": 2,
+        "Y": 8
+      }
+    }
+  ],
+
+  "DefaultSpecialAction": 
+  {
+    "ModifyBuff": 
+    {
+      "Buff": "Luck",
+      "Description": "The enchanted island statue is blessing you.",
+      "Level": 2,
+      "DurationInMilliseconds": 180000
+    },
+    "PlaySound": 
+    {
+      "Sound": "yoba",
+      "Pitch": 1000,
+      "MinPitchRandomness": -500,
+      "MaxPitchRandomness": 500,
+      "Volume": 0.8,
+      "AmbientSettings": 
+      {
+        "Source": "0, 0",
+        "MaxDistance": 1024
+      }
+    }
+  },
+  
+  "Skins": 
+  [
+    {
+      "ID": "SeasonalFoliage",
+      "Name": "Foliage",
+      "Description": "A classical island statue with foliage growing over it.",
+      "Texture": "IslandStatue_Seasonal"
+    },
+    {
+      "ID": "PinkFlowers",
+      "Name": "Pink Flowers",
+      "Description": "A classical island statue with pink flowers growing over it.",
+      "Texture": "IslandStatue_Pink"
+    },
+    {
+      "ID": "RedFlowers",
+      "Name": "Red Flowers",
+      "Description": "A classical island statue with red flowers growing over it.",
+      "Texture": "IslandStatue_Red"
+    },
+    {
+      "ID": "OrangeFlowers",
+      "Name": "Orange Flowers",
+      "Description": "A classical island statue with orange flowers growing over it.",
+      "Texture": "IslandStatue_Orange"
+    },
+    {
+      "ID": "YellowFlowers",
+      "Name": "Yellow Flowers",
+      "Description": "A classical island statue with yellow flowers growing over it.",
+      "Texture": "IslandStatue_Yellow"
+    },
+    {
+      "ID": "AzureFlowers",
+      "Name": "Azure Flowers",
+      "Description": "A classical island statue with azure flowers growing over it.",
+      "Texture": "IslandStatue_Azure"
+    },
+    {
+      "ID": "BlueFlowers",
+      "Name": "Blue Flowers",
+      "Description": "A classical island statue with blue flowers growing over it.",
+      "Texture": "IslandStatue_Blue"
+    },
+    {
+      "ID": "IndigoFlowers",
+      "Name": "Indigo Flowers",
+      "Description": "A classical island statue with indigo flowers growing over it.",
+      "Texture": "IslandStatue_Indigo"
+    },
+    {
+      "ID": "PurpleFlowers",
+      "Name": "Purple Flowers",
+      "Description": "A classical island statue with purple flowers growing over it.",
+      "Texture": "IslandStatue_Purple"
+    },
+    {
+      "ID": "WhiteFlowers",
+      "Name": "White Flowers",
+      "Description": "A classical island statue with white flowers growing over it.",
+      "Texture": "IslandStatue_White"
+    }
+  ]
+}
