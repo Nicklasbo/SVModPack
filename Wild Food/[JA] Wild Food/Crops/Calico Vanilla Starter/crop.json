@@ -1,0 +1,15 @@
+﻿{
+	"Name": "wf vanilla seeds",
+	"Product": "wf vanilla",
+	"SeedName": "wf vanilla seeds",
+	"SeedPrice": 215,
+	"SeedDescription": "...",	
+	"SeedTranslationKey": "vanilla-seeds",
+	"Type": "Flower",
+	"Seasons": ["summer"],
+	"Phases": [2, 2, 2, 4, 4],
+    "RegrowthPhase": 5,
+	"HarvestWithScythe": false,
+	"TrellisCrop": false,
+	"Colors": null
+}

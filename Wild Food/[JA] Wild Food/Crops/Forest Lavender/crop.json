@@ -1,0 +1,14 @@
+﻿{
+	"Name": "wf lavender seeds",
+	"Product": "wf lavender",
+	"SeedName": "wf lavender seeds",
+	"SeedPrice": 125,
+	"SeedDescription": "...",	
+	"SeedTranslationKey": "lavender-seeds",
+	"Type": "Flower",
+	"Seasons": ["spring","summer","fall"],
+	"Phases": [2, 3, 3, 3, 3],
+    "RegrowthPhase": 4,
+	"HarvestWithScythe": false,
+	"TrellisCrop": false
+}

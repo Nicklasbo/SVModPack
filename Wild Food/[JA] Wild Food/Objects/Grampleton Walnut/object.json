@@ -1,0 +1,28 @@
+{	"Name": "wf walnut",
+	"Description": "...",
+	"TranslationKey": "grampleton-walnut",
+	"Category": "Vegetable",
+	"Edibility": 55,
+	"Price": 125,
+	"IsColored": false,
+	"Recipe": null,
+	"CanPurchase": true,
+	"PurchaseFrom": "Pierre",
+	"PurchasePrice": 650,
+	"GiftTastes": {
+
+		"Love": ["Gus","Harvey","Leah","Linus"],
+		"Like": [ "Elliott", "Kent","Lewis","Marnie"],
+		"Neutral": ["Abigail","Alex", "Clint","Demetrius","Emily","Evelyn","George","Maru","Robin","Sandy","Wizard"],
+		"Dislike": ["Caroline","Dwarf","Haley", "Jodi","Pierre","Pam","Shane","Sam"],
+		"Hate": ["Jas", "Vincent", "Leo"]
+		
+	  },
+	  
+	"ContextTags": [
+		"wildflour_forage",
+		  "forage_item",
+		  "nut_item",
+		  "color_brown"
+	  ]
+}

@@ -1,0 +1,22 @@
+﻿{
+	"Name": "wf raspberry seeds",
+	"Product": "wf raspberry",
+	"SeedName": "wf raspberry seeds",
+	"SeedPrice": 125,
+	"SeedDescription": "...",	
+	"SeedTranslationKey": "raspberry-seeds",
+	"Type": "Fruit",
+	"Seasons": ["spring","summer"],
+	"Phases": [1, 2, 3, 3, 1],
+    "RegrowthPhase": 3,
+	"HarvestWithScythe": false,
+	"TrellisCrop": false,
+	"Colors": null,
+	"Bonus":
+	{
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 10,
+        "ExtraChance": 0.02,
+    },
+}

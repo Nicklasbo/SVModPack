@@ -1,0 +1,12 @@
+{
+   "Name": "Primitive Artisan Equipment",
+   "Author": "ankokou",
+   "Version": "1.3.2",
+   "Description": "Turns your artisan equipment from machines into more primitive looking crafting stations.",
+   "UniqueID": "ankokou.primitiveArtisanEquipment",
+   "MinimumApiVersion": "2.5",
+   "UpdateKeys": [ "Nexus:940", "Nexus:4005" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

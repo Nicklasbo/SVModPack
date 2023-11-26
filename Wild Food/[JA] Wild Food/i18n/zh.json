@@ -1,0 +1,226 @@
+{
+
+	//SEEDS
+
+	"vanilla-seeds.name": "卡利科香草种子",
+	"vanilla-seeds.description": "夏天种植。14天成熟，之后每五天收获一次。",
+
+	"tea-seeds.name": "芬吉尔茶树种子",
+	"tea-seeds.description": "春天、夏天和秋天种植。14天成熟，之后每四天收获一次。",
+
+	"chamomile-seeds.name": "森林洋甘菊种子",
+	"chamomile-seeds.description": "秋天种植，7天成熟。",
+
+	"lavender-seeds.name": "森林薰衣草种子",
+	"lavender-seeds.description": "春天、夏天和秋天种植。14天成熟，之后每四天收获一次。",
+
+	"jasmine-seeds.name": "姜岛茉莉种子",
+	"jasmine-seeds.description": "秋天种植，7天成熟。",
+
+	"mallow-seeds.name": "棉花糖花种子",
+	"mallow-seeds.description": "棉花糖花香甜可口，春天和夏天种植，10天成熟。",
+
+	"mint-seeds.name": "鵜鹕镇薄荷种子",
+	"mint-seeds.description": "春天、夏天和秋天种植。10天成熟，之后每三天收获一次。",
+
+	"carrot-seeds.name": "野生胡萝卜种子",
+	"carrot-seeds.description": "春天和秋天种植。7天成熟。",
+
+	"onion-seeds.name": "野生紫洋葱种子",
+	"onion-seeds.description": "春天和秋天种植。7天成熟。",
+
+	"strawberry-seeds.name": "野生草莓丛种子",
+	"strawberry-seeds.description": "春天和夏天种植。10天成熟，之后每三天收获一次。",
+
+	"raspberry-seeds.name": "野生覆盆莓丛种子",
+	"raspberry-seeds.description": "春天和夏天种植。10天成熟，之后每三天收获一次。",
+
+	//HERB SEEDS
+
+	"basil-seeds.name": "清甜香芹种子",
+	"basil-seeds.description": "春天和夏天种植。7天成熟，之后每两天收获一次。",
+	
+	"cilantro-seeds.name": "煤炭芫荽种子",
+	"cilantro-seeds.description": "春天和夏天种植。7天成熟，之后每两天收获一次。",
+	
+	"rosemary-seeds.name": "耐寒迷迭香种子",
+	"rosemary-seeds.description": "春天和秋天种植。7天成熟，之后每两天收获一次。",
+	
+	"sage-seeds.name": "煤炭鼠尾草种子",
+	"sage-seeds.description": "春天和秋天种植。7天成熟，之后每两天收获一次。",
+	
+	"thyme-seeds.name": "柠檬百里香种子",
+	"thyme-seeds.description": "春天、夏天和秋天种植。7天成熟，之后每两天收获一次。",
+	
+	// MUSHROOM STARTERS
+
+    "chick-mushroom.name":"硫磺菌菌种",
+    "chick-mushroom.description":"夏天种植。10天成熟，之后每四天收获一次。",
+
+    "honey-mushroom.name":"蜜环菌菌种",
+    "honey-mushroom.description":"春天和秋天种植。10天成熟，之后每四天收获一次。",
+
+    "meringue-mushroom.name":"蛋白霜蘑菇菌种",
+    "meringue-mushroom.description":"秋天种植。10天成熟，之后每四天收获一次。",
+
+    "milky-mushroom.name":"印度丽蘑菌种",
+    "milky-mushroom.description":"夏天和秋天种植。10天成熟，之后每四天收获一次。",
+
+    "wheat-mushroom.name":"麦仁菌菌种",
+    "wheat-mushroom.description":"春天种植。10天成熟，之后每四天收获一次。",
+	
+	
+	//HERBS
+	
+	"sweet-basil.name": "清甜香芹",
+	"sweet-basil.description": "比一般品种更甜的受欢迎香草植物，因其色彩及香味而常被用在各式传统菜肴。",
+	
+	"cindersap-cilantro.name": "煤炭芫荽",
+	"cindersap-cilantro.description": "一种野生的芫荽（也被称为香菜），常被用在香料料理或是莎莎酱。",
+	
+	"cindersap-sage.name": "煤炭鼠尾草",
+	"cindersap-sage.description": "拥有花香的娇嫩香草植物，常被用来为秋日菜肴快速增添浓郁风味。",
+	
+	"hardy-rosemary.name": "耐寒迷迭香",
+	"hardy-rosemary.description": "几乎在何处都能蓬勃生长的强壮结实香草植物；它看起来就像一棵小松树。",
+	
+	"lemon-thyme.name": "柠檬百里香",
+	"lemon-thyme.description": "在所有花园都能快速生长的受欢迎香草植物；柠檬品种因其药草及柑橘的风味而广受喜爱。",
+	
+    //TREES NEW
+    "lemon-sapling.name":"小柠檬树苗",
+    "lemon-sapling.description":"28天后成熟为小柠檬树。春天结果。只有在邻近的 8 块土地为空时才会成长。",
+    
+    "lime-sapling.name":"小莱姆树苗",
+    "lime-sapling.description":"28天后成熟为小柠檬树。春天结果。只有在邻近的 8 块土地为空时才会成长。",
+
+	//TREES
+
+	"pistachio-sapling.name": "卡利科开心果树苗",
+	"pistachio-sapling.description": "28天后成熟为卡利科开心果树。秋天结果。只有在邻近的 8 块土地为空时才会成长。",
+
+	"cinnamon-sapling.name": "煤炭肉桂树苗",
+	"cinnamon-sapling.description": "28天后成熟为煤炭肉桂树。冬天结果。只有在邻近的 8 块土地为空时才会成长。",
+
+	"olive-sapling.name": "芬恩岛橄榄树苗",
+	"olive-sapling.description": "28天后成熟为芬恩岛橄榄树。夏天结果。只有在邻近的 8 块土地为空时才会成长。",
+
+	"cashew-sapling.name": "宝石海腰果树苗",
+	"cashew-sapling.description": "28天后成熟为宝石海腰果树。秋天结果。只有在邻近的 8 块土地为空时才会成长。",
+
+	"walnut-sapling.name": "格兰普立顿核桃树苗",
+	"walnut-sapling.description": "28天后成熟为格兰普立顿核桃树。秋天结果。只有在邻近的 8 块土地为空时才会成长。",
+
+	"almond-sapling.name": "圣卡诺里杏仁树苗",
+	"almond-sapling.description": "28天后成熟为圣卡诺里杏仁树。秋天结果。只有在邻近的 8 块土地为空时才会成长。",
+
+	"cacao-sapling.name": "可可树苗",
+	"cacao-sapling.description": "28天后成熟为可可树。秋天结果。只有在邻近的 8 块土地为空时才会成长。",
+
+	//OBJECTS
+
+	//Calico Pistachio
+	"calico-pistachio.name":"卡利科开心果",
+	"calico-pistachio.description":"一种独特的开心果，只能透过在卡利科沙漠采集获得。",
+
+    //Calico Vanilla
+	"calico-vanilla.name": "卡利科香草",
+	"calico-vanilla.description": "一种独特的香草，只能透过在卡利科沙漠采集获得。",
+
+	//Cherry Blossom Petals
+	"cherry-blossom.name": "樱花瓣",
+	"cherry-blossom.description": "盛放的樱花树落下的新鲜花瓣。",
+
+	//Chicken of the Woods
+	"chicken-woods.name": "硫磺菌",
+	"chicken-woods.description": "这种蘑菇遍布世界各地，一些人认为它的味道跟鸡肉差不多，而给它「林中鸡」这个奇特的名字！",
+	
+	//Cindersap Cinnamon
+	"cindersap-cinnamon.name": "煤炭肉桂",
+	"cindersap-cinnamon.description": "一种稀有的肉桂，只能在冬天的森林找到。",
+	
+	//Fern Isle Olive
+	"fern-olive.name": "芬恩岛橄榄",
+	"fern-olive.description": "可以在热带岛屿找到的一种稀有橄榄，被熟练的采集者在芬吉尔共和国的沙滩上找到。",
+	
+	//Ferngill Tea Leaf
+	"tea-leaf.name": "芬吉尔茶叶",
+	"tea-leaf.description": "在芬吉尔共和国的森林中采集到的新鲜茶叶",
+	
+	//Forest Chamomile
+	"forest-chamomile.name": "森林洋甘菊",
+	"forest-chamomile.description": "森林深处中发现的一种娇嫩花朵，非常适合用来泡茶。",
+	
+	//Forest Lavender
+	"forest-lavender.name": "森林薰衣草",
+	"forest-lavender.description": "在森林深处中发现的一种芳香花朵。",
+
+	//Gem Isle Jasmine
+	"gem-jasmine.name": "姜岛茉莉",
+	"gem-jasmine.description": "只有在姜岛采集才能找到的美丽芬芳。",
+	
+	//Gem Sea Cashew
+	"gem-cashew.name": "宝石海腰果",
+	"gem-cashew.description": "热带地区中腰果花托上的小坚果，只能在宝石海上的小岛找到。",
+	
+	//Grampleton Walnut
+	"grampleton-walnut.name": "格兰普立顿核桃",
+	"grampleton-walnut.description": "一个被发现于生长在格兰普立顿的核桃品种，很显然它现在也生长在鵜鹕镇了！",
+
+    //Honey Fungus Mushroom
+	"honey-fungus.name": "蜜环菌",
+	"honey-fungus.description": "虽然生吃很危险，但这些蘑菇在适当烹调后会有浓郁的坚果味。",
+	
+	//Marsh Mallow
+	"marsh-mallow.name": "棉花糖花",
+	"marsh-mallow.description": "棉花糖花，主要用于制作甜点。",
+	
+	//Meringue Mushroom
+	"meringue-shroom.name": "蛋白霜蘑菇",
+	"meringue-shroom.description": "一种只有山谷中最好的采集者才能找到的甜美蘑菇，它的颜色和形状几乎跟糖果一样。",
+	
+	//Milky White Mushrooms
+	"white-shroom.name": "印度丽蘑",
+	"white-shroom.description": "这些蘑菇呈亮白色，而质地则是奶油状。",
+	
+	//Pelican Mint
+	"pelican-mint.name": "鵜鹕镇薄荷",
+	"pelican-mint.description": "一种生长在鵜鹕镇周围，无论镇民们多么努力想除掉也没办法的薄荷。",
+	
+	//Petite Lemon
+	"petite-lemon.name": "小柠檬",
+	"petite-lemon.description": "熟练的采集者在野外发现的一种娇小但味道鲜美的柠檬。",
+
+	//Petite Lime
+	"petite-lime.name": "小莱姆",
+	"petite-lime.description": "熟练的采集者在野外发现的一种娇小但味道鲜美的莱姆",
+
+	//St Cannoli Almond
+    "cannoli-almond.name": "圣卡诺里杏仁",
+	"cannoli-almond.description": "一个采集者的美梦成真了！这是最稀有的杏仁，听说是老卡诺里大师亲自栽种的。",
+	
+	//Wheatberry Mushroom
+	"wheat-shroom.name": "麦仁菌",
+	"wheat-shroom.description": "一种在业余采集者眼中平凡无奇的蘑菇，但大师们知道这种蘑菇可以成为一种重要的烹饪食材。",
+	
+	//Wild Cacao Pod
+	"wild-cacao.name": "可可豆",
+	"wild-cacao.description": "可可树结出的豆荚，用于制作可可和其他充满异国情调的佳肴。",
+	
+	//Wild Carrot
+	"wild-carrot.name": "野生胡萝卜",
+	"wild-carrot.description": "这就是个胡萝卜，但它可充满野性，所以你最好注意点！",
+	
+	//Wild Raspberry
+	"wild-raspberry.name": "野生覆盆莓",
+	"wild-raspberry.description": "一种又小又甜的莓果，生长在芬吉尔各地的森林中。",
+	
+	//Wild Red Onion
+	"wild-onion.name": "野生紫洋葱",
+	"wild-onion.description": "就像野生胡萝卜，最好小心这个洋葱，不然它可会让你哭出来！",
+	
+	//Wild Strawberry
+	"wild-strawberry.name": "野生草莓",
+	"wild-strawberry.description": "一种较小的草莓品种，生长在芬吉尔各地的森林中。"
+	
+}

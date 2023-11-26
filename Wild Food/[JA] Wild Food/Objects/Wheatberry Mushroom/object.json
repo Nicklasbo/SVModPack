@@ -1,0 +1,26 @@
+{	"Name": "wf wheatshroom",
+	"Description": "...",
+	"TranslationKey": "wheat-shroom",
+	"Category": "Vegetable",
+	"CategoryTextOverride": "Mushroom",
+	"Edibility": 7,
+	"Price": 165,
+	"IsColored": false,
+	"Recipe": null,
+	"CanPurchase": false,
+	"GiftTastes": {
+
+		"Love": ["Gus","Harvey","Leah","Linus"],
+		"Like": [ "Elliott", "Kent","Lewis","Marnie"],
+		"Neutral": ["Abigail","Alex", "Clint","Demetrius","Emily","Evelyn","George","Maru","Robin","Sandy","Wizard"],
+		"Dislike": ["Caroline","Dwarf","Haley", "Jodi","Pierre","Pam","Shane","Sam"],
+		"Hate": ["Jas", "Vincent", "Leo"]
+		
+	  },
+	"ContextTags": [
+		"wildflour_forage",
+		  "forage_item",
+		  "mushroom_item",
+		  "color_brown"
+	  ]
+}

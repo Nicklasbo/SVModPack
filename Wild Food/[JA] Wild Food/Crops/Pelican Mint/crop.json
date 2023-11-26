@@ -1,0 +1,16 @@
+﻿{
+	"Name": "wf mint seeds",
+	"Product": "wf mint",
+	"SeedName": "wf mint seeds",
+	"SeedPrice": 110,
+	"SeedDescription": "...",	
+	"SeedTranslationKey": "mint-seeds",
+	"Type": "Vegetable",
+	"Seasons": ["spring", "summer","fall"],
+	"Phases": [2, 2, 2, 2, 2],
+    "RegrowthPhase": 3,
+	"HarvestWithScythe": false,
+	"TrellisCrop": false,
+	"Colors": null
+	
+}

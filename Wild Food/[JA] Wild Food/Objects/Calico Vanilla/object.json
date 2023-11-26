@@ -1,0 +1,30 @@
+{	"Name": "wf vanilla",
+	"Description": "...",
+	"TranslationKey":"calico-vanilla",
+	"Category": "Flower",
+	"Edibility": 0,
+	"Price": 150,
+	"IsColored": false,
+	"Recipe": null,
+	"CanPurchase": true,
+	"PurchaseFrom": "Sandy",
+	"PurchasePrice": 450,
+	"GiftTastes": {
+
+		"Love": ["Caroline","Evelyn","Haley","Leah"],
+		"Like": ["Abigail", "Demetrius","Emily","Elliott","Gus","Jas", "Jodi","Kent", "Krobus", "Linus","Marnie","Maru","Robin","Sam","Sandy"],
+		"Neutral": ["Dwarf","Harvey","Lewis", "Vincent", "Leo","Pierre","Wizard"],
+		"Dislike": ["Alex","Pam","Shane"],
+		"Hate": ["Clint", "George", "Sebastian"]
+		
+	  },
+	  
+	"ContextTags": [
+		"wildflour_forage",
+		  "forage_item",
+		  "flower_item",
+		  "color_sand"
+	  ]
+
+	
+}

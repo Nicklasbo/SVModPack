@@ -1,0 +1,16 @@
+﻿{
+	"Name": "wf basil seeds",
+	"Product": "wf basil",
+	"SeedName": "wf basil seeds",
+	"SeedPrice": 110,
+	"SeedDescription": "...",	
+	"SeedTranslationKey": "basil-seeds",
+	"Type": "Vegetable",
+	"Seasons": ["spring", "summer"],
+	"Phases": [2, 1, 1, 1, 2],
+    "RegrowthPhase": 2,
+	"HarvestWithScythe": false,
+	"TrellisCrop": false,
+	"Colors": null
+	
+}

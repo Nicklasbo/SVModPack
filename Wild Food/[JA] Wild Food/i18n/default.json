@@ -1,0 +1,235 @@
+{
+
+	//SEEDS
+
+	"vanilla-seeds.name": "Calico Vanilla Starter",
+	"vanilla-seeds.description": "Plant in summer. Takes 14 days to grow, then can be harvested every 5 days",
+
+	"tea-seeds.name": "Ferngill Tea Bush Starter",
+	"tea-seeds.description": "Plant in spring, summer, or fall. Takes 14 days to grow and can be harvested every 4 days after.",
+
+	"chamomile-seeds.name": "Forest Chamomile Seeds",
+	"chamomile-seeds.description": "Plant in fall. Takes 7 days to grow.",
+
+	"lavender-seeds.name": "Forest Lavender Seeds",
+	"lavender-seeds.description": "Plant in spring, summer, or fall. Takes 14 days to grow and can be harvested every 4 days after.",
+
+	"jasmine-seeds.name": "Gem Isle Jasmine Seeds",
+	"jasmine-seeds.description": "Plant in summer or fall. Takes 7 days to grow.",
+
+	"mallow-seeds.name": "Marsh Mallow Seeds",
+	"mallow-seeds.description": "Fragrant and flavourful flowers, marsh mallows can be grown in Spring or Summer. Takes 10 days to mature.",
+
+	"mint-seeds.name": "Pelican Mint Seeds",
+	"mint-seeds.description": "Plant in spring, summer, or fall. Takes 10 days to grow and can be harvested every 3 days after.",
+
+	"carrot-seeds.name": "Wild Carrot Seeds",
+	"carrot-seeds.description": "Plant in spring or fall. Takes 7 days to grow.",
+
+	"onion-seeds.name": "Wild Red Onion Seeds",
+	"onion-seeds.description": "Plant in spring or fall. Takes 7 days to grow.",
+
+	"strawberry-seeds.name": "Wild Strawberry Bush",
+	"strawberry-seeds.description": "Plant in spring or summer. Takes 10 days to grow and can be harvested every 3 days after",
+
+	"raspberry-seeds.name": "Wild Raspberry Bush",
+	"raspberry-seeds.description": "Plant in spring or summer. Takes 10 days to grow and can be harvested every 3 days after",
+
+	"wormwood-seeds.name": "Wormwood Seeds",
+	"wormwood-seeds.description": "Plant in spring or fall. Takes 10 days to grow and can be harvested every 3 days after.",
+
+	//HERB SEEDS
+
+	"basil-seeds.name": "Sweet Basil Seeds",
+	"basil-seeds.description": "Plant in spring or summer. Takes 7 days to grow and can be harvested every 2 days after.",
+	
+	"cilantro-seeds.name": "Cindersap Cilantro Seeds",
+	"cilantro-seeds.description": "Plant in spring or summer. Takes 7 days to grow and can be harvested every 2 days after.",
+	
+	"rosemary-seeds.name": "Hardy Rosemary Seeds",
+	"rosemary-seeds.description": "Plant in spring or fall. Takes 7 days to grow and can be harvested every 2 days after.",
+	
+	"sage-seeds.name": "Cindersap Sage Seeds",
+	"sage-seeds.description": "Plant in spring or fall. Takes 7 days to grow and can be harvested every 2 days after.",
+	
+	"thyme-seeds.name": "Lemon Thyme Seeds",
+	"thyme-seeds.description": "Plant in spring, summer or fall. Takes 7 days to grow and can be harvested every 2 days after.",
+
+	"gentian-root.name": "Gentian Root",
+	"gentian-root.description": "A root that grows in alpine terrains and is often used as a flavoring in bitters and other beverages.",
+
+	"wormwood.name": "Wormwood",
+	"wormwood.description": "Often known for being one of the main ingredients in absinthe, this herb has a wide variety of uses.",
+
+	// MUSHROOM STARTERS
+
+    "chick-mushroom.name":"Chicken of the Woods Starter",
+    "chick-mushroom.description":"Plant in Summer. Takes 10 days to reach maturity and then can be harvested every 4 days after.",
+
+    "honey-mushroom.name":"Honey Fungus Mushroom Starter",
+    "honey-mushroom.description":"Plant in Spring or Fall. Takes 10 days to reach maturity and then can be harvested every 4 days after.",
+
+    "meringue-mushroom.name":"Meringue Mushroom Starter",
+    "meringue-mushroom.description":"Plant in Fall. Takes 10 days to reach maturity and then can be harvested every 4 days after.",
+
+    "milky-mushroom.name":"Milky White Mushroom Starter",
+    "milky-mushroom.description":"Plant in Summer or Fall. Takes 10 days to reach maturity and then can be harvested every 4 days after.",
+
+    "wheat-mushroom.name":"Wheatberry Mushroom Starter",
+    "wheat-mushroom.description":"Plant in Spring. Takes 10 days to reach maturity and then can be harvested every 4 days after.",
+	
+	//HERBS
+	
+	"sweet-basil.name": "Sweet Basil",
+	"sweet-basil.description": "A sweeter variety of the popular herb, used in various culinary traditions for both its color and flavor.",
+	
+	"cindersap-cilantro.name": "Cindersap Cilantro",
+	"cindersap-cilantro.description": "A wild variety of cilantro (also known as coriander) that is often used in spicy dishes or salsas.",
+	
+	"cindersap-sage.name": "Cindersap Sage",
+	"cindersap-sage.description": "A delicate herb with floral notes, used to cut through the rich flavor of many autumn dishes.",
+	
+	"hardy-rosemary.name": "Hardy Rosemary",
+	"hardy-rosemary.description": "A strong and sturdy herb that thrives almost anywhere; it almost resembles a small pine tree.",
+	
+	"lemon-thyme.name": "Lemon Thyme",
+	"lemon-thyme.description": "A popular herb that grows quickly in any garden; the lemon variety is prized for its herby, citrus flavor.",
+	
+	//TREES NEW
+
+	"lemon-sapling.name":"Petite Lemon Sapling",
+	"lemon-sapling.description":"Takes 28 days to produce a mature Petite Lemon tree. Bears fruit in the Spring.",
+	
+	"lime-sapling.name":"Petite Lime Sapling",
+	"lime-sapling.description":"Takes 28 days to produce a mature Petite Lime tree. Bears fruit in the Spring.",
+
+	//TREES
+
+	"pistachio-sapling.name": "Calico Pistachio Sapling",
+	"pistachio-sapling.description": "Takes 28 days to produce a mature Calico Pistachio tree. Bears fruit in the Fall.",
+
+	"cinnamon-sapling.name": "Cindersap Cinnamon Sapling",
+	"cinnamon-sapling.description": "Takes 28 days to produce a mature Cindersap Cinnamon Tree. Harvest bark in the winter",
+
+	"olive-sapling.name": "Fern Isle Olive Sapling",
+	"olive-sapling.description": "Takes 28 days to produce a mature Fern Isle Olive Tree. Bears fruit in the summer.",
+
+	"cashew-sapling.name": "Gem Sea Cashew Sapling",
+	"cashew-sapling.description": "Takes 28 days to produce a mature Gem Sea Cashew Tree. Bears fruit in the fall.",
+
+	"walnut-sapling.name": "Grampleton Walnut Sapling",
+	"walnut-sapling.description": "Takes 28 days to produce a mature Grampleton Walnut Tree. Bears fruit in the Fall.",
+
+	"almond-sapling.name": "St Cannoli Almond Sapling",
+	"almond-sapling.description": "Takes 28 days to produce a mature St Cannoli Almond tree. Bears fruit in the Fall.",
+
+	"cacao-sapling.name": "Wild Cacao Sapling",
+	"cacao-sapling.description": "Takes 28 days to produce a mature Cacao tree. Bears fruit in the Fall.",
+
+	//OBJECTS
+
+	//Calico Pistachio
+	"calico-pistachio.name":"Calico Pistachio",
+	"calico-pistachio.description":"A unique pistachio nut found only by foraging in the Calico Desert.",
+
+    //Calico Vanilla
+	"calico-vanilla.name": "Calico Vanilla",
+	"calico-vanilla.description": "A unique vanilla found only by foraging in the Calico Desert.",
+
+	//Cherry Blossom Petals
+	"cherry-blossom.name": "Cherry Blossom Petals",
+	"cherry-blossom.description": "Fresh petals from blooming cherry trees",
+
+	//Chicken of the Woods
+	"chicken-woods.name": "Chicken of the Woods",
+	"chicken-woods.description": "This strangely named mushroom is found all over the world and some argue it does indeed taste just like chicken!",
+	
+	//Cindersap Cinnamon
+	"cindersap-cinnamon.name": "Cindersap Cinnamon",
+	"cindersap-cinnamon.description": "A rare cinnamon bark that can only be found in Cindersap Forest in the winter.",
+	
+	//Fern Isle Olive
+	"fern-olive.name": "Fern Isle Olive",
+	"fern-olive.description": "A rare type of olive found on tropical islands, found by skilled foragers on beaches in the Ferngill Republic.",
+	
+	//Ferngill Tea Leaf
+	"tea-leaf.name": "Ferngill Tea Leaf",
+	"tea-leaf.description": "Fresh tea leaves found by foraging in forests in the Ferngill Republic.",
+	
+	//Forest Chamomile
+	"forest-chamomile.name": "Forest Chamomile",
+	"forest-chamomile.description": "A delicate flower found deep in the forest; perfect for making into tea.",
+	
+	//Forest Lavender
+	"forest-lavender.name": "Forest Lavender",
+	"forest-lavender.description": "A fragrant, bushy flower found deep in the forest.",
+
+	//Gem Isle Jasmine
+	"gem-jasmine.name": "Gem Isle Jasmine",
+	"gem-jasmine.description": "A beautifully fragrant found only by foraging on Ginger Island.",
+	
+	//Gem Sea Cashew
+	"gem-cashew.name": "Gem Sea Cashew",
+	"gem-cashew.description": "The nut from the tropical Cashew Apple fruit, found only on islands in the Gem Sea",
+	
+	//Grampleton Walnut
+	"grampleton-walnut.name": "Grampleton Walnut",
+	"grampleton-walnut.description": "A cultivar of walnut found to grow locally in Grampleton, and apparently now in Pelican Town!",
+
+    //Honey Fungus Mushroom
+	"honey-fungus.name": "Honey Fungus Mushroom",
+	"honey-fungus.description": "Though dangerous to consume raw, these mushrooms have a rich, nutty taste when cooked properly.",
+	
+	//Marsh Mallow
+	"marsh-mallow.name": "Marsh Mallow",
+	"marsh-mallow.description": "Marsh Mallow flowers. Primarily used in sweet making.",
+	
+	//Meringue Mushroom
+	"meringue-shroom.name": "Meringue Mushroom",
+	"meringue-shroom.description": "A strangely sweet mushroom found only by the best foragers in the valley, its color and shape seem almost candy-like.",
+	
+	//Milky White Mushrooms
+	"white-shroom.name": "Milky White Mushrooms",
+	"white-shroom.description": "These mushrooms are bright white and have a creamy texture.",
+	
+	//Pelican Mint
+	"pelican-mint.name": "Pelican Mint",
+	"pelican-mint.description": "A type of mint that grows all around Pelican Town, no matter how much the villagers try to get rid of it.",
+	
+	//Petite Lemon
+	"petite-lemon.name": "Petite Lemon",
+	"petite-lemon.description": "A tiny, but flavorful lemon found out in the wild by skilled foragers.",
+
+	//Petite Lime
+	"petite-lime.name": "Petite Lime",
+	"petite-lime.description": "A tiny, but flavorful lime found out in the wild by skilled foragers.",
+
+	//St Cannoli Almond
+    "cannoli-almond.name": "St Cannoli Almond",
+	"cannoli-almond.description": "A forager's dream come true! The rarest of almonds, said to be grown by Old Master Cannoli himself.",
+	
+	//Wheatberry Mushroom
+	"wheat-shroom.name": "Wheatberry Mushroom",
+	"wheat-shroom.description": "An ordinary-looking mushroom to the amateur forager, masters know this fungus can be transformed into a key culinary ingredient.",
+	
+	//Wild Cacao Pod
+	"wild-cacao.name": "Wild Cacao Pod",
+	"wild-cacao.description": "Fruity, fleshy pod of the cacao tree. Used in making cocoa and exotic foods.",
+	
+	//Wild Carrot
+	"wild-carrot.name": "Wild Carrot",
+	"wild-carrot.description": "It's a carrot, but it's wild, so you better watch out!",
+	
+	//Wild Raspberry
+	"wild-raspberry.name": "Wild Raspberry",
+	"wild-raspberry.description": "A small, sweet berry that grows wild in forests all over Ferngill.",
+	
+	//Wild Red Onion
+	"wild-onion.name": "Wild Red Onion",
+	"wild-onion.description": "Much like the wild carrot, be wary of this onion or it will make you cry!",
+	
+	//Wild Strawberry
+	"wild-strawberry.name": "Wild Strawberry",
+	"wild-strawberry.description": "A smaller variety of strawberry that grows wild in forests all over Ferngill."
+	
+}

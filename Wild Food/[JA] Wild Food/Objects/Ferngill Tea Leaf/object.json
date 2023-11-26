@@ -1,0 +1,26 @@
+{	"Name": "wf tealeaf",
+	"Description": "...",
+	"TranslationKey": "tea-leaf",
+	"Category": "Vegetable",
+	"Edibility": 5,
+	"Price": 50,
+	"IsColored": false,
+	"Recipe": null,
+	"CanPurchase": true,
+	"PurchaseFrom": "Gus",
+	"PurchasePrice": 150,
+	"GiftTastes": {
+
+		"Love": ["Gus","Harvey","Leah","Linus"],
+		"Like": [ "Elliott", "Kent","Lewis","Marnie"],
+		"Neutral": ["Abigail","Alex", "Clint","Demetrius","Emily","Evelyn","George","Maru","Robin","Sandy","Wizard"],
+		"Dislike": ["Caroline","Dwarf","Haley", "Jodi","Pierre","Pam","Shane","Sam"],
+		"Hate": ["Jas", "Vincent", "Leo"]
+		
+	  },
+	"ContextTags": [
+		"wildflour_forage",
+		  "forage_item",
+		  "color_green"
+	  ]
+}

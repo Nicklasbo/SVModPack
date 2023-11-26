@@ -1,0 +1,22 @@
+﻿{
+	"Name": "wf honeyfungus seeds",
+	"Product": "wf honeyfungus",
+	"SeedName": "wf honeyfungus seeds",
+	"SeedPrice": 125,
+	"SeedDescription": "...",	
+	"SeedTranslationKey": "honey-mushroom",
+	"Type": "Vegetable",
+	"Seasons": ["spring","fall"],
+	"Phases": [1, 2, 3, 3, 1],
+    "RegrowthPhase": 4,
+	"HarvestWithScythe": false,
+	"TrellisCrop": false,
+	"Colors": null,
+	"Bonus":
+	{
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 10,
+        "ExtraChance": 0.4,
+    },
+}

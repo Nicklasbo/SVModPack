@@ -1,0 +1,22 @@
+﻿{
+	"Name": "wf wormwood seeds",
+	"Product": "wf wormwood",
+	"SeedName": "wf wormwood seeds",
+	"SeedPrice": 125,
+	"SeedDescription": "...",	
+	"SeedTranslationKey": "wormwood-seeds",
+	"Type": "Greens",
+	"Seasons": ["spring","fall"],
+	"Phases": [1, 2, 3, 3, 1],
+    "RegrowthPhase": 3,
+	"HarvestWithScythe": false,
+	"TrellisCrop": false,
+	"Colors": null,
+	"Bonus":
+	{
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 10,
+        "ExtraChance": 0.02,
+    },
+}

@@ -1,0 +1,25 @@
+{
+    "Name": "wf cacaopod",
+    "Description": "...",
+    "TranslationKey": "wild-cacao",
+	"Category": "Fruit",
+    "Edibility": 75, 
+    "Price": 120,
+    "IsColored": false,
+    "Recipe": null,
+	"DisableWithMod": "callysquared marshmallows",
+    "GiftTastes": {
+
+		"Love": ["Caroline","Elliott","Evelyn","Gus","Linus"],
+		"Like": ["Abigail", "Demetrius","Emily", "Haley","Jas","Jodi","Kent","Krobus","Leah","Marnie","Maru","Robin","Sam","Sandy"],
+		"Neutral": ["Alex","Dwarf","Harvey","Leo","Lewis","Pam","Pierre","Shane","Vincent","Wizard"],
+	
+	  },
+	  
+	"ContextTags": [
+		"wildflour_forage",
+		  "forage_item",
+		  "fruit_item",
+		  "color_dark_brown"
+	  ]
+}

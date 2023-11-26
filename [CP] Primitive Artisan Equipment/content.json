@@ -1,0 +1,185 @@
+{
+    "Format": "1.8",
+	"ConfigSchema":{
+		"wormbin":{
+			"AllowValues":"enabled,disabled",
+			"Default":"enabled"
+		},
+		"kiln":{
+			"AllowValues":"enabled,disabled",
+			"Default":"enabled"
+		},
+		"heater":{
+			"AllowValues":"enabled,disabled",
+			"Default":"enabled"
+		},
+		"mayomachine":{
+			"AllowValues":"enabled,disabled",
+			"Default":"enabled"
+		},
+		"seedmaker":{
+			"AllowValues":"enabled,disabled",
+			"Default":"enabled"
+		},
+		"cheesepress":{
+			"AllowValues":"enabled,disabled",
+			"Default":"enabled"
+		},
+		"loom":{
+			"AllowValues":"enabled,disabled",
+			"Default":"enabled"
+		},
+		"oilpress":{
+			"AllowValues":"default,classic,disabled",
+			"Default":"default"
+		},
+		"recycler":{
+			"AllowValues":"enabled,disabled",
+			"Default":"enabled"
+		},
+		"crystallarium":{
+			"AllowValues":"enabled,disabled",
+			"Default":"enabled"
+		},
+		"furnace":{
+			"AllowValues":"enabled,disabled",
+			"Default":"enabled"
+		},
+		"hatchery":{
+			"AllowValues":"enabled,disabled",
+			"Default":"enabled"
+		},
+	},
+    "Changes": [
+		{ //worm bin
+			"Action": "EditImage",
+			"Target": "TileSheets/Craftables",
+			"FromFile": "assets/equipment.png",
+			"FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 32 },
+			"ToArea": { "X": 32, "Y": 608, "Width": 16, "Height": 32 },
+			"When":{
+				"wormbin":"enabled"
+			}
+        },
+		{ //charcoal kiln
+			"Action": "EditImage",
+			"Target": "TileSheets/Craftables",
+			"FromFile": "assets/equipment.png",
+			"FromArea": { "X": 16, "Y": 0, "Width": 32, "Height": 32 },
+			"ToArea": { "X": 32, "Y": 448, "Width": 32, "Height": 32 },
+			"When":{
+				"kiln":"enabled"
+			}
+        },
+		{ //heater
+			"Action": "EditImage",
+			"Target": "TileSheets/Craftables",
+			"FromFile": "assets/equipment.png",
+			"FromArea": { "X": 48, "Y": 0, "Width": 16, "Height": 32 },
+			"ToArea": { "X": 0, "Y": 416, "Width": 16, "Height": 32 },
+			"When":{
+				"heater":"enabled"
+			}
+        },
+		{ //mayo
+			"Action": "EditImage",
+			"Target": "TileSheets/Craftables",
+			"FromFile": "assets/equipment.png",
+			"FromArea": { "X": 64, "Y": 0, "Width": 16, "Height": 32 },
+			"ToArea": { "X": 0, "Y": 96, "Width": 16, "Height": 32 },
+			"When":{
+				"mayomachine":"enabled"
+			}
+        },
+		{ //seed maker
+			"Action": "EditImage",
+			"Target": "TileSheets/Craftables",
+			"FromFile": "assets/equipment.png",
+			"FromArea": { "X": 80, "Y": 0, "Width": 16, "Height": 32 },
+			"ToArea": { "X": 16, "Y": 96, "Width": 16, "Height": 32 },
+			"When":{
+				"seedmaker":"enabled"
+			}
+        },
+		{ //cheese
+			"Action": "EditImage",
+			"Target": "TileSheets/Craftables",
+			"FromFile": "assets/equipment.png",
+			"FromArea": { "X": 0, "Y": 32, "Width": 16, "Height": 32 },
+			"ToArea": { "X": 0, "Y": 64, "Width": 16, "Height": 32 },
+			"When":{
+				"cheesepress":"enabled"
+			}
+        },
+		{ //wool
+			"Action": "EditImage",
+			"Target": "TileSheets/Craftables",
+			"FromFile": "assets/equipment.png",
+			"FromArea": { "X": 16, "Y": 32, "Width": 32, "Height": 32 },
+			"ToArea": { "X": 16, "Y": 64, "Width": 32, "Height": 32 },
+			"When":{
+				"loom":"enabled"
+			}
+        },
+		{ //oilpress_default
+			"Action": "EditImage",
+			"Target": "TileSheets/Craftables",
+			"FromFile": "assets/equipment.png",
+			"FromArea": { "X": 48, "Y": 32, "Width": 16, "Height": 32 },
+			"ToArea": { "X": 48, "Y": 64, "Width": 16, "Height": 32 },
+			"When":{
+				"oilpress":"default"
+			}
+        },
+		{ //oilpress_classic
+			"Action": "EditImage",
+			"Target": "TileSheets/Craftables",
+			"FromFile": "assets/equipment.png",
+			"FromArea": { "X": 128, "Y": 0, "Width": 16, "Height": 32 },
+			"ToArea": { "X": 48, "Y": 64, "Width": 16, "Height": 32 },
+			"When":{
+				"oilpress":"classic"
+			}
+        },
+		{ //recycler
+			"Action": "EditImage",
+			"Target": "TileSheets/Craftables",
+			"FromFile": "assets/equipment.png",
+			"FromArea": { "X": 64, "Y": 32, "Width": 16, "Height": 32 },
+			"ToArea": { "X": 64, "Y": 64, "Width": 16, "Height": 32 },
+			"When":{
+				"recycler":"enabled"
+			}
+        },
+		{ //crystallarium
+			"Action": "EditImage",
+			"Target": "TileSheets/Craftables",
+			"FromFile": "assets/equipment.png",
+			"FromArea": { "X": 80, "Y": 32, "Width": 16, "Height": 32 },
+			"ToArea": { "X": 80, "Y": 64, "Width": 16, "Height": 32 },
+			"When":{
+				"crystallarium":"enabled"
+			}
+        },
+		{ //furnace
+			"Action": "EditImage",
+			"Target": "TileSheets/Craftables",
+			"FromFile": "assets/equipment.png",
+			"FromArea": { "X": 96, "Y": 0, "Width": 32, "Height": 32 },
+			"ToArea": { "X": 80, "Y": 32, "Width": 32, "Height": 32 },
+			"When":{
+				"furnace":"enabled"
+			}
+        },
+		{ //hatchery
+			"Action": "EditImage",
+			"Target": "TileSheets/Craftables",
+			"FromFile": "assets/equipment.png",
+			"FromArea": { "X": 96, "Y": 32, "Width": 48, "Height": 32 },
+			"ToArea": { "X": 80, "Y": 384, "Width": 48, "Height": 32 },
+			"When":{
+				"hatchery":"enabled"
+			}
+        }
+    ]
+}

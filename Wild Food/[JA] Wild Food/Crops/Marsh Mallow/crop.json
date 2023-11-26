@@ -1,0 +1,23 @@
+{
+    "Name": "wf mallow seeds",
+    "Product": "wf mallow",
+    "SeedName": "wf mallow seeds",
+    "SeedPrice": 85,
+    "SeedDescription": "...",
+    "SeedTranslationKey": "mallow-seeds",
+    "Type": "Flower", 
+    "CropType": "Paddy",
+    "Seasons": ["spring", "summer"],
+    "Phases": [1, 1, 2, 2], 
+    "RegrowthPhase": 6, 
+    "HarvestWithScythe": true, 
+    "TrellisCrop": false, 
+    "Colors": null,
+    "Bonus": 
+    {
+		"MinimumPerHarvest": 1, 
+		"MaximumPerHarvest": 2, 
+		"MaxIncreasePerFarmLevel": 5, 
+		"ExtraChance": 0.3
+    }
+}

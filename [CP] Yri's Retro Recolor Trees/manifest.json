@@ -1,0 +1,18 @@
+{
+  "Name": "Yri's Retro Recolor Trees",
+  "Author": "Yri",
+  "Version": "1.0",
+  "Description": "This mod replaces all Vanilla Trees with customs ones to match Retro Recolor",
+  "UniqueID": "yri.RetroRecolorTree",
+  "MinimumApiVersion": "3.0",
+  "UpdateKeys": ["Nexus:18710"],
+  "Dependencies": 
+            [ 
+            {"UniqueID": "Az.Foliage","IsRequired": false},
+            {"UniqueID": "stardewfoliageredone.foliageonly","IsRequired": false},
+            ],
+  "ContentPackFor": 
+    {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    },
+}

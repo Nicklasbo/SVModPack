@@ -1,0 +1,226 @@
+{
+
+	//SEEDS
+
+	"vanilla-seeds.name": "Graine de Calico Vanille",
+	"vanilla-seeds.description": "Planter en été. Il faut 14 jours pour pousser, puis peut être récolté tous les 5 jours",
+
+	"tea-seeds.name": "Graines de thé Ferngil",
+	"tea-seeds.description": "Plantez au printemps, en été ou en automne. Il faut 14 jours pour pousser et peut être récolté tous les 4 jours après.",
+
+	"chamomile-seeds.name": "Graines de camomille forestière",
+	"chamomile-seeds.description": "Plantez à l'automne. Il faut 7 jours pour grandir.",
+
+	"lavender-seeds.name": "Graines de lavande forestière",
+	"lavender-seeds.description": "Plantez au printemps, en été ou en automne. Il faut 14 jours pour pousser et peut être récolté tous les 4 jours après.",
+
+	"jasmine-seeds.name": "Graines de jasmin Gem Isle",
+	"jasmine-seeds.description": "Plantez en été ou en automne. Il faut 7 jours pour grandir.",
+
+	"mallow-seeds.name": "Graines de guimauve",
+	"mallow-seeds.description": "Fleurs parfumées et savoureuses, les guimauves peuvent être cultivées au printemps ou en été. Met 10 jours à mûrir.",
+
+	"mint-seeds.name": "Graines de menthe pélican",
+	"mint-seeds.description": "Plantez au printemps, en été ou en automne. Il faut 10 jours pour pousser et peut être récolté tous les 3 jours après.",
+
+	"carrot-seeds.name": "Graines de carottes sauvages",
+	"carrot-seeds.description": "Plantez au printemps ou à l'automne. Il faut 7 jours pour grandir.",
+
+	"onion-seeds.name": "Graines d'oignon rouge sauvage",
+	"onion-seeds.description": "Plantez au printemps ou à l'automne. Il faut 7 jours pour grandir.",
+
+	"strawberry-seeds.name": "Buisson de fraises des bois",
+	"strawberry-seeds.description": "Plantez au printemps ou en été. Prend 10 jours pour pousser et peut être récolté tous les 3 jours après",
+
+	"raspberry-seeds.name": "Framboisier sauvage",
+	"raspberry-seeds.description": "Plantez au printemps ou en été. Prend 10 jours pour pousser et peut être récolté tous les 3 jours après",
+
+	//HERB SEEDS
+
+	"basil-seeds.name": "Graines de basilic doux",
+	"basil-seeds.description": "Plantez au printemps ou en été. Il faut 7 jours pour pousser et peut être récolté tous les 2 jours après.",
+	
+	"cilantro-seeds.name": "Graines de coriandre Cindersap",
+	"cilantro-seeds.description": "Plantez au printemps ou en été. Il faut 7 jours pour pousser et peut être récolté tous les 2 jours après.",
+	
+	"rosemary-seeds.name": "Graines de romarin rustique",
+	"rosemary-seeds.description": "Plantez au printemps ou à l'automne. Il faut 7 jours pour pousser et peut être récolté tous les 2 jours après.",
+	
+	"sage-seeds.name": "Graines de Sauge Cindersap",
+	"sage-seeds.description": "Plantez au printemps ou à l'automne. Il faut 7 jours pour pousser et peut être récolté tous les 2 jours après.",
+	
+	"thyme-seeds.name": "Graines de Thym Citron",
+	"thyme-seeds.description": "Plantez au printemps, en été ou en automne. Il faut 7 jours pour pousser et peut être récolté tous les 2 jours après.",
+
+	// MUSHROOM STARTERS
+
+    "chick-mushroom.name":"Poulet des Bois",
+    "chick-mushroom.description":"Planter en été. Prend 10 jours pour atteindre la maturité et peut ensuite être récolté tous les 4 jours après.",
+
+    "honey-mushroom.name":"Champignons au miel",
+    "honey-mushroom.description":"Plantez au printemps ou à l'automne. Prend 10 jours pour atteindre la maturité et peut ensuite être récolté tous les 4 jours après.",
+
+    "meringue-mushroom.name":"Champignons meringués",
+    "meringue-mushroom.description":"Planter en automne. Prend 10 jours pour atteindre la maturité et peut ensuite être récolté tous les 4 jours après.",
+
+    "milky-mushroom.name":"Champignons blancs laiteux",
+    "milky-mushroom.description":"Plantez en été ou en automne. Prend 10 jours pour atteindre la maturité et peut ensuite être récolté tous les 4 jours après.",
+
+    "wheat-mushroom.name":"Champignons Wheatberry",
+    "wheat-mushroom.description":"Planter au printemps. Prend 10 jours pour atteindre la maturité et peut ensuite être récolté tous les 4 jours après.",
+	
+	//HERBS
+	
+	"sweet-basil.name": "Basilic doux",
+	"sweet-basil.description": "Une variété plus douce de l'herbe populaire, utilisée dans diverses traditions culinaires à la fois pour sa couleur et sa saveur.",
+	
+	"cindersap-cilantro.name": "Sève Cendreuse Coriandre",
+	"cindersap-cilantro.description": "Une variété sauvage de coriandre (également connue sous le nom de coriandre) qui est souvent utilisée dans les plats épicés ou les salsas.",
+	
+	"cindersap-sage.name": "Sauge sève cendreuse",
+	"cindersap-sage.description": "Une herbe délicate aux notes florales, utilisée pour trancher la riche saveur de nombreux plats d'automne.",
+	
+	"hardy-rosemary.name": "Romarin rustique",
+	"hardy-rosemary.description": "Une herbe forte et robuste qui pousse presque n'importe où ; il ressemble presque à un petit pin.",
+	
+	"lemon-thyme.name": "Thym Citron",
+	"lemon-thyme.description": "Une herbe populaire qui pousse rapidement dans n'importe quel jardin ; la variété de citron est appréciée pour sa saveur herbacée et citronnée.",
+	
+	//TREES NEW
+
+	"lemon-sapling.name":"Petite pousse de citron",
+	"lemon-sapling.description":"Il faut 28 jours pour produire un petit citronnier mature. Porte des fruits au printemps.",
+	
+	"lime-sapling.name":"Petite pousse de tilleul",
+	"lime-sapling.description":"Il faut 28 jours pour produire un petit tilleul mature. Porte des fruits au printemps.",
+
+	//TREES
+
+	"pistachio-sapling.name": "Jeune arbre pistachier de Calico",
+	"pistachio-sapling.description": "Il faut 28 jours pour produire un pistachier Calico mature. Porte des fruits à l'automne.",
+
+	"cinnamon-sapling.name": "Jeune pousse cannelle Sève cendreuse",
+	"cinnamon-sapling.description": "Il faut 28 jours pour produire un cannelle Cindersap mature. Récolter l'écorce en hiver",
+
+	"olive-sapling.name": "Olivier de Fern Isle",
+	"olive-sapling.description": "Il faut 28 jours pour produire un olivier Fern Isle mature. Porte des fruits en été.",
+
+	"cashew-sapling.name": "Jeune arbre de noix de cajou de la mer Gem",
+	"cashew-sapling.description": "Il faut 28 jours pour produire un arbre de noix de cajou. Porte des fruits à l'automne.",
+
+	"walnut-sapling.name": "Jeune arbre de noyer de Grampleton",
+	"walnut-sapling.description": "Il faut 28 jours pour produire un noyer Grampleton mature. Porte des fruits à l'automne.",
+
+	"almond-sapling.name": "Amande St Cannoli",
+	"almond-sapling.description": "Il faut 28 jours pour produire un amandier St Cannoli mature. Porte des fruits à l'automne.",
+
+	"cacao-sapling.name": "Jeune pousse de cacao sauvage",
+	"cacao-sapling.description": "Il faut 28 jours pour produire un cacaoyer mature. Porte des fruits à l'automne.",
+
+	//OBJECTS
+
+	//Calico Pistachio
+	"calico-pistachio.name":"Pistache de Calico",
+	"calico-pistachio.description":"Une pistache unique trouvée uniquement en fouillant dans le désert de Calico.",
+
+    //Calico Vanilla
+	"calico-vanilla.name": "Vanille de Calico",
+	"calico-vanilla.description": "Une vanille unique trouvée uniquement en butinant dans le désert de Calico.",
+
+	//Cherry Blossom Petals
+	"cherry-blossom.name": "Pétales de fleurs de cerisier",
+	"cherry-blossom.description": "Pétales frais de cerisiers en fleurs",
+
+	//Chicken of the Woods
+	"chicken-woods.name": "Poulet des bois",
+	"chicken-woods.description": "Ce champignon au nom étrange se trouve partout dans le monde et certains affirment qu'il a en effet le même goût que le poulet !",
+	
+	//Cindersap Cinnamon
+	"cindersap-cinnamon.name": "Cannelle Sève cendreuse",
+	"cindersap-cinnamon.description": "Une écorce de cannelle rare qui ne peut être trouvée dans la forêt de Cindersap qu'en hiver.",
+	
+	//Fern Isle Olive
+	"fern-olive.name": "Olive de Fern Isle",
+	"fern-olive.description": "Un type rare d'olive trouvé sur les îles tropicales, trouvé par des cueilleurs qualifiés sur les plages de la République de Ferngill.",
+	
+	//Ferngill Tea Leaf
+	"tea-leaf.name": "Feuille de thé de Ferngill",
+	"tea-leaf.description": "Feuilles de thé fraîches trouvées en fouillant dans les forêts de la République de Ferngill.",
+	
+	//Forest Chamomile
+	"forest-chamomile.name": "Camomille forestière",
+	"forest-chamomile.description": "Une fleur délicate trouvée au plus profond de la forêt; parfait pour faire du thé.",
+	
+	//Forest Lavender
+	"forest-lavender.name": "Lavande forestière",
+	"forest-lavender.description": "Une fleur parfumée et buissonnante trouvée au plus profond de la forêt.",
+
+	//Gem Isle Jasmine
+	"gem-jasmine.name": "Jasmin de Gem Isle",
+	"gem-jasmine.description": "Un magnifiquement parfumé que l'on ne trouve qu'en butinant sur Ginger Island.",
+	
+	//Gem Sea Cashew
+	"gem-cashew.name": "Noix de Cajou",
+	"gem-cashew.description": "La noix du fruit tropical de la pomme de cajou, que l'on trouve uniquement sur les îles de la mer des gemmes",
+	
+	//Grampleton Walnut
+	"grampleton-walnut.name": "Noix de Grampleton",
+	"grampleton-walnut.description": "Une noix provenant des noyer qui pousse localement à Grampleton, et apparemment maintenant à Pelican Town !",
+
+    //Honey Fungus Mushroom
+	"honey-fungus.name": "Miel Champignon ",
+	"honey-fungus.description": "Bien qu'ils soient dangereux à consommer crus, ces champignons ont un riche goût de noisette lorsqu'ils sont bien cuits.",
+	
+	//Marsh Mallow
+	"marsh-mallow.name": "Guimauve",
+	"marsh-mallow.description": "Fleurs de guimauve. Principalement utilisé dans la confiserie.",
+	
+	//Meringue Mushroom
+	"meringue-shroom.name": "Champignon meringué",
+	"meringue-shroom.description": "Un champignon étrangement sucré trouvé uniquement par les meilleurs butineurs de la vallée, sa couleur et sa forme ressemblent presque à des bonbons.",
+	
+	//Milky White Mushrooms
+	"white-shroom.name": "Champignons blancs laiteux",
+	"white-shroom.description": "Ces champignons sont d'un blanc éclatant et ont une texture crémeuse.",
+	
+	//Pelican Mint
+	"pelican-mint.name": "Pélican Menthe",
+	"pelican-mint.description": "Un type de menthe qui pousse tout autour de Pelican Town, peu importe à quel point les villageois essaient de s'en débarrasser.",
+	
+	//Petite Lemon
+	"petite-lemon.name": "Petit Citron",
+	"petite-lemon.description": "Un citron minuscule mais savoureux trouvé dans la nature par des cueilleurs qualifiés.",
+
+	//Petite Lime
+	"petite-lime.name": "Petit citron vert",
+	"petite-lime.description": "Un citron vert minuscule mais savoureux trouvé dans la nature par des cueilleurs qualifiés.",
+
+	//St Cannoli Almond
+    "cannoli-almond.name": "Amande de St Cannoli",
+	"cannoli-almond.description": "Le rêve d'un butineur devenu réalité ! La plus rare des amandes, qui aurait été cultivée par le vieux maître Cannoli lui-même.",
+	
+	//Wheatberry Mushroom
+	"wheat-shroom.name": "Champignon de blé",
+	"wheat-shroom.description": "Un champignon d'apparence ordinaire pour le butineur amateur, les maîtres savent que ce champignon peut être transformé en un ingrédient culinaire clé.",
+	
+	//Wild Cacao Pod
+	"wild-cacao.name": "Coque de cacao sauvage",
+	"wild-cacao.description": "Gousse fruitée et charnue du cacaoyer. Utilisé dans la fabrication de cacao et d'aliments exotiques.",
+	
+	//Wild Carrot
+	"wild-carrot.name": "Carotte sauvage",
+	"wild-carrot.description": "C'est une carotte, mais c'est sauvage, donc tu ferais mieux de faire attention !",
+	
+	//Wild Raspberry
+	"wild-raspberry.name": "Framboise sauvage",
+	"wild-raspberry.description": "Une petite baie sucrée qui pousse à l'état sauvage dans les forêts de Ferngill.",
+	
+	//Wild Red Onion
+	"wild-onion.name": "Oignon rouge sauvage",
+	"wild-onion.description": "Tout comme la carotte sauvage, méfiez-vous de cet oignon ou il vous fera pleurer !",
+	
+	//Wild Strawberry
+	"wild-strawberry.name": "Fraise sauvage",
+	"wild-strawberry.description": "Une plus petite variété de fraise qui pousse à l'état sauvage dans les forêts de Ferngill."
+	
+}

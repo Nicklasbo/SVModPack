@@ -1,0 +1,27 @@
+{	"Name": "wf carrot",
+	"Description": "...",
+	"TranslationKey": "wild-carrot",
+	"Category": "Vegetable",
+	"Edibility": 25,
+	"Price": 75,
+	"IsColored": false,
+	"Recipe": null,
+	"CanPurchase": true,
+	"PurchaseFrom": "Pierre",
+	"PurchasePrice": 150,
+	"GiftTastes": {
+
+		"Love": ["Gus","Harvey","Leah","Linus"],
+		"Like": [ "Elliott", "Kent","Lewis","Marnie"],
+		"Neutral": ["Abigail","Alex", "Clint","Demetrius","Emily","Evelyn","George","Maru","Robin","Sandy","Wizard"],
+		"Dislike": ["Caroline","Dwarf","Haley", "Jodi","Pierre","Pam","Shane","Sam"],
+		"Hate": ["Jas", "Vincent", "Leo"]
+		
+	  },
+	  
+	"ContextTags": [
+		"wildflour_forage",
+		  "forage_item",
+		  "color_orange"
+	  ]
+}

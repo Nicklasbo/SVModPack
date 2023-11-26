@@ -1,0 +1,14 @@
+﻿{
+	"Name": "[BBM] Wild Food Forage Expansion",
+	"Author": "wildflourmods",
+    "Version": "4.2",
+	"Description": "Adds Wild Strawberries and Raspberries to the bushes in the valley during spring and summer.",
+	"UniqueID": "wildflour.wildfoodBBM",
+	"MinimumApiVersion": "2.11.2",
+	"Dependencies": [
+		{"UniqueID": "wildflour.wildfoodforage", "IsRequired": true}
+	],
+	"ContentPackFor": {
+		"UniqueID": "NCarigon.BushBloomMod"
+	}
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "[AT] DustBeauty's Rustic Country W&F",
+  "Author": "DustBeauty & Zyrnathos",
+  "Version": "1.0.0",
+  "Description": "Alternative Textures conversion for DustBeauty's rustic walls and floors",
+  "UniqueID": "DB.Zyrnathos.RusticCountryWallsFloorsAT",
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.AlternativeTextures",
+    "MinimumVersion": "6.4.3"
+  },
+  "Dependencies": [		
+		{
+			"UniqueID": "PeacefulEnd.AlternativeTextures",
+			"IsRequired": true,
+		},
+	],
+}

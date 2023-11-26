@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Animated Frog Pots",
+  "Author": "Dolly",
+  "Version": "1.0.0",
+  "UniqueID": "Dolly.AnimatedFrogPots",
+  "Description": "Replaces crab pots with frog pots",
+  "UpdateKeys": ["Nexus:???"],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.AlternativeTextures",
+    "MinimumVersion": "6.4.3"
+  }
+}

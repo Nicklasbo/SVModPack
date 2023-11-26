@@ -1,0 +1,823 @@
+[
+//Seed Maker Forage
+
+//MUSHROOMS
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf meringueshroom",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf meringueshroom seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+		"Probability": 0.2,
+		"OutputStack": 2,
+		"OutputMaxStack": 2
+	},
+	"GoldQualityInput": {
+		"Probability": 0.4,
+		"OutputStack": 3,
+		"OutputMaxStack": 3
+	},
+	"IridiumQualityInput": { 
+		"Probability": 1,
+		"OutputStack": 4,
+		"OutputMaxStack": 4
+	},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf honeyfungus",
+	"InputStack":1,
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf honeyfungus seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf milkshroom",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf milkshroom seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf chickenofthewoods",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf chickenwoods seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf wheatshroom",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf wheatshroom seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+//VEGGIES HERBS
+
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf wormwood",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf wormwood seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf basil",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf basil seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf carrot",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf carrot seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf cilantro",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf cilantro seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf mint",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf mint seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf redonion",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf redonion seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf rosemary",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf rosemary seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf sage",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf sage seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf tealeaf",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf tealeaf seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf thyme",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf thyme seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+//FLOWERS FRUITS
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf chamomile",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf chamomile seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf jasmine",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf jasmine seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf lavender",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf lavender seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf mallow",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf mallow seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf raspberry",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf raspberry seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf strawberry",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf strawberry seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf vanilla",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf vanilla seeds",
+	"OutputStack": 1,
+	"OutputMaxStack": 2,
+	"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 2
+		},
+		"GoldQualityInput": {
+			"Probability": 0.4,
+			"OutputStack": 3,
+			"OutputMaxStack": 3
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+		},
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+
+	
+//TREES
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf almond",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf almond sapling",
+	"OutputStack": 1,
+	"OutputMaxStack": 1,
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf cacaopod",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf cacao sapling",
+	"OutputStack": 1,
+	"OutputMaxStack": 1,
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf cashew",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf cashew sapling",
+	"OutputStack": 1,
+	"OutputMaxStack": 1,
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf cinnamon",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf cinnamon sapling",
+	"OutputStack": 1,
+	"OutputMaxStack": 1,
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf lemon",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf lemon sapling",
+	"OutputStack": 1,
+	"OutputMaxStack": 1,
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf lime",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf lime sapling",
+	"OutputStack": 1,
+	"OutputMaxStack": 1,
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf olive",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf olive sapling",
+	"OutputStack": 1,
+	"OutputMaxStack": 1,
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf pistachio",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf pistachio sapling",
+	"OutputStack": 1,
+	"OutputMaxStack": 1,
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+
+	
+{
+	"ProducerName": "Seed Maker",
+	"InputIdentifier": "wf walnut",
+	"MinutesUntilReady": 20,
+	"OutputIdentifier": "wf walnut sapling",
+	"OutputStack": 1,
+	"OutputMaxStack": 1,
+	"Sounds": [ "Ship" ],
+	"DelayedSounds": [ { "dirtyHit": 250 } ]
+},
+	
+	
+//Preserves Jar for Mushrooms
+
+{
+        "ProducerName": "Preserves Jar",
+        "InputIdentifier": "wf meringueshroom",
+        "MinutesUntilReady": 200,
+        "OutputIdentifier": 245,
+        "OutputStack": 1,
+        "OutputMaxStack": 1,
+		"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 3
+		},
+		"GoldQualityInput": { 
+			"Probability": 0.4,
+			"OutputStack": 3, 
+			"OutputMaxStack": 4
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+			},
+        "Sounds": [ "Ship" ],
+        "DelayedSounds": [ { "dirtyHit": 250 } ]
+    },
+	{
+        "ProducerName": "Preserves Jar",
+        "InputIdentifier": "wf milkshroom",
+        "MinutesUntilReady": 200,
+        "OutputIdentifier": 184,
+        "OutputStack": 1,
+        "OutputMaxStack": 2,
+		"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 4
+		},
+		"GoldQualityInput": { 
+			"Probability": 0.4,
+			"OutputStack": 3, 
+			"OutputMaxStack": 4
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+			},
+        "Sounds": [ "Ship" ],
+        "DelayedSounds": [ { "dirtyHit": 250 } ]
+    },
+	{
+        "ProducerName": "Preserves Jar",
+        "InputIdentifier": "wf wheatshroom",
+        "MinutesUntilReady": 200,
+        "OutputIdentifier": 246,
+        "OutputStack": 1,
+        "OutputMaxStack": 2,
+		"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 4
+		},
+		"GoldQualityInput": { 
+			"Probability": 0.4,
+			"OutputStack": 3, 
+			"OutputMaxStack": 4
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+			},
+        "Sounds": [ "Ship" ],
+        "DelayedSounds": [ { "dirtyHit": 250 } ]
+    },
+	{
+        "ProducerName": "Preserves Jar",
+        "InputIdentifier": "wf honeyfungus",
+        "MinutesUntilReady": 200,
+        "OutputIdentifier": 340,
+        "OutputStack": 1,
+        "OutputMaxStack": 2,
+		"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 4
+		},
+		"GoldQualityInput": { 
+			"Probability": 0.4,
+			"OutputStack": 3, 
+			"OutputMaxStack": 4
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+			},
+        "Sounds": [ "Ship" ],
+        "DelayedSounds": [ { "dirtyHit": 250 } ]
+    },
+	{
+        "ProducerName": "Preserves Jar",
+        "InputIdentifier": "wf chickenofthewoods",
+        "MinutesUntilReady": 200,
+        "OutputIdentifier": 180,
+        "OutputStack": 1,
+        "OutputMaxStack": 2,
+		"SilverQualityInput": {
+			"Probability": 0.2,
+			"OutputStack": 2,
+			"OutputMaxStack": 4
+		},
+		"GoldQualityInput": { 
+			"Probability": 0.4,
+			"OutputStack": 3, 
+			"OutputMaxStack": 4
+		},
+		"IridiumQualityInput": { 
+			"Probability": 1,
+			"OutputStack": 4,
+			"OutputMaxStack": 4
+			},
+        "Sounds": [ "Ship" ],
+        "DelayedSounds": [ { "dirtyHit": 250 } ]
+    }
+
+	
+
+]

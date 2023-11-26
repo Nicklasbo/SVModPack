@@ -1,0 +1,492 @@
+{
+"Format": "1.26.0",
+
+"DynamicTokens": 
+        
+        [
+//Tree Styles ALL:
+        {
+        "Name": "TreeStyle_ALL",
+        "Value": "{{TreeSpring_ALL}}"
+        },
+        {
+        "Name": "TreeStyle_ALL",
+        "Value": "{{TreeSummer_ALL}}",
+        "When": {"season": "summer"}
+        },
+        {
+        "Name": "TreeStyle_ALL",
+        "Value": "{{TreeFall_ALL}}",
+        "When": {"season": "fall"}
+        },
+        {
+        "Name": "TreeStyle_ALL",
+        "Value": "{{TreeWinter_ALL}}",
+        "When": {"season": "winter"}
+        },
+
+//Tree Styles - Tree 1 (Maple):
+        {
+        "Name": "TreeStyle_Maple",
+        "Value": "{{TreeSpring_Maple}}"
+        },
+        {
+        "Name": "TreeStyle_Maple",
+        "Value": "{{TreeSummer_Maple}}",
+        "When": {"season": "summer"}
+        },
+        {
+        "Name": "TreeStyle_Maple",
+        "Value": "{{TreeFall_Maple}}",
+        "When": {"season": "fall"}
+        },
+        {
+        "Name": "TreeStyle_Maple",
+        "Value": "{{TreeWinter_Maple}}",
+        "When": {"season": "winter"}
+        },
+
+//Tree Styles - Tree 2 (Oak):
+        {
+        "Name": "TreeStyle_Oak",
+        "Value": "{{TreeSpring_Oak}}"
+        },
+        {
+        "Name": "TreeStyle_Oak",
+        "Value": "{{TreeSummer_Oak}}",
+        "When": {"season": "summer"}
+        },
+        {
+        "Name": "TreeStyle_Oak",
+        "Value": "{{TreeFall_Oak}}",
+        "When": {"season": "fall"}
+        },
+        {
+        "Name": "TreeStyle_Oak",
+        "Value": "{{TreeWinter_Oak}}",
+        "When": {"season": "winter"}
+        },
+
+//Tree Styles - Tree 3 (Pine):
+        {
+        "Name": "TreeStyle_Pine",
+        "Value": "{{TreeSpring_Pine}}"
+        },
+        {
+        "Name": "TreeStyle_Pine",
+        "Value": "{{TreeSummer_Pine}}",
+        "When": {"season": "summer"}
+        },
+        {
+        "Name": "TreeStyle_Pine",
+        "Value": "{{TreeFall_Pine}}",
+        "When": {"season": "fall"}
+        },
+        {
+        "Name": "TreeStyle_Pine",
+        "Value": "{{TreeWinter_Pine}}",
+        "When": {"season": "winter"}
+        },
+
+//Tree Styles - Tree 8 (Mahogany):
+        {
+        "Name": "TreeStyle_Mahogany",
+        "Value": "{{TreeSpring_Mahogany}}"
+        },
+        {
+        "Name": "TreeStyle_Mahogany",
+        "Value": "{{TreeSummer_Mahogany}}",
+        "When": {"season": "summer"}
+        },
+        {
+        "Name": "TreeStyle_Mahogany",
+        "Value": "{{TreeFall_Mahogany}}",
+        "When": {"season": "fall"}
+        },
+        {
+        "Name": "TreeStyle_Mahogany",
+        "Value": "{{TreeWinter_Mahogany}}",
+        "When": {"season": "winter"}
+        },
+
+//Outdoortilesheet
+//Outdoor - Tree 1 (Maple):
+        {
+        "Name": "TreeStyle_Outdoor_Maple",
+        "Value": "{{TreeSpring_Outdoor_Maple}}"
+        },
+        {
+        "Name": "TreeStyle_Outdoor_Maple",
+        "Value": "{{TreeSummer_Outdoor_Maple}}",
+        "When": {"season": "summer"}
+        },
+        {
+        "Name": "TreeStyle_Outdoor_Maple",
+        "Value": "{{TreeFall_Outdoor_Maple}}",
+        "When": {"season": "fall"}
+        },
+        {
+        "Name": "TreeStyle_Outdoor_Maple",
+        "Value": "{{TreeWinter_Outdoor_Maple}}",
+        "When": {"season": "winter"}
+        },
+
+//Outdoor- Tree 2 (Oak):
+        {
+        "Name": "TreeStyle_Outdoor_Oak",
+        "Value": "{{TreeSpring_Outdoor_Oak}}"
+        },
+        {
+        "Name": "TreeStyle_Outdoor_Oak",
+        "Value": "{{TreeSummer_Outdoor_Oak}}",
+        "When": {"season": "summer"}
+        },
+        {
+        "Name": "TreeStyle_Outdoor_Oak",
+        "Value": "{{TreeFall_Outdoor_Oak}}",
+        "When": {"season": "fall"}
+        },
+        {
+        "Name": "TreeStyle_Outdoor_Oak",
+        "Value": "{{TreeWinter_Outdoor_Oak}}",
+        "When": {"season": "winter"}
+        },
+
+//Outdoor- Tree 3 (Pine):
+        {
+        "Name": "TreeStyle_Outdoor_Pine",
+        "Value": "{{TreeSpring_Outdoor_Pine}}"
+        },
+        {
+        "Name": "TreeStyle_Outdoor_Pine",
+        "Value": "{{TreeSummer_Outdoor_Pine}}",
+        "When": {"season": "summer"}
+        },
+        {
+        "Name": "TreeStyle_Outdoor_Pine",
+        "Value": "{{TreeFall_Outdoor_Pine}}",
+        "When": {"season": "fall"}
+        },
+        {
+        "Name": "TreeStyle_Outdoor_Pine",
+        "Value": "{{TreeWinter_Outdoor_Pine}}",
+        "When": {"season": "winter"}
+        },
+//Outdoor- Tree 4 (Cherry):
+        {
+        "Name": "TreeStyle_Outdoor_Cherry",
+        "Value": "{{TreeSpring_Outdoor_Cherry}}"
+        },
+        {
+        "Name": "TreeStyle_Outdoor_Cherry",
+        "Value": "{{TreeSummer_Outdoor_Cherry}}",
+        "When": {"season": "summer"}
+        },
+        {
+        "Name": "TreeStyle_Outdoor_Cherry",
+        "Value": "{{TreeFall_Outdoor_Cherry}}",
+        "When": {"season": "fall"}
+        },
+        {
+        "Name": "TreeStyle_Outdoor_Cherry",
+        "Value": "{{TreeWinter_Outdoor_Cherry}}",
+        "When": {"season": "winter"}
+        },
+
+//Outdoor- Tree 5 (Catalpa):
+        {
+        "Name": "TreeStyle_Outdoor_Catalpa",
+        "Value": "{{TreeSpring_Outdoor_Catalpa}}"
+        },
+        {
+        "Name": "TreeStyle_Outdoor_Catalpa",
+        "Value": "{{TreeSummer_Outdoor_Catalpa}}",
+        "When": {"season": "summer"}
+        },
+        {
+        "Name": "TreeStyle_Outdoor_Catalpa",
+        "Value": "{{TreeFall_Outdoor_Catalpa}}",
+        "When": {"season": "fall"}
+        },
+        {
+        "Name": "TreeStyle_Outdoor_Catalpa",
+        "Value": "{{TreeWinter_Outdoor_Catalpa}}",
+        "When": {"season": "winter"}
+        },
+
+//Outdoor2 - Tree (Leo):
+        {
+        "Name": "TreeStyle_Outdoor2_Leo",
+        "Value": "{{TreeSpring_Outdoor2_Leo}}"
+        },
+        {
+        "Name": "TreeStyle_Outdoor2_Leo",
+        "Value": "{{TreeSummer_Outdoor2_Leo}}",
+        "When": {"season": "summer"}
+        },
+        {
+        "Name": "TreeStyle_Outdoor2_Leo",
+        "Value": "{{TreeFall_Outdoor2_Leo}}",
+        "When": {"season": "fall"}
+        },
+        {
+        "Name": "TreeStyle_Outdoor2_Leo",
+        "Value": "{{TreeWinter_Outdoor2_Leo}}",
+        "When": {"season": "winter"}
+        },
+
+//Town - Tree:
+        {
+        "Name": "TreeStyle_Town",
+        "Value": "{{TreeSpring_Town}}"
+        },
+        {
+        "Name": "TreeStyle_Town",
+        "Value": "{{TreeSummer_Town}}",
+        "When": {"season": "summer"}
+        },
+        {
+        "Name": "TreeStyle_Town",
+        "Value": "{{TreeFall_Town}}",
+        "When": {"season": "fall"}
+        },
+        {
+        "Name": "TreeStyle_Town",
+        "Value": "{{TreeWinter_Town}}",
+        "When": {"season": "winter"}
+        },
+
+//Ginger Island
+        {
+        "Name": "TreeStyle_CherryGI",
+        "Value": "{{GI_Cherry}}",
+        },
+        {
+        "Name": "TreeStyle_MahoganyGI",
+        "Value": "{{GI_Mahogany}}",
+        },
+
+//Forest - Jas Tree:
+        {
+        "Name": "TreeStyle_JasTree",
+       "Value": "{{TreeSpring_JasTree}}"
+        },
+        {
+        "Name": "TreeStyle_JasTree",
+        "Value": "{{TreeSummer_JasTree}}",
+        "When": {"season": "summer"}
+        },
+        {
+        "Name": "TreeStyle_JasTree",
+        "Value": "{{TreeFall_JasTree}}",
+        "When": {"season": "fall"}
+        },
+        {
+        "Name": "TreeStyle_JasTree",
+        "Value": "{{TreeWinter_JasTree}}",
+        "When": {"season": "winter"}
+        },
+
+//Town - Community Tree:
+///        {
+///        "Name": "TreeStyle_CommunityTree",
+///        "Value": "{{TreeSpring_CommunityTree}}"
+///        },
+///        {
+///        "Name": "TreeStyle_CommunityTree",
+///        "Value": "{{TreeSummer_CommunityTree}}",
+///        "When": {"season": "summer"}
+///        },
+///        {
+///        "Name": "TreeStyle_CommunityTree",
+///        "Value": "{{TreeFall_CommunityTree}}",
+///        "When": {"season": "fall"}
+///        },
+///        {
+///        "Name": "TreeStyle_CommunityTree",
+///        "Value": "{{TreeWinter_CommunityTree}}",
+///        "When": {"season": "winter"}
+///        },
+        ],
+
+"ConfigSchema": 
+        {
+//Allow Advanced Tree Recolor:
+        "Advanced": 
+                {
+                "AllowValues": "true, false", "Default": "false", 
+                "Description": "Allows to recolor each and every tree individually", 
+                "Section": "Enable/Disable Advanced Edits"
+                }, 
+//Allow Base Tree Recolor:
+        "Base": 
+                {
+                "AllowValues": "true, false", "Default": "true", 
+                "Description": "Allows to recolor all trees at once", 
+                "Section": "Enable/Disable Base Edits"
+                },   
+//Colors:
+//Recolor ALL TREES:        
+        "TreeSpring_ALL" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Recolor All Trees"},
+        "TreeSummer_ALL" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "LightGreen", "Section": "Recolor All Trees"},
+        "TreeFall_ALL"   : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "Orange", "Section": "Recolor All Trees"},
+        "TreeWinter_ALL" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "Vanilla_Winter", "Section": "Recolor All Trees"},
+
+//Individual Trees -> Only works if "Trees" = True:        
+        "Maple"         : {"AllowValues": "true, false", "Default": "true", "Description": "'Trees' need to be activated for changes.", "Section": "Enable/Disable individual trees"},
+        "Oak"           : {"AllowValues": "true, false", "Default": "true", "Description": "'Trees' need to be activated for changes.", "Section": "Enable/Disable individual trees"},
+        "Pine"          : {"AllowValues": "true, false", "Default": "true", "Description": "'Trees' need to be activated for changes.", "Section": "Enable/Disable individual trees"},
+        "Mahogany"      : {"AllowValues": "true, false", "Default": "true", "Description": "'Trees' need to be activated for changes.", "Section": "Enable/Disable individual trees"},
+        
+        "Outdoor_Maple" : {"AllowValues": "true, false", "Default": "true", "Description": "'Trees' need to be activated for changes.", "Section": "Enable/Disable individual trees"},
+        "Outdoor_Oak"   : {"AllowValues": "true, false", "Default": "true", "Description": "'Trees' need to be activated for changes.", "Section": "Enable/Disable individual trees"},
+        "Outdoor_Pine"  : {"AllowValues": "true, false", "Default": "true", "Description": "'Trees' need to be activated for changes.", "Section": "Enable/Disable individual trees"},
+        "Outdoor_Cherry": {"AllowValues": "true, false", "Default": "true", "Description": "'Trees' need to be activated for changes.", "Section": "Enable/Disable individual trees"},
+        "Outdoor_Catalpa": {"AllowValues": "true, false", "Default": "true", "Description": "'Trees' need to be activated for changes.", "Section": "Enable/Disable individual trees"},
+        
+        "Outdoor2_Leo"   : {"AllowValues": "true, false", "Default": "true", "Description": "'Trees' need to be activated for changes.", "Section": "Enable/Disable individual trees"},
+        "Town_Tree"      : {"AllowValues": "true, false", "Default": "true", "Description": "'Trees' need to be activated for changes.", "Section": "Enable/Disable individual trees"},
+        
+        "GI_Trees"      : {"AllowValues": "true, false", "Default": "true", "Description": "Turn Ginger Island Foliage Recolor on/off", "Section": "Enable/Disable individual trees"},
+        
+//Allow Large Tree Replacer (With MapEdit):
+        "JasTree"       : {"AllowValues": "true, false", "Default": "true", "Section": "Enable/Disable Advanced Edits"},
+///        "CommunityTree" : {"AllowValues": "true, false", "Default": "true"},
+
+//Colors:
+//Tree 1 (Maple) Color:        
+        "TreeSpring_Maple" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Maple Color"},
+        "TreeSummer_Maple" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Maple Color"},
+        "TreeFall_Maple"   : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Maple Color"},
+        "TreeWinter_Maple" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Maple Color"},
+
+//Tree 2 (Oak) Color:        
+        "TreeSpring_Oak" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Oak Color"},
+        "TreeSummer_Oak" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Oak Color"},
+        "TreeFall_Oak"   : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Oak Color"},
+        "TreeWinter_Oak" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Oak Color"},
+
+//Tree 3 (Pine) Colors:        
+        "TreeSpring_Pine" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Pine Color"},
+        "TreeSummer_Pine" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Pine Color"},
+        "TreeFall_Pine"   : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Pine Color"},
+        "TreeWinter_Pine" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Pine Color"},
+
+//Tree 8 (Mahogany) Colors:        
+        "TreeSpring_Mahogany" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Mahogany Color"},
+        "TreeSummer_Mahogany" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Mahogany Color"},
+        "TreeFall_Mahogany"   : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Mahogany Color"},
+        "TreeWinter_Mahogany" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Mahogany Color"},
+
+//Outdoor Tree 1 (Maple) Colors:        
+        "TreeSpring_Outdoor_Maple" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Static Maple Color"},
+        "TreeSummer_Outdoor_Maple" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Static Maple Color"},
+        "TreeFall_Outdoor_Maple"   : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Static Maple Color"},
+        "TreeWinter_Outdoor_Maple" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Static Maple Color"},
+
+//Outdoor Tree 2 (Oak) Colors:        
+        "TreeSpring_Outdoor_Oak" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Static Oak Color"},
+        "TreeSummer_Outdoor_Oak" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Static Oak Color"},
+        "TreeFall_Outdoor_Oak"   : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Static Oak Color"},
+        "TreeWinter_Outdoor_Oak" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Static Oak Color"},
+
+//Outdoor Tree 3 (Pine) Colors:        
+        "TreeSpring_Outdoor_Pine" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Static Pine Color"},
+        "TreeSummer_Outdoor_Pine" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Static Pine Color"},
+        "TreeFall_Outdoor_Pine"   : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Static Pine Color"},
+        "TreeWinter_Outdoor_Pine" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Static Pine Color"},
+
+//Outdoor Tree 4 (Cherry) Colors:        
+        "TreeSpring_Outdoor_Cherry" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Cerrytree Color"},
+        "TreeSummer_Outdoor_Cherry" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Cerrytree Color"},
+        "TreeFall_Outdoor_Cherry"   : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Cerrytree Color"},
+        "TreeWinter_Outdoor_Cherry" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Cerrytree Color"},
+    
+//Outdoor Tree 5 (Catalpa) Colors:        
+        "TreeSpring_Outdoor_Catalpa" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Catalpa Color"},
+        "TreeSummer_Outdoor_Catalpa" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Catalpa Color"},
+        "TreeFall_Outdoor_Catalpa"   : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Catalpa Color"},
+        "TreeWinter_Outdoor_Catalpa" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Catalpa Color"},
+
+//Outdoor2 Tree (Leo) Colors:        
+        "TreeSpring_Outdoor2_Leo" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Leo's Tree Color"},
+        "TreeSummer_Outdoor2_Leo" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Leo's Tree Color"},
+        "TreeFall_Outdoor2_Leo"   : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Leo's Tree Color"},
+        "TreeWinter_Outdoor2_Leo" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Leo's Tree Color"},
+
+//Town Tree Colors:        
+        "TreeSpring_Town" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Town Tree Color"},
+        "TreeSummer_Town" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Town Tree Color"},
+        "TreeFall_Town"   : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Town Tree Color"},
+        "TreeWinter_Town" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Town Tree Color"},
+
+//Jas Forest Tree Colors:        
+        "TreeSpring_JasTree" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select JasTree Color"},
+        "TreeSummer_JasTree" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select JasTree Color"},
+        "TreeFall_JasTree"   : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select JasTree Color"},
+        "TreeWinter_JasTree" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select JasTree Color"},
+
+//Community Center Tree Colors:        
+///        "TreeSpring_CommunityTree" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen"},
+///        "TreeSummer_CommunityTree" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen"},
+///        "TreeFall_CommunityTree"   : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen"},
+///        "TreeWinter_CommunityTree" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen"},
+
+//Ginger Island Trees
+        
+        "GI_Cherry"   : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Ginger Island Tree Colors"},
+        "GI_Mahogany" : {"AllowValues": "BabyPink, Beige, Black, Blue_Alt, Cherry, Cherry, CherryRose, Cream, DarkGreen, DarkBlue, DarkPurple, Lavender, LightBlue, LightGreen, MixedGreen, NaturalGreen, Orange, OrangeAlt, PastelBlue, PastelGreen, PastelRose, PastelYellow, Purple, Purple_Alt, Red, Red_Alt, Rose, Salmon, Silver, SkyBlue, SwampGreen, Teal, Turquoise, Vanilla_Fall, Vanilla_Spring, Vanilla_Summer, Vanilla_Winter, White, Winter, Wisteria, Yellow", "Default" : "DarkGreen", "Section": "Select Ginger Island Trees Colors"},
+        },
+
+"Changes":
+        [
+//Load Jas Tree
+        {
+            "Action": "Load",
+            "Target": "Maps/spring_z_JasTree, Maps/summer_z_JasTree, Maps/fall_z_JasTree, Maps/winter_z_JasTree",
+            "FromFile": "assets/JasTrees/{{TargetWithoutPath}}.png",
+            "When": {"JasTree": true,},
+        },
+//MapPatch
+        {
+        "Action": "EditMap",
+        "Target": "Maps/Forest",
+        "FromFile": "assets/MapPatch/Forest.tmx",
+        "ToArea": { "X": 36, "Y": 2, "Width": 10, "Height": 9 },
+        "When": {"JasTree": true,},
+        },
+//MapPatch SVE
+        {
+        "Action": "EditMap",
+        "Target": "Maps/Forest",
+        "FromFile": "assets/MapPatch/Forest_SVE.tmx",
+        "ToArea": { "X": 36, "Y": 2, "Width": 10, "Height": 9 },
+        "When": {"HasMod|contains=FlashShifter.StardewValleyExpandedCP": "true"},
+        "When": {"JasTree": true,},
+        },
+//Includes
+        {
+            "Action": "Include",
+            "FromFile": "Data/TreesAdvanced.json",
+            "When": 
+                {
+                "Advanced": true, 
+                "Base": false,
+                },
+        },
+        {
+            "Action": "Include",
+            "FromFile": "Data/TreesBase.json",
+            "When": 
+                {
+                "Advanced": false,
+                "Base": true,
+                },
+        },
+        {
+            "Action": "Include",
+            "FromFile": "Data/GI_Trees.json",
+            "When": {"GI_Trees": true,},
+        }
+        ]
+}

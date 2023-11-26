@@ -1,0 +1,47 @@
+{
+    "Changes": 
+    [
+//Ginger Island
+//Mahogany
+      {
+      "Action": "EditImage",
+      "Target": "TerrainFeatures/Tree8_summer",
+      "FromFile": "assets/Tree/Tree8/{{GI_Mahogany}}.png",
+      "PatchMode" : "Replace",
+      "When": {
+                "Mahogany": true,
+                "LocationContext": "Island",
+                },
+        "Update": "OnLocationChange"
+      },
+
+//Outdoor Tilesheet Tree (Cherry) Part 1
+        {
+        "Action": "EditImage",
+        "Target": "Maps/summer_outdoorsTilesheet",
+        "FromFile": "assets/Tree/OutdoorCherry/{{GI_Cherry}}.png",
+        "FromArea": {"X":0, "Y":0, "Width":96, "Height":64},
+        "ToArea": {"X":256, "Y":0, "Width":96, "Height":64},
+        "PatchMode" : "Replace",
+        "When": {
+                "Outdoor_Cherry": true,
+                "LocationContext": "Island",
+                },
+        "Update": "OnLocationChange"
+        },
+//Outdoor Tilesheet Tree (Cherry) Part 2
+        {
+        "Action": "EditImage",
+        "Target": "Maps/summer_outdoorsTilesheet",
+        "FromFile": "assets/Tree/OutdoorCherry/{{GI_Cherry}}.png",
+        "FromArea": {"X":32, "Y":64, "Width":32, "Height":48},
+        "ToArea": {"X":288, "Y":64, "Width":32, "Height":48},
+        "PatchMode" : "Replace",
+        "When": {
+                "Outdoor_Cherry": true,
+                "LocationContext": "Island",        
+                },
+        "Update": "OnLocationChange"
+        },
+    ]
+}

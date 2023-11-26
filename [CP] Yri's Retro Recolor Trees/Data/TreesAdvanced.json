@@ -1,0 +1,358 @@
+{
+    "Changes": 
+    [
+//JasTree Color Individual
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_z_JasTree",
+        "FromFile": "assets/Tree/JasTree/{{TreeStyle_JasTree}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "JasTree": true,
+                }
+        },
+//Tree 1 (Maple)
+        {
+        "Action": "EditImage",
+        "Target": "TerrainFeatures/Tree1_spring",
+        "FromFile": "assets/Tree/Tree1/{{TreeStyle_Maple}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "Maple": true,
+                }
+        },
+        {
+        "Action": "EditImage",
+        "Target": "TerrainFeatures/Tree1_summer",
+        "FromFile": "assets/Tree/Tree1/{{TreeStyle_Maple}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "Maple": true,
+                }
+        },
+        {
+        "Action": "EditImage",
+        "Target": "TerrainFeatures/Tree1_fall",
+        "FromFile": "assets/Tree/Tree1/{{TreeStyle_Maple}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "Maple": true,
+                }
+        },
+        {
+        "Action": "EditImage",
+        "Target": "TerrainFeatures/Tree1_winter",
+        "FromFile": "assets/Tree/Tree1/{{TreeStyle_Maple}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "Maple": true,
+                }
+        },
+//Tree 2 (Oak)
+        {
+        "Action": "EditImage",
+        "Target": "TerrainFeatures/Tree2_spring",
+        "FromFile": "assets/Tree/Tree2/{{TreeStyle_Oak}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "Oak": true,
+                }
+        },
+        {
+        "Action": "EditImage",
+        "Target": "TerrainFeatures/Tree2_summer",
+        "FromFile": "assets/Tree/Tree2/{{TreeStyle_Oak}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "Oak": true,
+                }
+        },
+        {
+        "Action": "EditImage",
+        "Target": "TerrainFeatures/Tree2_fall",
+        "FromFile": "assets/Tree/Tree2/{{TreeStyle_Oak}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "Oak": true,
+                }
+        },
+        {
+        "Action": "EditImage",
+        "Target": "TerrainFeatures/Tree2_winter",
+        "FromFile": "assets/Tree/Tree2/{{TreeStyle_Oak}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "Oak": true,
+                }
+        },
+//Tree 3 (Pine)
+        {
+        "Action": "EditImage",
+        "Target": "TerrainFeatures/Tree3_spring",
+        "FromFile": "assets/Tree/Tree3/{{TreeStyle_Pine}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "Pine": true,
+                }
+        },
+        {
+        "Action": "EditImage",
+        "Target": "TerrainFeatures/Tree3_summer",
+        "FromFile": "assets/Tree/Tree3/{{TreeStyle_Pine}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "Pine": true,
+                }
+        },
+        {
+        "Action": "EditImage",
+        "Target": "TerrainFeatures/Tree3_fall",
+        "FromFile": "assets/Tree/Tree3/{{TreeStyle_Pine}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "Pine": true,
+                }
+        },
+        {
+        "Action": "EditImage",
+        "Target": "TerrainFeatures/Tree3_winter",
+        "FromFile": "assets/Tree/Tree3/{{TreeStyle_Pine}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "Pine": true,
+                }
+        },
+//Tree 4 (Mahogany)
+        {
+        "Action": "EditImage",
+        "Target": "TerrainFeatures/Tree8_spring",
+        "FromFile": "assets/Tree/Tree8/{{TreeStyle_Mahogany}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "Mahogany": true,
+                }
+        },
+        {
+        "Action": "EditImage",
+        "Target": "TerrainFeatures/Tree8_summer",
+        "FromFile": "assets/Tree/Tree8/{{TreeStyle_Mahogany}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "Mahogany": true,
+                "LocationContext": "Valley",
+                },
+        "Update": "OnLocationChange"
+        },
+        {
+        "Action": "EditImage",
+        "Target": "TerrainFeatures/Tree8_fall",
+        "FromFile": "assets/Tree/Tree8/{{TreeStyle_Mahogany}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "Mahogany": true,
+                }
+        },
+        {
+        "Action": "EditImage",
+        "Target": "TerrainFeatures/Tree8_winter",
+        "FromFile": "assets/Tree/Tree8/{{TreeStyle_Mahogany}}.png",
+        "PatchMode" : "Replace",
+        "When": {
+                "Mahogany": true,
+                }
+        },
+
+
+//Outdoor Tilesheet Tree 1 (Maple) 
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTilesheet",
+        "FromFile": "assets/Tree/OutdoorMaple/{{TreeStyle_Outdoor_Maple}}.png",
+        "ToArea": {"X": 0, "Y": 0, "Width": 48, "Height": 96},
+        "PatchMode" : "Replace",
+        "When": {
+                "Outdoor_Maple": true,
+                }
+        },
+
+//Outdoor Tilesheet Tree 2 (Oak) Part 1
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTilesheet",
+        "FromFile": "assets/Tree/OutdoorOak/{{TreeStyle_Outdoor_Oak}}.png",
+        "FromArea": {"X":0, "Y":0, "Width":48, "Height":64},
+        "ToArea": {"X": 48, "Y": 0, "Width": 48, "Height": 64},
+        "PatchMode" : "Replace",
+        "When": {
+                "Outdoor_Oak": true,
+                }
+        },
+//Outdoor Tilesheet Tree 2 (Oak) Part 2
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTilesheet",
+        "FromFile": "assets/Tree/OutdoorOak/{{TreeStyle_Outdoor_Oak}}.png",
+        "FromArea": {"X":16, "Y":64, "Width":16, "Height":32},
+        "ToArea": {"X": 64, "Y": 64, "Width": 16, "Height": 32},
+        "PatchMode" : "Replace",
+        "When": {
+                "Outdoor_Oak": true,
+                }
+        },
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTilesheet",
+        "FromFile": "assets/Tree/OutdoorOak/OakStump.png",
+        "ToArea": {"X": 0, "Y": 64, "Width": 16, "Height": 16},
+        "PatchMode" : "Replace",
+        "When": {
+                "Outdoor_Oak": true,
+                "Season": "spring, summer, fall",
+                }
+        },
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTilesheet",
+        "FromFile": "assets/Tree/OutdoorOak/OakStump_winter.png",
+        "ToArea": {"X": 0, "Y": 64, "Width": 16, "Height": 16},
+        "PatchMode" : "Replace",
+        "When": {
+                "Outdoor_Oak": true,
+                "Season": "winter",
+                }
+        },
+
+//Outdoor Tilesheet Tree 3 (Pine) Part 1
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTilesheet",
+        "FromFile": "assets/Tree/OutdoorPine/{{TreeStyle_Outdoor_Pine}}.png",
+        "FromArea": {"X":0, "Y":0, "Width":48, "Height":64},
+        "ToArea": {"X": 160, "Y": 0, "Width": 48, "Height": 64},
+        "PatchMode" : "Replace",
+        "When": {
+                "Outdoor_Pine": true,
+                }
+        },
+//Outdoor Tilesheet Tree 3 (Pine) Part 2
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTilesheet",
+        "FromFile": "assets/Tree/OutdoorPine/{{TreeStyle_Outdoor_Pine}}.png",
+        "FromArea": {"X":16, "Y":64, "Width":16, "Height":32},
+        "ToArea": {"X": 176, "Y": 64, "Width": 16, "Height": 32},
+        "PatchMode" : "Replace",
+        "When": {
+                "Outdoor_Pine": true,
+                }
+        },
+//Outdoor Tilesheet Tree 4 (Cherry) Part 1
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTilesheet",
+        "FromFile": "assets/Tree/OutdoorCherry/{{TreeStyle_Outdoor_Cherry}}.png",
+        "FromArea": {"X":0, "Y":0, "Width":96, "Height":64},
+        "ToArea": {"X":256, "Y":0, "Width":96, "Height":64},
+        "PatchMode" : "Replace",
+        "When": {
+                "Outdoor_Cherry": true,
+                "LocationContext": "Valley",
+                },
+        "Update": "OnLocationChange"
+        },
+//Outdoor Tilesheet Tree 4 (Cherry) Part 2
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTilesheet",
+        "FromFile": "assets/Tree/OutdoorCherry/{{TreeStyle_Outdoor_Cherry}}.png",
+        "FromArea": {"X":32, "Y":64, "Width":32, "Height":48},
+        "ToArea": {"X":288, "Y":64, "Width":32, "Height":48},
+        "PatchMode" : "Replace",
+        "When": {
+                "Outdoor_Cherry": true,
+                "LocationContext": "Valley",        
+                },
+        "Update": "OnLocationChange"
+        },
+//Outdoor Tilesheet Tree 4 (Catalpa) Part 1
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTilesheet",
+        "FromFile": "assets/Tree/OutdoorCatalpa/{{TreeStyle_Outdoor_Catalpa}}.png",
+        "FromArea": {"X":0, "Y":0, "Width":64, "Height":64},
+        "ToArea": {"X":96, "Y":0, "Width":64, "Height":64},
+        "PatchMode" : "Replace",
+        "When": {
+                "Outdoor_Catalpa": true,
+                }
+        },
+//Outdoor Tilesheet Tree 4 (Catalpa) Part 2        
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTilesheet",
+        "FromFile": "assets/Tree/OutdoorCatalpa/{{TreeStyle_Outdoor_Catalpa}}.png",
+        "FromArea": {"X":16, "Y":64, "Width":32, "Height":48},
+        "ToArea": {"X":112, "Y":64, "Width":32, "Height":48},
+        "PatchMode" : "Replace",
+        "When": {
+                "Outdoor_Catalpa": true,
+                }
+        },
+//Town Tree Part 1
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_Town",
+        "FromFile": "assets/Tree/TownTree/{{TreeStyle_Town}}.png",
+        "FromArea": {"X":0, "Y":0, "Width":64, "Height":80},
+        "ToArea": {"X":224, "Y":384, "Width":64, "Height":80},
+        "PatchMode" : "Replace",
+        "When": {
+                "Town_Tree": true,
+                }
+        },
+//TownTree Part 2
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_Town",
+        "FromFile": "assets/Tree/TownTree/{{TreeStyle_Town}}.png",
+        "FromArea": {"X":16, "Y":80, "Width":32, "Height":32},
+        "ToArea": {"X":240, "Y":464, "Width":32, "Height":32},
+        "PatchMode" : "Replace",
+        "When": {
+                "Town_Tree": true,
+                }
+        },
+//Leo Tree Part 1
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTilesheet2",
+        "FromFile": "assets/Tree/Outdoor2Leo/{{TreeStyle_Outdoor2_Leo}}.png",
+        "FromArea": {"X": 0, "Y": 0, "Width": 112, "Height": 80},
+        "ToArea": {"X": 0, "Y": 112, "Width": 112, "Height": 80},
+        "PatchMode" : "Replace",
+        "When": {"Outdoor2_Leo": true,}
+        },
+
+//Leo Tree Part 2
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTilesheet2",
+        "FromFile": "assets/Tree/Outdoor2Leo/{{TreeStyle_Outdoor2_Leo}}.png",
+        "FromArea": {"X": 16, "Y": 80, "Width": 64, "Height": 32},
+        "ToArea": {"X": 16, "Y": 192, "Width": 64, "Height": 32},
+        "PatchMode" : "Replace",
+        "When": {"Outdoor2_Leo": true,}
+        },
+
+//Leo Tree Part 3
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTilesheet2",
+        "FromFile": "assets/Tree/Outdoor2Leo/{{TreeStyle_Outdoor2_Leo}}.png",
+        "FromArea": {"X": 80, "Y": 80, "Width": 16, "Height": 48},
+        "ToArea": {"X": 80, "Y": 192, "Width": 16, "Height": 48},
+        "PatchMode" : "Replace",
+        "When": {"Outdoor2_Leo": true,}
+        },
+    ]
+}

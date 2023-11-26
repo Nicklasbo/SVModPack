@@ -1,0 +1,14 @@
+{
+  "wormbin": "enabled",
+  "kiln": "enabled",
+  "heater": "enabled",
+  "mayomachine": "enabled",
+  "seedmaker": "enabled",
+  "cheesepress": "enabled",
+  "loom": "enabled",
+  "oilpress": "default",
+  "recycler": "enabled",
+  "crystallarium": "enabled",
+  "furnace": "enabled",
+  "hatchery": "enabled"
+}

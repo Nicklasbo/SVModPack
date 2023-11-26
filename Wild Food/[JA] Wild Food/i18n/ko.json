@@ -1,0 +1,228 @@
+{
+
+	//SEEDS
+
+	"vanilla-seeds.name": "칼리코 바닐라 씨앗",
+	"vanilla-seeds.description": "여름에 심으세요. 성장하려면 14일이 소요되고, 5일마다 수확 할 수 있습니다.",
+
+	"tea-seeds.name": "펀길 차 덤불 씨앗",
+	"tea-seeds.description": "봄, 여름 또는 가을에 심으세요. 성장하려면 14일이 소요되고, 4일마다 수확 할 수 있습니다.",
+
+	"chamomile-seeds.name": "숲 카모마일 씨앗",
+	"chamomile-seeds.description": "가을에 심으세요. 성장하려면 7일이 소요됩니다.",
+
+	"lavender-seeds.name": "숲 라벤더 씨앗",
+	"lavender-seeds.description": "봄, 여름 또는 가을에 심으세요. 성장하려면 14일이 소요되고, 4일마다 꽃을 수확 할 수 있습니다.",
+
+	"jasmine-seeds.name": "보석 섬 자스민 씨앗",
+	"jasmine-seeds.description": "여름에 심으세요. 성장하려면 7일이 소요됩니다.",
+
+	"mallow-seeds.name": "마시멜로 씨앗",
+	"mallow-seeds.description": "봄 또는 여름에 심으세요. 성장하려면 10일이 소요됩니다.",
+
+	"mint-seeds.name": "펠리칸 민트 씨앗",
+	"mint-seeds.description": "봄, 여름 또는 가을에 심으세요. 성장하려면 10일이 소요되고, 3일마다 수확 할 수 있습니다.",
+
+	"carrot-seeds.name": "야생 당근 씨앗",
+	"carrot-seeds.description": "봄이나 가을에 심습니다. 자라는데 7일이 걸린다.",
+
+	"onion-seeds.name": "야생 붉은 양파 씨앗",
+	"onion-seeds.description": "봄이나 가을에 심습니다. 자라는데 7일이 걸린다.",
+
+	"strawberry-seeds.name": "야생 딸기 덤불",
+	"strawberry-seeds.description": "봄 또는 여름에 심으세요. 성장하려면 10일이 소요되고, 3일마다 수확 할 수 있습니다.",
+
+	"raspberry-seeds.name": "야생 라즈베리 덤불",
+	"raspberry-seeds.description": "봄 또는 여름에 심으세요. 성장하려면 10일이 소요되고, 3일마다 수확 할 수 있습니다.",
+	
+	//HERB SEEDS
+
+	"basil-seeds.name": "스위트 바질 씨앗",
+	"basil-seeds.description": "봄 또는 여름에 심습니다. 자라는 데 7일이 걸리며 이후 2일마다 수확할 수 있습니다.",
+	
+	"cilantro-seeds.name": "잉걸불 수액 실란트로 씨앗",
+	"cilantro-seeds.description": "봄 또는 여름에 심습니다. 자라는 데 7일이 걸리며 이후 2일마다 수확할 수 있습니다.",
+	
+	"rosemary-seeds.name": "강한 로즈마리 씨앗",
+	"rosemary-seeds.description": "봄이나 가을에 심습니다. 자라는 데 7일이 걸리며 이후 2일마다 수확할 수 있습니다.",
+	
+	"sage-seeds.name": "잉걸불 수액 세이지 씨앗",
+	"sage-seeds.description": "봄이나 가을에 심습니다. 자라는 데 7일이 걸리며 이후 2일마다 수확할 수 있습니다.",
+	
+	"thyme-seeds.name": "레몬 백리향 씨앗",
+	"thyme-seeds.description": "봄, 여름 또는 가을에 심습니다. 자라는 데 7일이 걸리며 이후 2일마다 수확할 수 있습니다.",
+	
+
+	// MUSHROOM STARTERS
+
+    "chick-mushroom.name":"포레스트 치킨 버섯 스타터",
+    "chick-mushroom.description":"여름에 심습니다. 자라는데 10일이 걸리고, 이후 4일마다 수확할 수 있습니다.",
+
+    "honey-mushroom.name":"꿀곰팡이 버섯 스타터",
+    "honey-mushroom.description":"봄, 혹은 가을에 심습니다. 자라는데 10일이 걸리고, 이후 4일마다 수확할 수 있습니다.",
+
+    "meringue-mushroom.name":"머랭 버섯 스타터",
+    "meringue-mushroom.description":"가을에 심습니다. 자라는데 10일이 걸리고, 이후 4일마다 수확할 수 있습니다.",
+
+    "milky-mushroom.name":"밀키 버섯 스타터",
+    "milky-mushroom.description":"여름, 혹은 가을에 심습니다. 자라는데 10일이 걸리고, 이후 4일마다 수확할 수 있습니다.",
+
+    "wheat-mushroom.name":"밀베리 버섯 스타터",
+    "wheat-mushroom.description":"봄에 심습니다. 자라는데 10일이 걸리고, 이후 4일마다 수확할 수 있습니다.",
+	
+	//HERBS
+	
+	"sweet-basil.name": "스위트 바질",
+	"sweet-basil.description": "색과 풍미를 위해 다양한 요리 전통에 사용되는 더 달콤한 다양한 인기 허브.",
+	
+	"cindersap-cilantro.name": "잉걸불 수액 실란트로",
+	"cindersap-cilantro.description": "매운 요리나 살사에 자주 사용되는 야생 고수(코리앤더라고도 합니다!).",
+	
+	"cindersap-sage.name": "잉걸불 수액 세이지",
+	"cindersap-sage.description": "꽃 향이 나는 섬세한 허브로, 많은 가을 요리의 풍부한 풍미를 베어내기 위해 사용됩니다.",
+	
+	"hardy-rosemary.name": "강한 로즈마리",
+	"hardy-rosemary.description": "거의 모든 곳에서 번성하는 강하고 튼튼한 허브; 그것은 거의 작은 소나무와 비슷합니다.",
+	
+	"lemon-thyme.name": "레몬 백리향",
+	"lemon-thyme.description": "모든 정원에서 빠르게 자라는 인기 있는 허브; 레몬 품종은 허브, 감귤 향으로 높이 평가됩니다.",
+	
+	//TREES NEW
+
+	"lemon-sapling.name":"작은 레몬 묘목",
+	"lemon-sapling.description":"성목이 되기까지 28일이 걸립니다. 봄에 열매를 맺습니다.",
+	
+	"lime-sapling.name":"작은 라임 묘목",
+	"lime-sapling.description":"성목이 되기까지 28일이 걸립니다. 봄에 열매를 맺습니다.",
+
+
+	//TREES
+
+	"pistachio-sapling.name": "칼리코 피스타치오 묘목",
+	"pistachio-sapling.description": "성목이 되기까지 28일이 걸립니다. 가을에 열매를 맺습니다.",
+
+	"cinnamon-sapling.name": "잉걸불 수액 계피 묘목",
+	"cinnamon-sapling.description": "성목이 되기까지 28일이 걸립니다. 겨울에 껍질을 수확하다",
+
+	"olive-sapling.name": "페른 섬 올리브 묘목",
+	"olive-sapling.description": "성목이 되기까지 28일이 걸립니다. 여름에 열매를 맺습니다.",
+
+	"cashew-sapling.name": "보석 해 캐슈넛 묘목",
+	"cashew-sapling.description": "성목이 되기까지 28일이 걸립니다. 가을에 열매를 맺습니다.",
+
+	"walnut-sapling.name": "그램플턴 호두 묘목",
+	"walnut-sapling.description": "성목이 되기까지 28일이 걸립니다. 가을에 열매를 맺습니다.",
+
+	"almond-sapling.name": "성 카놀리 아몬드 묘목",
+	"almond-sapling.description": "성목이 되기까지 28일이 걸립니다. 가을에 열매를 맺습니다.",
+
+	"cacao-sapling.name": "야생 카카오 묘목",
+	"cacao-sapling.description": "28일 후 성목이 됩니다. 가을에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
+
+	//OBJECTS
+
+	//Calico Pistachio
+	"calico-pistachio.name":"칼리코 피스타치오",
+	"calico-pistachio.description":"칼리코 사막에서 채집을 통해서만 발견되는 독특한 견과류입니다.",
+
+    //Calico Vanilla
+	"calico-vanilla.name": "칼리코 바닐라",
+	"calico-vanilla.description": "칼리코 사막에서 채집을 통해서만 발견되는 독특한 바닐라.",
+
+	//Cherry Blossom Petals
+	"cherry-blossom.name": "벚꽃 꽃잎",
+	"cherry-blossom.description": "활짝 핀 벚꽃의 신선한 꽃잎.",
+
+	//Chicken of the Woods
+	"chicken-woods.name": "포레스트 치킨",
+	"chicken-woods.description": "이 이상한 이름의 버섯은 전 세계에서 발견되며 어떤 사람들은 이것이 정말로 닭고기와 맛이 똑같다고 주장합니다!",
+	
+	//Cindersap Cinnamon
+	"cindersap-cinnamon.name": "잉걸불 수액 시나몬",
+	"cindersap-cinnamon.description": "겨울에 잉걸불 수액 숲에서만 볼 수 있는 희귀한 계피나무 껍질.",
+	
+	//Fern Isle Olive
+	"fern-olive.name": "페른 섬 올리브",
+	"fern-olive.description": "해변에서 발견되는 희귀한 올리브",
+	
+	//Ferngill Tea Leaf
+	"tea-leaf.name": "펀길 차 덤불 잎",
+	"tea-leaf.description": "펀길 숲에서 채집한 신선한 찻잎.",
+	
+	//Forest Chamomile
+	"forest-chamomile.name": "숲 카모마일",
+	"forest-chamomile.description": "숲 깊은 곳에서 발견되는 차로 만들기에 딱 좋은 섬세한 꽃.",
+	
+	//Forest Lavender
+	"forest-lavender.name": "숲 라벤더",
+	"forest-lavender.description": "숲 깊은 곳에서 발견되는 짙은 향기의 꽃.",
+
+	//Gem Isle Jasmine
+	"gem-jasmine.name": "보석 섬 자스민",
+	"gem-jasmine.description": "진저 섬에서만 발견할 수 있는 아름다운 향.",
+	
+	//Gem Sea Cashew
+	"gem-cashew.name": "보석 해 캐슈",
+	"gem-cashew.description": "보석 해의 섬에서만 발견되는 열대 캐슈애플 나무의 씨앗.",
+	
+	//Grampleton Walnut
+	"grampleton-walnut.name": "그램플턴 호두",
+	"grampleton-walnut.description": "그램플턴에서 발견되었으나 현재는 펠리컨 마을에서도 쉽게 찾아볼 수 있는 호두입니다!",
+
+    //Honey Fungus Mushroom
+	"honey-fungus.name": "꿀 곰팡이 버섯",
+	"honey-fungus.description": "생으로 먹는 것은 위험하지만, 이 버섯은 적절하게 요리하면 풍부하고 고소한 맛이 납니다.",
+	
+	//Marsh Mallow
+	"marsh-mallow.name": "마시멜로",
+	"marsh-mallow.description": "주로 디저트를 만드는 데 사용되는 마시멜로 꽃",
+	
+	//Meringue Mushroom
+	"meringue-shroom.name": "머랭 버섯",
+	"meringue-shroom.description": "계곡 최고의 채집가들만이 찾아볼 수 있는 이상하게 달콤한 버섯으로 색깔과 모양이 마치 사탕처럼 생겼습니다.",
+	
+	//Milky White Mushrooms
+	"white-shroom.name": "밀키 버섯",
+	"white-shroom.description": "이 버섯은 밝은 흰색이며 크림 같은 질감을 가지고 있습니다.",
+	
+	//Pelican Mint
+	"pelican-mint.name": "펠리칸 민트",
+	"pelican-mint.description": "마을 사람들이 아무리 제거하려 노력해도 펠리컨 마을 주변에서 자라는 박하.",
+	
+	//Petite Lemon
+	"petite-lemon.name": "작은 레몬",
+	"petite-lemon.description": "숙련된 채집가가 야생에서 발견한 작지만 향긋한 레몬.",
+
+	//Petite Lime
+	"petite-lime.name": "작은 라임",
+	"petite-lime.description": "숙련된 채집가가 야생에서 발견한 작지만 향긋한 라임.",
+
+	//St Cannoli Almond
+    "cannoli-almond.name": "성 카놀리 아몬드",
+	"cannoli-almond.description": "숙련된 채집가의 꿈이 이루어졌습니다! 노장 카놀리가 직접 재배한 것으로 알려진 가장 희귀한 아몬드입니다.",
+	
+	//Wheatberry Mushroom
+	"wheat-shroom.name": "밀베리 버섯",
+	"wheat-shroom.description": "아마추어 채집가에게 있어 매우 흔한 버섯이지만 숙련된 채집가들은 이 곰팡이가 중요한 요리 재료로 전환될 수 있다는 것을 알고 있습니다.",
+	
+	//Wild Cacao Pod
+	"wild-cacao.name": "야생 카카오",
+	"wild-cacao.description": "코코아 및 이국적인 음식을 만드는 데 사용되는 카카오 나무의 꼬투리.",
+	
+	//Wild Carrot
+	"wild-carrot.name": "야생 당근",
+	"wild-carrot.description": "당근입니다! 다만, 야생의 것이니 조심하는게 좋을거에요!",
+	
+	//Wild Raspberry
+	"wild-raspberry.name": "야생 라즈베리",
+	"wild-raspberry.description": "펀길 전역의 숲에서 자생하는 작고 달콤한 베리.",
+	
+	//Wild Red Onion
+	"wild-onion.name": "야생 붉은 양파",
+	"wild-onion.description": "야생 당근과 마찬가지로 이 양파도 주의하세요. 그렇지 않으면 울게 될겁니다!",
+	
+	//Wild Strawberry
+	"wild-strawberry.name": "야생 딸기",
+	"wild-strawberry.description": "펀길 전역의 숲에서 자생하는 작은 종류의 딸기."
+	
+}

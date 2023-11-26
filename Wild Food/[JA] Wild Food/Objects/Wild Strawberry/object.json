@@ -1,0 +1,26 @@
+{	"Name": "wf strawberry",
+	"Description": "A smaller variety of strawberry that grows wild in forests all over Ferngill",
+	"TranslationKey": "wild-strawberry",
+	"Category": "Fruit",
+	"Edibility": 15,
+	"Price": 15,
+	"IsColored": false,
+	"Recipe": null,
+	"CanPurchase": true,
+	"PurchaseFrom": "Gus",
+	"PurchasePrice": 450,
+    "GiftTastes": {
+
+		"Love": ["Caroline","Elliott","Evelyn","Gus","Linus"],
+		"Like": ["Abigail", "Demetrius","Emily", "Haley","Jas","Jodi","Kent","Krobus","Leah","Marnie","Maru","Robin","Sam","Sandy"],
+		"Neutral": ["Alex","Dwarf","Harvey","Leo","Lewis","Pam","Pierre","Shane","Vincent","Wizard"],
+	
+	  },
+	  
+	"ContextTags": [
+		"wildflour_forage",
+		  "forage_item",
+		  "fruit_item",
+		  "color_pink"
+	  ]
+}

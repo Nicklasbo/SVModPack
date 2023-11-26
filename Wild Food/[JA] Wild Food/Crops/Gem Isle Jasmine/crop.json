@@ -1,0 +1,21 @@
+﻿{
+	"Name": "wf jasmine seeds",
+	"Product": "wf jasmine",
+	"SeedName": "wf jasmine seeds",
+	"SeedPrice": 85,
+	"SeedDescription": "...",	
+	"SeedTranslationKey": "jasmine-seeds",
+	"Type": "Flower",
+	"Seasons": ["summer","fall"],
+	"Phases": [ 1, 2, 2, 1,1],
+	"RegrowthPhase": -1,
+	"HarvestWithScythe": false,
+	"TrellisCrop": false,
+	"Colors": null,
+	"Bonus":{
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 10,
+        "ExtraChance": 0.4,
+    },
+}

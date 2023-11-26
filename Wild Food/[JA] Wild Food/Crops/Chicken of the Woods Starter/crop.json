@@ -1,0 +1,22 @@
+﻿{
+	"Name": "wf chickenwoods seeds",
+	"Product": "wf chickenofthewoods",
+	"SeedName": "wf chickenwoods seeds",
+	"SeedPrice": 215,
+	"SeedDescription": "...",	
+	"SeedTranslationKey": "chick-mushroom",
+	"Type": "Vegetable",
+	"Seasons": ["summer"],
+	"Phases": [1, 2, 3, 3, 1],
+    "RegrowthPhase": 4,
+	"HarvestWithScythe": false,
+	"TrellisCrop": false,
+	"Colors": null,
+	"Bonus":
+	{
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 10,
+        "ExtraChance": 0.4,
+    },
+}

@@ -1,0 +1,26 @@
+{	"Name": "wf milkshroom",
+	"Description": "...",
+	"TranslationKey": "white-shroom",
+	"Category": "Vegetable",
+	"CategoryTextOverride": "Mushroom",
+	"Edibility": 12,
+	"Price": 175,
+	"IsColored": false,
+	"Recipe": null,
+	"CanPurchase": false,
+    "GiftTastes": {
+
+		"Love": ["Gus","Harvey","Leah","Linus"],
+		"Like": [ "Elliott", "Kent","Lewis","Marnie"],
+		"Neutral": ["Abigail","Alex", "Clint","Demetrius","Emily","Evelyn","George","Maru","Robin","Sandy","Wizard"],
+		"Dislike": ["Caroline","Dwarf","Haley", "Jodi","Pierre","Pam","Shane","Sam"],
+		"Hate": ["Jas", "Vincent", "Leo"]
+		
+	  },
+	"ContextTags": [
+		"wildflour_forage",
+		  "forage_item",
+		  "color_sand",
+		  "mushroom_item"
+	  ]
+}

@@ -1,0 +1,226 @@
+{
+
+	//SEEDS
+
+	"vanilla-seeds.name": "カリコバニラ栽培キット",
+	"vanilla-seeds.description": "夏植えの作物。成長まで14日かかるが、そのあとも5日おきに収穫が可能。",
+
+	"tea-seeds.name": "フェーンギル茶葉栽培キット",
+	"tea-seeds.description": "冬以外のどの季節でも植えられる。成長まで14日かかるが、そのあとも4日おきに収穫が可能。",
+
+	"chamomile-seeds.name": "フォレストカモミールの種",
+	"chamomile-seeds.description": "秋植えの作物。そだつのに7日かかる。",
+
+	"lavender-seeds.name": "フォレストラベンダーの種",
+	"lavender-seeds.description": "冬以外のどの季節でも植えられる。成長まで14日かかるが、そのあとも4日おきに収穫が可能。",
+
+	"jasmine-seeds.name": "ジンジャージャスミンの種",
+	"jasmine-seeds.description": "夏か秋植えの作物。そだつのに7日かかる。",
+
+	"mallow-seeds.name": "マシュマロの種",
+	"mallow-seeds.description": "香りがよく、風味豊かな花を咲かせるマシュマロは、春か夏植えの作物。そだつのに7日かかる。",
+
+	"mint-seeds.name": "ペリカンミントの種",
+	"mint-seeds.description": "冬以外のどの季節でも植えられる。成長まで10日かかるが、そのあとも3日おきに収穫が可能。",
+
+	"carrot-seeds.name": "ワイルドキャロットの種",
+	"carrot-seeds.description": "春か秋植えの作物。そだつのに7日かかる。",
+
+	"onion-seeds.name": "ワイルドレッドオニオンの種",
+	"onion-seeds.description": "春か秋植えの作物。そだつのに7日かかる。",
+
+	"strawberry-seeds.name": "ワイルドストロベリーの種",
+	"strawberry-seeds.description": "春か夏植えの作物。成長まで10日かかるが、そのあとも3日おきに収穫が可能。",
+
+	"raspberry-seeds.name": "ワイルドラズベリーの種",
+	"raspberry-seeds.description": "春か夏植えの作物。成長まで10日かかるが、そのあとも3日おきに収穫が可能。",
+
+	//HERB SEEDS
+
+	"basil-seeds.name": "スイートバジルの種",
+	"basil-seeds.description": "春か夏植えの作物。成長まで7日かかるが、そのあとも2日おきに収穫が可能。",
+	
+	"cilantro-seeds.name": "シンダーサップコリアンダーの種",
+	"cilantro-seeds.description": "春か夏植えの作物。成長まで7日かかるが、そのあとも2日おきに収穫が可能。",
+	
+	"rosemary-seeds.name": "ハーディローズマリーの種",
+	"rosemary-seeds.description": "春か秋植えの作物。成長まで7日かかるが、そのあとも2日おきに収穫が可能。",
+	
+	"sage-seeds.name": "シンダーサップセージの種",
+	"sage-seeds.description": "春か秋植えの作物。成長まで7日かかるが、そのあとも2日おきに収穫が可能。",
+	
+	"thyme-seeds.name": "レモンタイムの種",
+	"thyme-seeds.description": "冬以外のどの季節でも植えられる。成長まで7日かかるが、そのあとも2日おきに収穫が可能。",
+
+	// MUSHROOM STARTERS
+
+    "chick-mushroom.name":"マスタケ栽培キット",
+    "chick-mushroom.description":"夏植えの作物。成長まで10日かかるが、そのあとも4日おきに収穫が可能。",
+
+    "honey-mushroom.name":"ナラタケ栽培キット",
+    "honey-mushroom.description":"春か秋植えの作物。成長まで10日かかるが、そのあとも4日おきに収穫が可能。",
+
+    "meringue-mushroom.name":"メレンゲマッシュルーム栽培キット",
+    "meringue-mushroom.description":"秋植えの作物。成長まで10日かかるが、そのあとも4日おきに収穫が可能。",
+
+    "milky-mushroom.name":"まっしろきのこ栽培キット",
+    "milky-mushroom.description":"夏か秋植えの作物。成長まで10日かかるが、そのあとも4日おきに収穫が可能。",
+
+    "wheat-mushroom.name":"ウィートベリー・マッシュルーム栽培キット",
+    "wheat-mushroom.description":"春植えの作物。成長まで10日かかるが、そのあとも4日おきに収穫が可能。",
+	
+	//HERBS
+	
+	"sweet-basil.name": "スイートバジル",
+	"sweet-basil.description": "色と香りから様々な料理に使われる人気のハーブの、より甘い品種。",
+	
+	"cindersap-cilantro.name": "シンダーサップコリアンダー",
+	"cindersap-cilantro.description": "コリアンダーの野生種で、スパイシーな料理やサルサによく使われる。",
+	
+	"cindersap-sage.name": "シンダーサップセージ",
+	"cindersap-sage.description": "花のような香りを持つ繊細なハーブで、秋の料理の濃厚な味を引き立たせるために使われる。",
+	
+	"hardy-rosemary.name": "ハーディローズマリー",
+	"hardy-rosemary.description": "小さな松の木に似ていて、どこにでも生える丈夫なハーブ。",
+	
+	"lemon-thyme.name": "レモンタイム",
+	"lemon-thyme.description": "どんな庭でもすぐに育つ人気のハーブで、レモン種はハーブのような柑橘系の風味で珍重されている。",
+	
+	//TREES NEW
+
+	"lemon-sapling.name":"プチレモンの苗",
+	"lemon-sapling.description":"28日かけて成木にそだち、春になると実をつける。",
+	
+	"lime-sapling.name":"プチライムの苗",
+	"lime-sapling.description":"28日かけて成木にそだち、春になると実をつける。",
+	
+	//TREES
+
+	"pistachio-sapling.name": "カリコピスタチオの苗",
+	"pistachio-sapling.description": "28日かけて成木にそだち、秋になると実をつける。",
+
+	"cinnamon-sapling.name": "カリコバニラの苗",
+	"cinnamon-sapling.description": "28日かけて成木にそだち、冬に樹皮を収穫する。",
+
+	"olive-sapling.name": "フェーンオリーブの苗",
+	"olive-sapling.description": "28日かけて成木にそだち、夏になると実をつける。",
+
+	"cashew-sapling.name": "ジンジャーカシューの苗",
+	"cashew-sapling.description": "28日かけて成木にそだち、秋になると実をつける。",
+
+	"walnut-sapling.name": "グランプルトンウォールナッツの苗",
+	"walnut-sapling.description": "28日かけて成木にそだち、秋になると実をつける。",
+
+	"almond-sapling.name": "セント・カンノーリ・アーモンドの苗",
+	"almond-sapling.description": "28日かけて成木にそだち、秋になると実をつける。",
+
+	"cacao-sapling.name": "ワイルドカカオの苗",
+	"cacao-sapling.description": "28日かけて成木にそだち、秋になると実をつける。",
+
+	//OBJECTS
+
+	//Calico Pistachio
+	"calico-pistachio.name": "カリコピスタチオ",
+	"calico-pistachio.description": "カリコ砂漠で採れた珍しいピスタチオ。",
+
+    //Calico Vanilla
+	"calico-vanilla.name": "カリコバニラ",
+	"calico-vanilla.description": "カリコ砂漠で採れた珍しいバニラ。",
+
+	//Cherry Blossom Petals
+	"cherry-blossom.name": "さくらの花びら",
+	"cherry-blossom.description": "咲き誇るさくらの花びら。",
+
+	//Chicken of the Woods
+	"chicken-woods.name": "マスタケ",
+	"chicken-woods.description": "この不思議な名前のキノコは世界中にあり、チキンのような味がすると言う人もいる。",
+	
+	//Cindersap Cinnamon
+	"cindersap-cinnamon.name": "シンダーサップシナモン",
+	"cindersap-cinnamon.description": "シンダーサップの森で、冬にしか見られない珍しいシナモンの樹皮。",
+	
+	//Fern Isle Olive
+	"fern-olive.name": "フェーンオリーブ",
+	"fern-olive.description": "熱帯の島々に生息する珍しい種類のオリーブで、フェーンギル共和国の海岸で熟練ハンターが発見した。",
+	
+	//Ferngill Tea Leaf
+	"tea-leaf.name": "フェーンギル茶",
+	"tea-leaf.description": "フェーンギル共和国の森での採集で見つけた新鮮な茶葉。",
+	
+	//Forest Chamomile
+	"forest-chamomile.name": "フォレストカモミール",
+	"forest-chamomile.description": "森の奥に咲く繊細な花で、お茶に最適。",
+	
+	//Forest Lavender
+	"forest-lavender.name": "フォレストラベンダー",
+	"forest-lavender.description": "森の奥で見つけた、香りのよいふさふさした花。",
+
+	//Gem Isle Jasmine
+	"gem-jasmine.name": "ジンジャージャスミン",
+	"gem-jasmine.description": "ジンジャーアイランドでしか採取できない美しい香りを持つ。",
+	
+	//Gem Sea Cashew
+	"gem-cashew.name": "ジンジャーカシュー",
+	"gem-cashew.description": "ジンジャーアイランド海域の島々にのみ生息する、熱帯性のカシューアップルから採れる木の実。",
+	
+	//Grampleton Walnut
+	"grampleton-walnut.name": "グランプルトンウォールナッツ",
+	"grampleton-walnut.description": "グランプルトンで栽培されていたクルミの品種が、ペリカンタウンでも栽培されるようになった。",
+
+    //Honey Fungus Mushroom
+	"honey-fungus.name": "ナラタケ",
+	"honey-fungus.description": "生食は危険だが、適切に調理することでコクとナッツのような風味を持つ。",
+	
+	//Marsh Mallow
+	"marsh-mallow.name": "マシュマロの花",
+	"marsh-mallow.description": "マシュマロの花。主にお菓子作りに使われる。",
+	
+	//Meringue Mushroom
+	"meringue-shroom.name": "メレンゲマッシュルーム",
+	"meringue-shroom.description": "色も形もまるでお菓子のようで、この谷で最も優れた採集者だけが見つけることができる、不思議な甘さを持つキノコ。",
+	
+	//Milky White Mushrooms
+	"white-shroom.name": "まっしろきのこ",
+	"white-shroom.description": "真っ白でクリーミーな食感のキノコ。",
+	
+	//Pelican Mint
+	"pelican-mint.name": "ペリカンミント",
+	"pelican-mint.description": "ペリカンタウンのいたるところに生えていて、村人たちがどんなに追い払ってもなくならないミントの一種。",
+	
+	//Petite Lemon
+	"petite-lemon.name": "プチレモン",
+	"petite-lemon.description": "野外で見つかる、小さくても味わい深いレモン。",
+
+	//Petite Lime
+	"petite-lime.name": "プチライム",
+	"petite-lime.description": "野外で見つかる、小さくても味わい深いライム。",
+
+	//St Cannoli Almond
+    "cannoli-almond.name": "セント・カンノーリ・アーモンド",
+	"cannoli-almond.description": "探求者の夢がかなう! カンノーリ老師が自ら育てたと言われる希少なアーモンド。",
+	
+	//Wheatberry Mushroom
+	"wheat-shroom.name": "ウィートベリー・マッシュルーム",
+	"wheat-shroom.description": "素人目には何の変哲もないキノコだが、玄人たちはこのキノコが料理の重要な食材になることを知っている。",
+	
+	//Wild Cacao Pod
+	"wild-cacao.name": "ワイルドカカオ",
+	"wild-cacao.description": "カカオの木のフルーティーで肉厚なサヤ。ココアやエキゾチックな食品に使われる。",
+	
+	//Wild Carrot
+	"wild-carrot.name": "ワイルドキャロット",
+	"wild-carrot.description": "ニンジンなんだけど、野生のだから気をつけて！",
+	
+	//Wild Raspberry
+	"wild-raspberry.name": "ワイルドラズベリー",
+	"wild-raspberry.description": "フェーンギル各地の森に自生する、小さくて甘いベリー。",
+	
+	//Wild Red Onion
+	"wild-onion.name": "ワイルドレッドオニオン",
+	"wild-onion.description": "野生のニンジンと同じように、このタマネギも要注意！泣けますよ。",
+	
+	//Wild Strawberry
+	"wild-strawberry.name": "ワイルドストロベリー",
+	"wild-strawberry.description": "フェーンギル各地の森に自生するイチゴの小型品種。"
+	
+}

@@ -1,0 +1,12 @@
+{
+    "Name": "wf cacao tree",
+    "Product": "wf cacaopod",
+	"SaplingTranslationKey":"cacao-sapling",
+    "SaplingName": "wf cacao sapling",
+    "SaplingPurchasePrice":"7500",
+    "SaplingDescription": "...", 
+    "Season": "fall",
+    "DisableWithMod": "callysquared.marshmallows"
+
+    
+}
