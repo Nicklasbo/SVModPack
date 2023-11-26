@@ -1,0 +1,21 @@
+{
+    "Name": "PPJA More Trees Retexture",
+    "Author": "NinTheCactus69",
+    "Version": "2.0.2",
+    "Description": "Retextured PPJA trees!",
+    "UniqueID": "NinTheCactus69.RetexPPJATrees",
+    "UpdateKeys": ["Nexus:13617"],
+    "Dependencies": [
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+    {
+        "UniqueID": "ppja.moretrees",
+        "IsRequired": true
+    }
+],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher",
+        "MinimumVersion": "1.9"
+    }
+}

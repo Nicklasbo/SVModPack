@@ -7,7 +7,17 @@
     "HarvestBushes": true,
     "HarvestForageCrops": true,
     "ClearDeadCrops": true,
-    "VisitGreenhouse": true
+    "VisitGreenhouse": true,
+    "HarvestGrass": true,
+    "HarvestDebris": true,
+    "CollectDroppedObjects": true,
+    "ChopTrees": true,
+    "CollectSeeds": true,
+    "FertilizeTrees": true,
+    "PlantTrees": true,
+    "PlantFruitTrees": true,
+    "HarvestFruitTrees": true,
+    "HoeAroundTrees": true
   },
   "JunimoHuts": {
     "MaxJunimos": 5,
