@@ -3,7 +3,7 @@
   "version": 1,
   "deploymentMethod": "hardlink_activator",
   "gameId": "stardewvalley",
-  "deploymentTime": 1701620077770,
+  "deploymentTime": 1701634624189,
   "stagingPath": "C:\\Users\\Bo\\AppData\\Roaming\\Vortex\\stardewvalley\\mods",
   "targetPath": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods",
   "files": [
@@ -194,36 +194,6 @@
       "time": 1610940514000
     },
     {
-      "relPath": "SMAPIHealthBarMod\\SMAPIHealthBarMod.dll",
-      "source": "Enemy Health Bars-193-1-9-1575392244",
-      "target": "",
-      "time": 1575372670000
-    },
-    {
-      "relPath": "SMAPIHealthBarMod\\screenshot.png",
-      "source": "Enemy Health Bars-193-1-9-1575392244",
-      "target": "",
-      "time": 1575372670000
-    },
-    {
-      "relPath": "SMAPIHealthBarMod\\README.md",
-      "source": "Enemy Health Bars-193-1-9-1575392244",
-      "target": "",
-      "time": 1575372670000
-    },
-    {
-      "relPath": "SMAPIHealthBarMod\\manifest.json",
-      "source": "Enemy Health Bars-193-1-9-1575392244",
-      "target": "",
-      "time": 1575372670000
-    },
-    {
-      "relPath": "SMAPIHealthBarMod\\patreon_logo_shine100.png",
-      "source": "Enemy Health Bars-193-1-9-1575392244",
-      "target": "",
-      "time": 1575372670000
-    },
-    {
       "relPath": "[CF] Pet Displays\\animals.png",
       "source": "CF - Pet Displays-3212-1-0-0-1546557340",
       "target": "",
@@ -234,12 +204,6 @@
       "source": "CF - Pet Displays-3212-1-0-0-1546557340",
       "target": "",
       "time": 1546523168000
-    },
-    {
-      "relPath": "SMAPIHealthBarMod\\SMAPIHealthBarMod.pdb",
-      "source": "Enemy Health Bars-193-1-9-1575392244",
-      "target": "",
-      "time": 1575372670000
     },
     {
       "relPath": "[CF] Pet Displays\\manifest.json",
@@ -50564,306 +50528,6 @@
       "time": 1611769971000
     },
     {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\manifest.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637538412000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\JosephineK\\Josephine.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1631190582000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Lexi\\Lexi_portrait.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1631205848000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\content.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637538194000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\LKKataryna\\Kataryna.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637537458000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\OliverK\\Oliver.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1631190626000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Rosa\\Rosa.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637537500000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Aideen\\Aideen.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1631190094000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_fall.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630617162000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\JosephineK\\Josephine.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630970952000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_Work.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630616796000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Lexi\\Lexi_portrait.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1631225710000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630617130000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob (1).pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630617116000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630616856000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_Magician.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630617484000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_Magician.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630613236000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_fall.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630616126000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_summer.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630616178000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_summer.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630617186000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\LKKataryna\\Kataryna.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637536632000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\OliverK\\Oliver.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1631139598000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_Work.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630617450000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_winter.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630617426000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Aideen\\Aideen.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630927324000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob_winter.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630616720000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Rosa\\Rosa.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637536748000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Jacob\\Jacob (1).png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630616002000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_winter_2.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637537262000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_winter_2.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637536974000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_bird.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1631190478000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_fall_1.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637536832000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637537108000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_fall_2.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1631190390000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_bird.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630883444000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_rain.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637536872000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_rain.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637537214000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_spring_1.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637536898000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_fall_1.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637537132000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_fall_2.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630885170000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_spring_2.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630885260000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_spring_1.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637537224000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_spring_2.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1631190414000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_summer_1.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637536926000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_summer_1.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637537238000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_summer_2.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1631190434000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_winter_1.pytk.json",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637537252000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_summer_2.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1630885326000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise_winter_1.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637536952000
-    },
-    {
-      "relPath": "[CP] lunakatt's DCBurger style portraits for East Scarp (East Scarpe)\\assets\\Eloise\\Eloise.png",
-      "source": "CP - lunakatt's DCBurger Style Portraits for East Scarp-9612-1-0-1-1637543617",
-      "target": "",
-      "time": 1637536790000
-    },
-    {
       "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\assets\\Portraits\\buddyPortraits.png",
       "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
       "target": "",
@@ -66560,12 +66224,6 @@
       "time": 1635734325000
     },
     {
-      "relPath": "FarmTypeManager\\data\\default.json",
-      "source": "Farm Type Manager v1.14.0-3231-1-14-0-1621864510",
-      "target": "",
-      "time": 1700785395000
-    },
-    {
       "relPath": "[CP] Simple Resources\\manifest.json",
       "source": "Simple Resources-15026-1-0-1-1686063147",
       "target": "",
@@ -76412,90 +76070,6 @@
       "time": 1608601912000
     },
     {
-      "relPath": "Wild Food\\[FTM] Wild Food\\data\\a_360461943_SaveData.save",
-      "source": "Wild Food - A Forage Expansion Mod-14653-4-2-1696894049",
-      "target": "",
-      "time": 1701022510000
-    },
-    {
-      "relPath": "Downtown-Zuzu-main\\[FTM] Downtown Zuzu\\content.json",
-      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
-      "target": "",
-      "time": 1701022510000
-    },
-    {
-      "relPath": "Stardew Valley Expanded\\[FTM] Stardew Valley Expanded\\data\\a_360461943_SaveData.save",
-      "source": "-Stardew Valley Expanded--3753-1-14-24-1688505756",
-      "target": "",
-      "time": 1701022510000
-    },
-    {
-      "relPath": "East Scarp\\[FTM] East Scarp\\data\\a_360461943_SaveData.save",
-      "source": "East Scarp-5787-2-3-8-1696628861",
-      "target": "",
-      "time": 1701022510000
-    },
-    {
-      "relPath": "FarmTypeManager\\data\\a_360461943_SaveData.save",
-      "source": "Farm Type Manager v1.14.0-3231-1-14-0-1621864510",
-      "target": "",
-      "time": 1701022510000
-    },
-    {
-      "relPath": "Stardew Valley Expanded\\[FTM] Stardew Valley Expanded\\content.json",
-      "source": "-Stardew Valley Expanded--3753-1-14-24-1688505756",
-      "target": "",
-      "time": 1701022510000
-    },
-    {
-      "relPath": "NPCMapLocations\\config\\globals.json",
-      "source": "NPC Map Locations 2.6.6-239-2-6-6-1629840503",
-      "target": "",
-      "time": 1701023042000
-    },
-    {
-      "relPath": "FarmTypeManager\\data\\a_360461943.json",
-      "source": "Farm Type Manager v1.14.0-3231-1-14-0-1621864510",
-      "target": "",
-      "time": 1701022510000
-    },
-    {
-      "relPath": "Walk to the Desert Redux 1.3.1-alpha\\[FTM] WTDR\\content.json",
-      "source": "Walk to the Desert Redux 1.3.1 Alpha-8630-1-3-1-alpha-1662963377",
-      "target": "",
-      "time": 1701022510000
-    },
-    {
-      "relPath": "East Scarp\\[FTM] East Scarp\\content.json",
-      "source": "East Scarp-5787-2-3-8-1696628861",
-      "target": "",
-      "time": 1701022510000
-    },
-    {
-      "relPath": "Walk to the Desert Redux 1.3.1-alpha\\[FTM] WTDR\\data\\a_360461943_SaveData.save",
-      "source": "Walk to the Desert Redux 1.3.1 Alpha-8630-1-3-1-alpha-1662963377",
-      "target": "",
-      "time": 1701022510000
-    },
-    {
-      "relPath": "NPCMapLocations\\config\\a_360461943.json",
-      "source": "NPC Map Locations 2.6.6-239-2-6-6-1629840503",
-      "target": "",
-      "time": 1701022455000
-    },
-    {
-      "relPath": "Wild Food\\[FTM] Wild Food\\content.json",
-      "source": "Wild Food - A Forage Expansion Mod-14653-4-2-1696894049",
-      "target": "",
-      "time": 1701022510000
-    },
-    {
-      "relPath": "Downtown-Zuzu-main\\[FTM] Downtown Zuzu\\data\\a_360461943_SaveData.save",
-      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
-      "target": "",
-      "time": 1701022510000
-    },
-    {
       "relPath": "[CP] DaisyNiko's Earthy Recolour\\manifest.json",
       "source": "DaisyNiko's Earthy Recolour-5255-1-3-7-1679904613",
       "target": "",
@@ -77108,12 +76682,6 @@
       "time": 1663098038000
     },
     {
-      "relPath": "LovedLabelsRedux\\config.json",
-      "source": "Loved Labels Redux - Fix Logs-8880-1-4-1-1693658705",
-      "target": "",
-      "time": 1701025951000
-    },
-    {
       "relPath": "MoreGiantCrops\\assets\\24.png",
       "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
       "target": "",
@@ -77546,12 +77114,6 @@
       "time": 1612953844000
     },
     {
-      "relPath": "SelfServe\\config.json",
-      "source": "Self Serve-11313-0-1-2-1647400446",
-      "target": "",
-      "time": 1701025952000
-    },
-    {
       "relPath": "[CP] Medieval Little Red School House\\Assets\\Summer_FoliageRedone.png",
       "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
       "target": "",
@@ -77634,444 +77196,6 @@
       "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
       "target": "",
       "time": 1693102434000
-    },
-    {
-      "relPath": "[CP] DaisyNiko's Earthy Recolour\\config.json",
-      "source": "DaisyNiko's Earthy Recolour-5255-1-3-7-1679904613",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "WorkingFireplace\\config.json",
-      "source": "WorkingFireplace-3654-1-5-3-1608603296",
-      "target": "",
-      "time": 1701025952000
-    },
-    {
-      "relPath": "ImmersiveSprinklers\\config.json",
-      "source": "Immersive Sprinklers-15239-0-8-1-1696898881",
-      "target": "",
-      "time": 1701025951000
-    },
-    {
-      "relPath": "BushBloomMod\\config.json",
-      "source": "BushBloomMod-15792-1-0-7-1680271349",
-      "target": "",
-      "time": 1701025950000
-    },
-    {
-      "relPath": "[CP] Yri's Retro Recolor Trees\\config.json",
-      "source": "Yri's Retro Recolor Trees-18710-1-0-0-1697180119",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "AlternativeTextures\\config.json",
-      "source": "Alternative Textures 6.10.4-9246-6-10-4-1698555610",
-      "target": "",
-      "time": 1701025954000
-    },
-    {
-      "relPath": "[CP] Zenith Farm\\config.json",
-      "source": "Zenith Farm (CFL)-15618-1-1-4-1679022878",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[CP-A] Animated Fish\\config.json",
-      "source": "Animated Fish-5735-1-2-0-1608588240",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[CP] Primitive Artisan Equipment\\config.json",
-      "source": "Main Download-4005-1-3-2-1560660726",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "WearMoreRings\\config.json",
-      "source": "Wear More Rings-3214-6-4-1679925179",
-      "target": "",
-      "time": 1701025952000
-    },
-    {
-      "relPath": "BetterArtisanGoodIcons\\config.json",
-      "source": "Better Artisan Good Icons-2080-1-5-0-1551768141",
-      "target": "",
-      "time": 1701025949000
-    },
-    {
-      "relPath": "IndustrialFurnace\\config.json",
-      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
-      "target": "",
-      "time": 1701025951000
-    },
-    {
-      "relPath": "MoreRings\\config.json",
-      "source": "More Rings 1.2.3-2054-1-2-3-1642054358",
-      "target": "",
-      "time": 1701025951000
-    },
-    {
-      "relPath": "ImmersiveScarecrows\\config.json",
-      "source": "Immersive Scarecrows-15290-0-5-0-1696898921",
-      "target": "",
-      "time": 1701025951000
-    },
-    {
-      "relPath": "East Scarp\\[CP] East Scarp\\config.json",
-      "source": "East Scarp-5787-2-3-8-1696628861",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[CP] Medieval Buildings by Gweniaczek\\config.json",
-      "source": "Medieval Buildings-4542-2-1-1641814320",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "Kitty Cats\\[CP] Kitty Cats\\config.json",
-      "source": "Kitty Cats-7998-1-1-0-1621203775",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "Custom Farm Loader\\config.json",
-      "source": "Custom Farm Loader-13804-1-1-7-1697371888",
-      "target": "",
-      "time": 1701025950000
-    },
-    {
-      "relPath": "DestroyableBushes\\config.json",
-      "source": "Destroyable Bushes v1.2.2-6304-1-2-2-1691959356",
-      "target": "",
-      "time": 1701025950000
-    },
-    {
-      "relPath": "[CP] DCBurger's High Res Portraits\\config.json",
-      "source": "CP - DCBurger's High Res Portraits-4745-1-5-2-1611820458",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "Custom Farm Loader\\FarmTypeCache.json",
-      "source": "Custom Farm Loader-13804-1-1-7-1697371888",
-      "target": "",
-      "time": 1701025950000
-    },
-    {
-      "relPath": "[CP] Medieval DNT\\config.json",
-      "source": "Medieval DNT-10908-1-1-1693686204",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[CP] Lumisteria Tilesheets - Indoor\\config.json",
-      "source": "Lumisteria Tilesheets - Indoor-9599-1-3-0-1649793195",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "MovementSpeed\\config.json",
-      "source": "Movement Speed-2736-6-0-1671188842",
-      "target": "",
-      "time": 1701025951000
-    },
-    {
-      "relPath": "[CP] Medieval SV Expanded\\config.json",
-      "source": "Medieval SVE-6086-2-8-1639741660",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[CP] DaisyNiko's Tilesheets\\config.json",
-      "source": "DaisyNiko's Tilesheets-4736-1-9-1-1677283651",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[CP] Simple Resources\\config.json",
-      "source": "Simple Resources-15026-1-0-1-1686063147",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "East Scarp\\[CP] East Scarp NPCs\\config.json",
-      "source": "East Scarp-5787-2-3-8-1696628861",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "BetterJunimosForestry\\config.json",
-      "source": "Better Junimos Forestry-8992-1-0-7-1650711219",
-      "target": "",
-      "time": 1701025954000
-    },
-    {
-      "relPath": "MailServicesMod\\config.json",
-      "source": "MailServicesMod-v1.4.1-7842-1-4-1-1617489304",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\config.json",
-      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "MultiYieldCrops\\config.json",
-      "source": "Multi Yield Crops-6069-1-0-2-1608582009",
-      "target": "",
-      "time": 1701025951000
-    },
-    {
-      "relPath": "TMXLoader\\config.json",
-      "source": "TMXL Map Toolkit-1820-1-22-1-1627473427",
-      "target": "",
-      "time": 1701025950000
-    },
-    {
-      "relPath": "ShowBirthdays\\config.json",
-      "source": "Show Birthdays 1.3.0-7495-1-3-0-1652192602",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "SkullCavernElevator\\config.json",
-      "source": "SkullCavernElevator-963-1-4-0-1617813114",
-      "target": "",
-      "time": 1701025952000
-    },
-    {
-      "relPath": "BiggerBackpack\\config.json",
-      "source": "Bigger Backpack-1845-5-0-1627885971",
-      "target": "",
-      "time": 1701025949000
-    },
-    {
-      "relPath": "Stardew Valley Expanded\\[CP] Stardew Valley Expanded\\config.json",
-      "source": "-Stardew Valley Expanded--3753-1-14-24-1688505756",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "MoreGrass\\config.json",
-      "source": "More Grass-5398-1-1-7-1642651204",
-      "target": "",
-      "time": 1701025951000
-    },
-    {
-      "relPath": "[CP] Suitcase Record Player\\config.json",
-      "source": "Suitcase Record Player-4794-1-1-0-1575583611",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[CP] Seasonal Cute Characters\\config.json",
-      "source": "Seasonal Cute Characters-5450-3-2-3-1620136000",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[CP] Gwen's Medieval Craftables\\config.json",
-      "source": "Gwen's Medieval Craftables-5513-2-3-1-1612963435",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "ExperienceBars\\config.json",
-      "source": "Experience Bars 1.3.0-509-1-3-0-1625961504",
-      "target": "",
-      "time": 1701025951000
-    },
-    {
-      "relPath": "TrainStation\\config.json",
-      "source": "Train Station-6183-1-1-1-1618775674",
-      "target": "",
-      "time": 1701025951000
-    },
-    {
-      "relPath": "ShopTileFramework\\config.json",
-      "source": "Shop Tile Framework-5005-1-0-9-1608583142",
-      "target": "",
-      "time": 1701025950000
-    },
-    {
-      "relPath": "[CP] Gwen's Paths\\config.json",
-      "source": "Gwen's Paths-8683-1-0-0-1620459899",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "SpaceCore\\config.json",
-      "source": "SpaceCore1.17.2-1348-1-17-2-1693525373",
-      "target": "",
-      "time": 1701025947000
-    },
-    {
-      "relPath": "ExtraMapLayers\\config.json",
-      "source": "Extra Map Layers-9633-0-3-10-1693187696",
-      "target": "",
-      "time": 1701025950000
-    },
-    {
-      "relPath": "[CP] Better Resources\\config.json",
-      "source": "1.2.0-6942-1-2-0-1629421095",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "WinterGrass\\config.json",
-      "source": "Winter Grass-1601-2-0-3-1608585082",
-      "target": "",
-      "time": 1701025952000
-    },
-    {
-      "relPath": "GenericModConfigMenu\\config.json",
-      "source": "Generic Mod Config Menu 1.11.2-5098-1-11-2-1689343508",
-      "target": "",
-      "time": 1701025949000
-    },
-    {
-      "relPath": "UndergroundSecrets\\config.json",
-      "source": "Underground Secrets-6597-0-6-0-1610965810",
-      "target": "",
-      "time": 1701025952000
-    },
-    {
-      "relPath": "QuestFramework\\config.json",
-      "source": "Quest Framework 1.4.3-6414-1-4-3-1676467536",
-      "target": "",
-      "time": 1701025950000
-    },
-    {
-      "relPath": "[CP] Better Crops and Foraging\\config.json",
-      "source": "BCAF 1.5 Update (Fixed Manifest)-4912-4-0-0-1624291982",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "SMAPIHealthBarMod\\config.json",
-      "source": "Enemy Health Bars-193-1-9-1575392244",
-      "target": "",
-      "time": 1701025952000
-    },
-    {
-      "relPath": "[CP] Cottagecore Fences\\config.json",
-      "source": "Cottagecore Fences-8558-1-0-1619036300",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "FarmTypeManager\\config.json",
-      "source": "Farm Type Manager v1.14.0-3231-1-14-0-1621864510",
-      "target": "",
-      "time": 1701025950000
-    },
-    {
-      "relPath": "ActivateSprinklers\\config.json",
-      "source": "Activate Sprinklers-2088-1-2-4-1577711044",
-      "target": "",
-      "time": 1701025947000
-    },
-    {
-      "relPath": "BetterJunimos\\BetterJunimos\\config.json",
-      "source": "Better Junimos-2221-2-1-2-1655294538",
-      "target": "",
-      "time": 1701025954000
-    },
-    {
-      "relPath": "[CP] Ghibli Critters\\config.json",
-      "source": "ghiblicritters-7267-1-2-0-1613443014",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "Downtown-Zuzu-main\\[DLL] Downtown Zuzu\\config.json",
-      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
-      "target": "",
-      "time": 1701025950000
-    },
-    {
-      "relPath": "[CP] Better Artisan Goods\\config.json",
-      "source": "Better Artisan Goods-5394-1-2-1-1612842259",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[CP] Better Gems and Minerals\\config.json",
-      "source": "Better Gems and Minerals-5443-1-0-1-1582280178",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "Walk to the Desert Redux 1.3.1-alpha\\[CP] WTDR\\config.json",
-      "source": "Walk to the Desert Redux 1.3.1 Alpha-8630-1-3-1-alpha-1662963377",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[CPA]Better Gems and Minerals Animated\\config.json",
-      "source": "Better Gems and Minerals animated 1_1-6930-1-0-1-1602368150",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[CP] Cuter Fatter Animals\\config.json",
-      "source": "CP Cuter Fatter Animals Set (Cow Pig Chickens Sheep Rabbit Dino)-348-1-1553790613",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[CP]Bernese by Gweniaczek\\config.json",
-      "source": "CP Bernese Mountain Dog-1848-1-2-1575538672",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[CP] Aesthetic Garbage\\config.json",
-      "source": "(CP) Aesthetic Garbage-11052-1-1-0-1645196548",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[CP] Coii's Hair Sets Pack\\config.json",
-      "source": "CP - Coii's Hair Sets Pack-2869-1-4-0-1579392040",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[CP] Cozy Farmhouse Kitchen\\config.json",
-      "source": "Cozy Farmhouse Kitchen-10473-1-2-2-1680122559",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[MG] Flowergrass and Snowfields - Vanilla\\config.json",
-      "source": "Flowergrass and Snowfields-6742-1-0-1620498445",
-      "target": "",
-      "time": 1701025951000
-    },
-    {
-      "relPath": "Grandpa's Tools\\[CP]Grandpa's Tools\\config.json",
-      "source": "Grandpa's Tools-8835-1-2-0-1623179381",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "[CP-A] Animated Ridgeside Village Fish\\config.json",
-      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
-      "target": "",
-      "time": 1701025955000
-    },
-    {
-      "relPath": "catGifts\\config.json",
-      "source": "catGifts-v-1-2-0-2132-1-2-0-1648317202",
-      "target": "",
-      "time": 1701025950000
     },
     {
       "relPath": "TractorMod\\assets\\tractor.png",
@@ -78294,6 +77418,618 @@
       "source": "Automate 1.23.2-1063-1-23-2-1627147890",
       "target": "",
       "time": 1701422978000
+    },
+    {
+      "relPath": "ContentPatcher\\config.json",
+      "source": "Content Patcher 1.23.5-1915-1-23-5-1632019341",
+      "target": "",
+      "time": 1701632573000
+    },
+    {
+      "relPath": "Automate\\config.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701632575000
+    },
+    {
+      "relPath": "Stardew Valley Expanded\\[FTM] Stardew Valley Expanded\\data\\test_361309366_SaveData.save",
+      "source": "-Stardew Valley Expanded--3753-1-14-24-1688505756",
+      "target": "",
+      "time": 1701633014000
+    },
+    {
+      "relPath": "East Scarp\\[FTM] East Scarp\\data\\test_361309366_SaveData.save",
+      "source": "East Scarp-5787-2-3-8-1696628861",
+      "target": "",
+      "time": 1701633014000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\config.json",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "FarmTypeManager\\data\\test_361309366_SaveData.save",
+      "source": "Farm Type Manager v1.14.0-3231-1-14-0-1621864510",
+      "target": "",
+      "time": 1701633014000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[FTM] Downtown Zuzu\\data\\test_361309366_SaveData.save",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1701633014000
+    },
+    {
+      "relPath": "FarmTypeManager\\data\\test_361309366.json",
+      "source": "Farm Type Manager v1.14.0-3231-1-14-0-1621864510",
+      "target": "",
+      "time": 1701633014000
+    },
+    {
+      "relPath": "NPCMapLocations\\config\\test_361309366.json",
+      "source": "NPC Map Locations 2.6.6-239-2-6-6-1629840503",
+      "target": "",
+      "time": 1701632948000
+    },
+    {
+      "relPath": "NPCMapLocations\\config\\_361297647.json",
+      "source": "NPC Map Locations 2.6.6-239-2-6-6-1629840503",
+      "target": "",
+      "time": 1701626193000
+    },
+    {
+      "relPath": "Walk to the Desert Redux 1.3.1-alpha\\[FTM] WTDR\\data\\test_361309366_SaveData.save",
+      "source": "Walk to the Desert Redux 1.3.1 Alpha-8630-1-3-1-alpha-1662963377",
+      "target": "",
+      "time": 1701633014000
+    },
+    {
+      "relPath": "TractorMod\\config.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701632578000
+    },
+    {
+      "relPath": "Wild Food\\[FTM] Wild Food\\data\\test_361309366_SaveData.save",
+      "source": "Wild Food - A Forage Expansion Mod-14653-4-2-1696894049",
+      "target": "",
+      "time": 1701633014000
+    },
+    {
+      "relPath": "FarmTypeManager\\data\\default.json",
+      "source": "Farm Type Manager v1.14.0-3231-1-14-0-1621864510",
+      "target": "",
+      "time": 1701633014000
+    },
+    {
+      "relPath": "Wild Food\\[FTM] Wild Food\\data\\a_360461943_SaveData.save",
+      "source": "Wild Food - A Forage Expansion Mod-14653-4-2-1696894049",
+      "target": "",
+      "time": 1701627500000
+    },
+    {
+      "relPath": "NPCMapLocations\\config\\globals.json",
+      "source": "NPC Map Locations 2.6.6-239-2-6-6-1629840503",
+      "target": "",
+      "time": 1701633660000
+    },
+    {
+      "relPath": "FarmTypeManager\\data\\a_360461943.json",
+      "source": "Farm Type Manager v1.14.0-3231-1-14-0-1621864510",
+      "target": "",
+      "time": 1701627500000
+    },
+    {
+      "relPath": "East Scarp\\[FTM] East Scarp\\data\\a_360461943_SaveData.save",
+      "source": "East Scarp-5787-2-3-8-1696628861",
+      "target": "",
+      "time": 1701627500000
+    },
+    {
+      "relPath": "Walk to the Desert Redux 1.3.1-alpha\\[FTM] WTDR\\data\\a_360461943_SaveData.save",
+      "source": "Walk to the Desert Redux 1.3.1 Alpha-8630-1-3-1-alpha-1662963377",
+      "target": "",
+      "time": 1701627500000
+    },
+    {
+      "relPath": "FarmTypeManager\\data\\a_360461943_SaveData.save",
+      "source": "Farm Type Manager v1.14.0-3231-1-14-0-1621864510",
+      "target": "",
+      "time": 1701627500000
+    },
+    {
+      "relPath": "NPCMapLocations\\config\\a_360461943.json",
+      "source": "NPC Map Locations 2.6.6-239-2-6-6-1629840503",
+      "target": "",
+      "time": 1701627429000
+    },
+    {
+      "relPath": "Stardew Valley Expanded\\[FTM] Stardew Valley Expanded\\data\\a_360461943_SaveData.save",
+      "source": "-Stardew Valley Expanded--3753-1-14-24-1688505756",
+      "target": "",
+      "time": 1701627500000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[FTM] Downtown Zuzu\\data\\a_360461943_SaveData.save",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1701627500000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[FTM] Downtown Zuzu\\content.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1701633014000
+    },
+    {
+      "relPath": "Walk to the Desert Redux 1.3.1-alpha\\[FTM] WTDR\\content.json",
+      "source": "Walk to the Desert Redux 1.3.1 Alpha-8630-1-3-1-alpha-1662963377",
+      "target": "",
+      "time": 1701633014000
+    },
+    {
+      "relPath": "Stardew Valley Expanded\\[FTM] Stardew Valley Expanded\\content.json",
+      "source": "-Stardew Valley Expanded--3753-1-14-24-1688505756",
+      "target": "",
+      "time": 1701633014000
+    },
+    {
+      "relPath": "Wild Food\\[FTM] Wild Food\\content.json",
+      "source": "Wild Food - A Forage Expansion Mod-14653-4-2-1696894049",
+      "target": "",
+      "time": 1701633014000
+    },
+    {
+      "relPath": "East Scarp\\[FTM] East Scarp\\content.json",
+      "source": "East Scarp-5787-2-3-8-1696628861",
+      "target": "",
+      "time": 1701633014000
+    },
+    {
+      "relPath": "SelfServe\\config.json",
+      "source": "Self Serve-11313-0-1-2-1647400446",
+      "target": "",
+      "time": 1701632578000
+    },
+    {
+      "relPath": "[CP] DaisyNiko's Earthy Recolour\\config.json",
+      "source": "DaisyNiko's Earthy Recolour-5255-1-3-7-1679904613",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "WorkingFireplace\\config.json",
+      "source": "WorkingFireplace-3654-1-5-3-1608603296",
+      "target": "",
+      "time": 1701632578000
+    },
+    {
+      "relPath": "ImmersiveSprinklers\\config.json",
+      "source": "Immersive Sprinklers-15239-0-8-1-1696898881",
+      "target": "",
+      "time": 1701632577000
+    },
+    {
+      "relPath": "LovedLabelsRedux\\config.json",
+      "source": "Loved Labels Redux - Fix Logs-8880-1-4-1-1693658705",
+      "target": "",
+      "time": 1701632577000
+    },
+    {
+      "relPath": "BushBloomMod\\config.json",
+      "source": "BushBloomMod-15792-1-0-7-1680271349",
+      "target": "",
+      "time": 1701632575000
+    },
+    {
+      "relPath": "[CP] Yri's Retro Recolor Trees\\config.json",
+      "source": "Yri's Retro Recolor Trees-18710-1-0-0-1697180119",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "AlternativeTextures\\config.json",
+      "source": "Alternative Textures 6.10.4-9246-6-10-4-1698555610",
+      "target": "",
+      "time": 1701632580000
+    },
+    {
+      "relPath": "[CP-A] Animated Fish\\config.json",
+      "source": "Animated Fish-5735-1-2-0-1608588240",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "WearMoreRings\\config.json",
+      "source": "Wear More Rings-3214-6-4-1679925179",
+      "target": "",
+      "time": 1701632578000
+    },
+    {
+      "relPath": "[CP] Primitive Artisan Equipment\\config.json",
+      "source": "Main Download-4005-1-3-2-1560660726",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "[CP] Zenith Farm\\config.json",
+      "source": "Zenith Farm (CFL)-15618-1-1-4-1679022878",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "BetterArtisanGoodIcons\\config.json",
+      "source": "Better Artisan Good Icons-2080-1-5-0-1551768141",
+      "target": "",
+      "time": 1701632575000
+    },
+    {
+      "relPath": "MoreRings\\config.json",
+      "source": "More Rings 1.2.3-2054-1-2-3-1642054358",
+      "target": "",
+      "time": 1701632577000
+    },
+    {
+      "relPath": "ImmersiveScarecrows\\config.json",
+      "source": "Immersive Scarecrows-15290-0-5-0-1696898921",
+      "target": "",
+      "time": 1701632577000
+    },
+    {
+      "relPath": "IndustrialFurnace\\config.json",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1701632577000
+    },
+    {
+      "relPath": "East Scarp\\[CP] East Scarp\\config.json",
+      "source": "East Scarp-5787-2-3-8-1696628861",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "[CP] Medieval Buildings by Gweniaczek\\config.json",
+      "source": "Medieval Buildings-4542-2-1-1641814320",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "Custom Farm Loader\\config.json",
+      "source": "Custom Farm Loader-13804-1-1-7-1697371888",
+      "target": "",
+      "time": 1701632576000
+    },
+    {
+      "relPath": "Kitty Cats\\[CP] Kitty Cats\\config.json",
+      "source": "Kitty Cats-7998-1-1-0-1621203775",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "DestroyableBushes\\config.json",
+      "source": "Destroyable Bushes v1.2.2-6304-1-2-2-1691959356",
+      "target": "",
+      "time": 1701632576000
+    },
+    {
+      "relPath": "Custom Farm Loader\\FarmTypeCache.json",
+      "source": "Custom Farm Loader-13804-1-1-7-1697371888",
+      "target": "",
+      "time": 1701632576000
+    },
+    {
+      "relPath": "[CP] DCBurger's High Res Portraits\\config.json",
+      "source": "CP - DCBurger's High Res Portraits-4745-1-5-2-1611820458",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "[CP] Lumisteria Tilesheets - Indoor\\config.json",
+      "source": "Lumisteria Tilesheets - Indoor-9599-1-3-0-1649793195",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "[CP] Medieval DNT\\config.json",
+      "source": "Medieval DNT-10908-1-1-1693686204",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "[CP] Medieval SV Expanded\\config.json",
+      "source": "Medieval SVE-6086-2-8-1639741660",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "MovementSpeed\\config.json",
+      "source": "Movement Speed-2736-6-0-1671188842",
+      "target": "",
+      "time": 1701632577000
+    },
+    {
+      "relPath": "[CP] DaisyNiko's Tilesheets\\config.json",
+      "source": "DaisyNiko's Tilesheets-4736-1-9-1-1677283651",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "East Scarp\\[CP] East Scarp NPCs\\config.json",
+      "source": "East Scarp-5787-2-3-8-1696628861",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "BetterJunimosForestry\\config.json",
+      "source": "Better Junimos Forestry-8992-1-0-7-1650711219",
+      "target": "",
+      "time": 1701632948000
+    },
+    {
+      "relPath": "MailServicesMod\\config.json",
+      "source": "MailServicesMod-v1.4.1-7842-1-4-1-1617489304",
+      "target": "",
+      "time": 1701633011000
+    },
+    {
+      "relPath": "[CP] Simple Resources\\config.json",
+      "source": "Simple Resources-15026-1-0-1-1686063147",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "MultiYieldCrops\\config.json",
+      "source": "Multi Yield Crops-6069-1-0-2-1608582009",
+      "target": "",
+      "time": 1701632578000
+    },
+    {
+      "relPath": "TMXLoader\\config.json",
+      "source": "TMXL Map Toolkit-1820-1-22-1-1627473427",
+      "target": "",
+      "time": 1701632576000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\config.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "ShowBirthdays\\config.json",
+      "source": "Show Birthdays 1.3.0-7495-1-3-0-1652192602",
+      "target": "",
+      "time": 1701632949000
+    },
+    {
+      "relPath": "BiggerBackpack\\config.json",
+      "source": "Bigger Backpack-1845-5-0-1627885971",
+      "target": "",
+      "time": 1701632575000
+    },
+    {
+      "relPath": "SkullCavernElevator\\config.json",
+      "source": "SkullCavernElevator-963-1-4-0-1617813114",
+      "target": "",
+      "time": 1701632578000
+    },
+    {
+      "relPath": "Stardew Valley Expanded\\[CP] Stardew Valley Expanded\\config.json",
+      "source": "-Stardew Valley Expanded--3753-1-14-24-1688505756",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "MoreGrass\\config.json",
+      "source": "More Grass-5398-1-1-7-1642651204",
+      "target": "",
+      "time": 1701632577000
+    },
+    {
+      "relPath": "[CP] Suitcase Record Player\\config.json",
+      "source": "Suitcase Record Player-4794-1-1-0-1575583611",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "[CP] Seasonal Cute Characters\\config.json",
+      "source": "Seasonal Cute Characters-5450-3-2-3-1620136000",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "[CP] Gwen's Medieval Craftables\\config.json",
+      "source": "Gwen's Medieval Craftables-5513-2-3-1-1612963435",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "ExperienceBars\\config.json",
+      "source": "Experience Bars 1.3.0-509-1-3-0-1625961504",
+      "target": "",
+      "time": 1701632577000
+    },
+    {
+      "relPath": "ShopTileFramework\\config.json",
+      "source": "Shop Tile Framework-5005-1-0-9-1608583142",
+      "target": "",
+      "time": 1701632576000
+    },
+    {
+      "relPath": "TrainStation\\config.json",
+      "source": "Train Station-6183-1-1-1-1618775674",
+      "target": "",
+      "time": 1701632577000
+    },
+    {
+      "relPath": "[CP] Gwen's Paths\\config.json",
+      "source": "Gwen's Paths-8683-1-0-0-1620459899",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "ExtraMapLayers\\config.json",
+      "source": "Extra Map Layers-9633-0-3-10-1693187696",
+      "target": "",
+      "time": 1701632576000
+    },
+    {
+      "relPath": "SpaceCore\\config.json",
+      "source": "SpaceCore1.17.2-1348-1-17-2-1693525373",
+      "target": "",
+      "time": 1701632573000
+    },
+    {
+      "relPath": "[CP] Better Resources\\config.json",
+      "source": "1.2.0-6942-1-2-0-1629421095",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "WinterGrass\\config.json",
+      "source": "Winter Grass-1601-2-0-3-1608585082",
+      "target": "",
+      "time": 1701632578000
+    },
+    {
+      "relPath": "GenericModConfigMenu\\config.json",
+      "source": "Generic Mod Config Menu 1.11.2-5098-1-11-2-1689343508",
+      "target": "",
+      "time": 1701632574000
+    },
+    {
+      "relPath": "UndergroundSecrets\\config.json",
+      "source": "Underground Secrets-6597-0-6-0-1610965810",
+      "target": "",
+      "time": 1701632578000
+    },
+    {
+      "relPath": "QuestFramework\\config.json",
+      "source": "Quest Framework 1.4.3-6414-1-4-3-1676467536",
+      "target": "",
+      "time": 1701632576000
+    },
+    {
+      "relPath": "[CP] Better Crops and Foraging\\config.json",
+      "source": "BCAF 1.5 Update (Fixed Manifest)-4912-4-0-0-1624291982",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "FarmTypeManager\\config.json",
+      "source": "Farm Type Manager v1.14.0-3231-1-14-0-1621864510",
+      "target": "",
+      "time": 1701633014000
+    },
+    {
+      "relPath": "[CP] Cottagecore Fences\\config.json",
+      "source": "Cottagecore Fences-8558-1-0-1619036300",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "ActivateSprinklers\\config.json",
+      "source": "Activate Sprinklers-2088-1-2-4-1577711044",
+      "target": "",
+      "time": 1701632573000
+    },
+    {
+      "relPath": "[CP] Ghibli Critters\\config.json",
+      "source": "ghiblicritters-7267-1-2-0-1613443014",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "Downtown-Zuzu-main\\[DLL] Downtown Zuzu\\config.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "target": "",
+      "time": 1701632576000
+    },
+    {
+      "relPath": "BetterJunimos\\BetterJunimos\\config.json",
+      "source": "Better Junimos-2221-2-1-2-1655294538",
+      "target": "",
+      "time": 1701633011000
+    },
+    {
+      "relPath": "[CP] Better Gems and Minerals\\config.json",
+      "source": "Better Gems and Minerals-5443-1-0-1-1582280178",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "[CP] Better Artisan Goods\\config.json",
+      "source": "Better Artisan Goods-5394-1-2-1-1612842259",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "[CPA]Better Gems and Minerals Animated\\config.json",
+      "source": "Better Gems and Minerals animated 1_1-6930-1-0-1-1602368150",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "Walk to the Desert Redux 1.3.1-alpha\\[CP] WTDR\\config.json",
+      "source": "Walk to the Desert Redux 1.3.1 Alpha-8630-1-3-1-alpha-1662963377",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "[CP] Cuter Fatter Animals\\config.json",
+      "source": "CP Cuter Fatter Animals Set (Cow Pig Chickens Sheep Rabbit Dino)-348-1-1553790613",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "[CP]Bernese by Gweniaczek\\config.json",
+      "source": "CP Bernese Mountain Dog-1848-1-2-1575538672",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "[CP] Aesthetic Garbage\\config.json",
+      "source": "(CP) Aesthetic Garbage-11052-1-1-0-1645196548",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "[CP] Coii's Hair Sets Pack\\config.json",
+      "source": "CP - Coii's Hair Sets Pack-2869-1-4-0-1579392040",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "[CP] Cozy Farmhouse Kitchen\\config.json",
+      "source": "Cozy Farmhouse Kitchen-10473-1-2-2-1680122559",
+      "target": "",
+      "time": 1701632582000
+    },
+    {
+      "relPath": "[MG] Flowergrass and Snowfields - Vanilla\\config.json",
+      "source": "Flowergrass and Snowfields-6742-1-0-1620498445",
+      "target": "",
+      "time": 1701632577000
+    },
+    {
+      "relPath": "Grandpa's Tools\\[CP]Grandpa's Tools\\config.json",
+      "source": "Grandpa's Tools-8835-1-2-0-1623179381",
+      "target": "",
+      "time": 1701632581000
+    },
+    {
+      "relPath": "catGifts\\config.json",
+      "source": "catGifts-v-1-2-0-2132-1-2-0-1648317202",
+      "target": "",
+      "time": 1701632576000
+    },
+    {
+      "relPath": "[CP-A] Animated Ridgeside Village Fish\\config.json",
+      "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
+      "target": "",
+      "time": 1701632581000
     }
   ]
 }
