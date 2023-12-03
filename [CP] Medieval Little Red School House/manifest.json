@@ -1,0 +1,25 @@
+{
+    "Name": "Medieval Little Red School House",
+    "Author": "Shyzie",
+    "Version": "3.3.0",
+    "Description": "A seasonal medieval retexture of Xiddav's Little Red School House.",
+    "UniqueID": "Shyzie.Medieval.LittleRedSchoolHouse",
+    "UpdateKeys": [ "Nexus:16140" ],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    },
+	"Dependencies": [
+	{
+		"UniqueID": "Xiddav.LittleRedSchoolHouse",
+		"IsRequired": false
+	},
+		{
+		"UniqueID": "Xiddav.LittleRedSchoolHouseCompleted",
+		"IsRequired": false
+	},
+	{
+		"UniqueID": "xiddav.tilesheet",
+		"IsRequired": true
+	}
+	]
+}

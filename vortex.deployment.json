@@ -3,7 +3,7 @@
   "version": 1,
   "deploymentMethod": "hardlink_activator",
   "gameId": "stardewvalley",
-  "deploymentTime": 1701024885234,
+  "deploymentTime": 1701620077770,
   "stagingPath": "C:\\Users\\Bo\\AppData\\Roaming\\Vortex\\stardewvalley\\mods",
   "targetPath": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods",
   "files": [
@@ -19730,102 +19730,6 @@
       "time": 1699239541000
     },
     {
-      "relPath": "Automate\\manifest.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1696360620000
-    },
-    {
-      "relPath": "Automate\\i18n\\default.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1696360620000
-    },
-    {
-      "relPath": "Automate\\Automate.dll",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1696360620000
-    },
-    {
-      "relPath": "Automate\\assets\\data.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1696360620000
-    },
-    {
-      "relPath": "Automate\\i18n\\fr.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1696360620000
-    },
-    {
-      "relPath": "Automate\\i18n\\es.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1696360620000
-    },
-    {
-      "relPath": "Automate\\i18n\\hu.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1696360620000
-    },
-    {
-      "relPath": "Automate\\i18n\\it.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1696360620000
-    },
-    {
-      "relPath": "Automate\\i18n\\ko.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1696360620000
-    },
-    {
-      "relPath": "Automate\\i18n\\pt.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1696360620000
-    },
-    {
-      "relPath": "Automate\\i18n\\ru.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1696360620000
-    },
-    {
-      "relPath": "Automate\\i18n\\th.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1696360620000
-    },
-    {
-      "relPath": "Automate\\i18n\\tr.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1696360620000
-    },
-    {
-      "relPath": "Automate\\i18n\\uk.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1696360620000
-    },
-    {
-      "relPath": "Automate\\i18n\\zh.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1696360620000
-    },
-    {
-      "relPath": "Automate\\i18n\\de.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
-      "target": "",
-      "time": 1696360620000
-    },
-    {
       "relPath": "BiggerBackpack\\BiggerBackpack.dll",
       "source": "Bigger Backpack-1845-5-0-1627885971",
       "target": "",
@@ -26264,12 +26168,6 @@
       "time": 1667064002000
     },
     {
-      "relPath": "ContentPatcher\\manifest.json",
-      "source": "Content Patcher 1.23.5-1915-1-23-5-1632019341",
-      "target": "",
-      "time": 1698833696000
-    },
-    {
       "relPath": "CookingSkill\\CookingSkill.dll",
       "source": "Cooking Skill 1.3.4-522-1-3-4-1627874545",
       "target": "",
@@ -26304,12 +26202,6 @@
       "source": "Cooking Skill 1.3.4-522-1-3-4-1627874545",
       "target": "",
       "time": 1667064012000
-    },
-    {
-      "relPath": "ContentPatcher\\ContentPatcher.dll",
-      "source": "Content Patcher 1.23.5-1915-1-23-5-1632019341",
-      "target": "",
-      "time": 1698833696000
     },
     {
       "relPath": "CookingSkill\\i18n\\es.json",
@@ -30060,120 +29952,6 @@
       "source": "Multi Yield Crops-6069-1-0-2-1608582009",
       "target": "",
       "time": 1608560342000
-    },
-    {
-      "relPath": "TractorMod\\TractorMod.dll",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\assets\\tractor.png",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\i18n\\default.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\i18n\\fr.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\assets\\garage.png",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\manifest.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\i18n\\es.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\i18n\\hu.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\i18n\\it.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\i18n\\ko.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\i18n\\pl.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\i18n\\pt.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\i18n\\ja.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\i18n\\ru.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\i18n\\th.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\i18n\\tr.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\i18n\\uk.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\i18n\\zh.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
-    },
-    {
-      "relPath": "TractorMod\\i18n\\de.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1687713832000
     },
     {
       "relPath": "[CP] Medieval SV Expanded\\manifest.json",
@@ -69422,132 +69200,6 @@
       "time": 1680074384000
     },
     {
-      "relPath": "assets\\248.png",
-      "source": "Non-Regrowable Crops-5221-1-0-3-1666183104",
-      "target": "",
-      "time": 1586711870000
-    },
-    {
-      "relPath": "assets\\24.png",
-      "source": "Non-Regrowable Crops-5221-1-0-3-1666183104",
-      "target": "",
-      "time": 1612953600000
-    },
-    {
-      "relPath": "assets\\264.png",
-      "source": "Non-Regrowable Crops-5221-1-0-3-1666183104",
-      "target": "",
-      "time": 1586711870000
-    },
-    {
-      "relPath": "assets\\266.png",
-      "source": "Non-Regrowable Crops-5221-1-0-3-1666183104",
-      "target": "",
-      "time": 1586711870000
-    },
-    {
-      "relPath": "assets\\268.png",
-      "source": "Non-Regrowable Crops-5221-1-0-3-1666183104",
-      "target": "",
-      "time": 1586711870000
-    },
-    {
-      "relPath": "assets\\274.png",
-      "source": "Non-Regrowable Crops-5221-1-0-3-1666183104",
-      "target": "",
-      "time": 1586711870000
-    },
-    {
-      "relPath": "assets\\280.png",
-      "source": "Non-Regrowable Crops-5221-1-0-3-1666183104",
-      "target": "",
-      "time": 1586711870000
-    },
-    {
-      "relPath": "assets\\284.png",
-      "source": "Non-Regrowable Crops-5221-1-0-3-1666183104",
-      "target": "",
-      "time": 1612954078000
-    },
-    {
-      "relPath": "assets\\830.png",
-      "source": "Non-Regrowable Crops-5221-1-0-3-1666183104",
-      "target": "",
-      "time": 1612953864000
-    },
-    {
-      "relPath": "assets\\417.png",
-      "source": "Non-Regrowable Crops-5221-1-0-3-1666183104",
-      "target": "",
-      "time": 1586711870000
-    },
-    {
-      "relPath": "assets\\192.png",
-      "source": "Non-Regrowable Crops-5221-1-0-3-1666183104",
-      "target": "",
-      "time": 1586711870000
-    },
-    {
-      "relPath": "assets\\256.png",
-      "source": "Regrowable Crops-5221-1-1-0-1666183049",
-      "target": "",
-      "time": 1580063078000
-    },
-    {
-      "relPath": "assets\\258.png",
-      "source": "Regrowable Crops-5221-1-1-0-1666183049",
-      "target": "",
-      "time": 1666115626000
-    },
-    {
-      "relPath": "assets\\270.png",
-      "source": "Regrowable Crops-5221-1-1-0-1666183049",
-      "target": "",
-      "time": 1580063014000
-    },
-    {
-      "relPath": "assets\\260.png",
-      "source": "Regrowable Crops-5221-1-1-0-1666183049",
-      "target": "",
-      "time": 1580063054000
-    },
-    {
-      "relPath": "assets\\272.png",
-      "source": "Regrowable Crops-5221-1-1-0-1666183049",
-      "target": "",
-      "time": 1578849974000
-    },
-    {
-      "relPath": "assets\\282.png",
-      "source": "Regrowable Crops-5221-1-1-0-1666183049",
-      "target": "",
-      "time": 1666115606000
-    },
-    {
-      "relPath": "assets\\400.png",
-      "source": "Regrowable Crops-5221-1-1-0-1666183049",
-      "target": "",
-      "time": 1578849960000
-    },
-    {
-      "relPath": "assets\\454.png",
-      "source": "Regrowable Crops-5221-1-1-0-1666183049",
-      "target": "",
-      "time": 1578849948000
-    },
-    {
-      "relPath": "assets\\433.png",
-      "source": "Regrowable Crops-5221-1-1-0-1666183049",
-      "target": "",
-      "time": 1578850010000
-    },
-    {
-      "relPath": "assets\\832.png",
-      "source": "Regrowable Crops-5221-1-1-0-1666183049",
-      "target": "",
-      "time": 1612953844000
-    },
-    {
       "relPath": "[CP] Giant Melon and Cauliflower Retexture\\manifest.json",
       "source": "Giant Melon and Cauliflower Retexture-5221-1-0-3-1666183170",
       "target": "",
@@ -70994,84 +70646,6 @@
       "time": 1560660080000
     },
     {
-      "relPath": "MoreGiantCrops\\assets\\192.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009338000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\24.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009338000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\248.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009338000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\258.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009338000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\256.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009338000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\260.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009338000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\264.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009338000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\266.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009338000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\274.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009338000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\268.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009338000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\270.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009338000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\272.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009338000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\376.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009688000
-    },
-    {
       "relPath": "[AT] Animated Frog Pots\\Textures\\Craftables\\CrabPot\\texture_3.png",
       "source": "Animated Frog Pots-19081-1-0-0-1699507202",
       "target": "",
@@ -71090,60 +70664,6 @@
       "time": 1699505228000
     },
     {
-      "relPath": "MoreGiantCrops\\assets\\280.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009338000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\282.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009338000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\284.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009339000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\400.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009339000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\417.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009339000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\433.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009339000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\421.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009688000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\454.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009339000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\591.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009688000
-    },
-    {
       "relPath": "[AT] Animated Frog Pots\\Textures\\Craftables\\CrabPot\\texture.json",
       "source": "Animated Frog Pots-19081-1-0-0-1699507202",
       "target": "",
@@ -71154,30 +70674,6 @@
       "source": "Animated Frog Pots-19081-1-0-0-1699507202",
       "target": "",
       "time": 1699503367000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\830.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009339000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\593.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009688000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\597.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009688000
-    },
-    {
-      "relPath": "MoreGiantCrops\\assets\\595.png",
-      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
-      "target": "",
-      "time": 1701009688000
     },
     {
       "relPath": "[AT] Animated Frog Pots\\Textures\\Craftables\\CrabPot\\texture_1.png",
@@ -77558,12 +77054,6 @@
       "time": 1693658546000
     },
     {
-      "relPath": "[CP] DaisyNiko's Earthy Recolour\\config.json",
-      "source": "DaisyNiko's Earthy Recolour-5255-1-3-7-1679904613",
-      "target": "",
-      "time": 1701024219000
-    },
-    {
       "relPath": "[AT] DustBeauty's Rustic Country Walls & Floors\\Textures\\Walls\\texture.png",
       "source": "(AT) DustBeauty's Rustic Country Walls and Floors-14896-1-0-0-1672550134",
       "target": "",
@@ -77618,454 +77108,1192 @@
       "time": 1663098038000
     },
     {
-      "relPath": "ImmersiveSprinklers\\config.json",
-      "source": "Immersive Sprinklers-15239-0-8-1-1696898881",
+      "relPath": "LovedLabelsRedux\\config.json",
+      "source": "Loved Labels Redux - Fix Logs-8880-1-4-1-1693658705",
       "target": "",
-      "time": 1701024167000
+      "time": 1701025951000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\24.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\192.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\192.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\248.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\24.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\258.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\256.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\264.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\248.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\256.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\260.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\266.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\268.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\270.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\260.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\258.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\264.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\266.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\274.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\272.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\284.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009339000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\280.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\421.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009688000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\282.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\400.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009339000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\417.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009339000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Fall_Eemie.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693161462000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\433.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009339000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\454.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009339000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\591.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009688000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Readme (Config Options).txt",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693453477000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\593.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009688000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Fall_FoliageRedone.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693163947000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\manifest.json",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693866781000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\597.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009688000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\595.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009688000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\268.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\270.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\830.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009339000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\832.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1612953844000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets\\__folder_managed_by_vortex",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1700955547000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Fall_Starblue.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693165852000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Fall_Vanilla.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693102541000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Fall_VibrantPastoral.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693158804000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Fall_WittilyNamed.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693158695000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\272.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Rustic_Indoor.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693452099000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\280.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\274.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\282.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009338000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Spring_Earthy.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693102528000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\284.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009339000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\376.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009688000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\417.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009339000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Spring_Eemie.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693160822000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Spring_Starblue.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693165499000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\400.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009339000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\421.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009688000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\454.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009339000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Spring_FoliageRedone.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693163969000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Spring_Vanilla.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693763142000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Spring_VibrantPastoral.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693155384000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Spring_WittilyNamed.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693158885000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\591.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009688000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\433.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009339000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\595.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009688000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\597.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009688000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Summer_Earthy.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693764796000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\593.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009688000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Summer_Eemie.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693764765000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\830.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1701009339000
+    },
+    {
+      "relPath": "MoreGiantCrops\\assets.disabled mods\\832.png",
+      "source": "More Giant Crops 1.2.0-5263-1-2-0-1667084414",
+      "target": "",
+      "time": 1612953844000
+    },
+    {
+      "relPath": "SelfServe\\config.json",
+      "source": "Self Serve-11313-0-1-2-1647400446",
+      "target": "",
+      "time": 1701025952000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Summer_FoliageRedone.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693763018000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Summer_Starblue.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693765101000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\content.json",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693453499000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Summer_Vanilla.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693765334000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Summer_VibrantPastoral.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693765266000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Summer_WittilyNamed.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693765303000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Winter_Earthy.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693765576000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Winter_Eemie.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693159156000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Winter_FoliageRedone.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693763720000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Winter_Starblue.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693164375000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Winter_Vanilla.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693102411000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Winter_WittilyNamed.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693765546000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Winter_VibrantPastoral.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693765475000
+    },
+    {
+      "relPath": "[CP] Medieval Little Red School House\\Assets\\Fall_Earthy.png",
+      "source": "Medieval Little Red School House-16140-3-3-0-1693867656",
+      "target": "",
+      "time": 1693102434000
+    },
+    {
+      "relPath": "[CP] DaisyNiko's Earthy Recolour\\config.json",
+      "source": "DaisyNiko's Earthy Recolour-5255-1-3-7-1679904613",
+      "target": "",
+      "time": 1701025955000
     },
     {
       "relPath": "WorkingFireplace\\config.json",
       "source": "WorkingFireplace-3654-1-5-3-1608603296",
       "target": "",
-      "time": 1701024168000
+      "time": 1701025952000
     },
     {
-      "relPath": "[CP] Yri's Retro Recolor Trees\\config.json",
-      "source": "Yri's Retro Recolor Trees-18710-1-0-0-1697180119",
+      "relPath": "ImmersiveSprinklers\\config.json",
+      "source": "Immersive Sprinklers-15239-0-8-1-1696898881",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025951000
     },
     {
       "relPath": "BushBloomMod\\config.json",
       "source": "BushBloomMod-15792-1-0-7-1680271349",
       "target": "",
-      "time": 1701024166000
+      "time": 1701025950000
+    },
+    {
+      "relPath": "[CP] Yri's Retro Recolor Trees\\config.json",
+      "source": "Yri's Retro Recolor Trees-18710-1-0-0-1697180119",
+      "target": "",
+      "time": 1701025955000
     },
     {
       "relPath": "AlternativeTextures\\config.json",
       "source": "Alternative Textures 6.10.4-9246-6-10-4-1698555610",
       "target": "",
-      "time": 1701024170000
-    },
-    {
-      "relPath": "[CP] Primitive Artisan Equipment\\config.json",
-      "source": "Main Download-4005-1-3-2-1560660726",
-      "target": "",
-      "time": 1701024171000
-    },
-    {
-      "relPath": "[CP-A] Animated Fish\\config.json",
-      "source": "Animated Fish-5735-1-2-0-1608588240",
-      "target": "",
-      "time": 1701024171000
+      "time": 1701025954000
     },
     {
       "relPath": "[CP] Zenith Farm\\config.json",
       "source": "Zenith Farm (CFL)-15618-1-1-4-1679022878",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
+    },
+    {
+      "relPath": "[CP-A] Animated Fish\\config.json",
+      "source": "Animated Fish-5735-1-2-0-1608588240",
+      "target": "",
+      "time": 1701025955000
+    },
+    {
+      "relPath": "[CP] Primitive Artisan Equipment\\config.json",
+      "source": "Main Download-4005-1-3-2-1560660726",
+      "target": "",
+      "time": 1701025955000
     },
     {
       "relPath": "WearMoreRings\\config.json",
       "source": "Wear More Rings-3214-6-4-1679925179",
       "target": "",
-      "time": 1701024168000
-    },
-    {
-      "relPath": "IndustrialFurnace\\config.json",
-      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
-      "target": "",
-      "time": 1701024167000
+      "time": 1701025952000
     },
     {
       "relPath": "BetterArtisanGoodIcons\\config.json",
       "source": "Better Artisan Good Icons-2080-1-5-0-1551768141",
       "target": "",
-      "time": 1701024165000
+      "time": 1701025949000
+    },
+    {
+      "relPath": "IndustrialFurnace\\config.json",
+      "source": "Industrial Furnace 1.8.0-5568-1-8-0-1652191199",
+      "target": "",
+      "time": 1701025951000
     },
     {
       "relPath": "MoreRings\\config.json",
       "source": "More Rings 1.2.3-2054-1-2-3-1642054358",
       "target": "",
-      "time": 1701024167000
+      "time": 1701025951000
     },
     {
       "relPath": "ImmersiveScarecrows\\config.json",
       "source": "Immersive Scarecrows-15290-0-5-0-1696898921",
       "target": "",
-      "time": 1701024167000
-    },
-    {
-      "relPath": "[CP] Medieval Buildings by Gweniaczek\\config.json",
-      "source": "Medieval Buildings-4542-2-1-1641814320",
-      "target": "",
-      "time": 1701024171000
+      "time": 1701025951000
     },
     {
       "relPath": "East Scarp\\[CP] East Scarp\\config.json",
       "source": "East Scarp-5787-2-3-8-1696628861",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
+    },
+    {
+      "relPath": "[CP] Medieval Buildings by Gweniaczek\\config.json",
+      "source": "Medieval Buildings-4542-2-1-1641814320",
+      "target": "",
+      "time": 1701025955000
     },
     {
       "relPath": "Kitty Cats\\[CP] Kitty Cats\\config.json",
       "source": "Kitty Cats-7998-1-1-0-1621203775",
       "target": "",
-      "time": 1701024171000
-    },
-    {
-      "relPath": "DestroyableBushes\\config.json",
-      "source": "Destroyable Bushes v1.2.2-6304-1-2-2-1691959356",
-      "target": "",
-      "time": 1701024166000
+      "time": 1701025955000
     },
     {
       "relPath": "Custom Farm Loader\\config.json",
       "source": "Custom Farm Loader-13804-1-1-7-1697371888",
       "target": "",
-      "time": 1701024166000
+      "time": 1701025950000
     },
     {
-      "relPath": "Custom Farm Loader\\FarmTypeCache.json",
-      "source": "Custom Farm Loader-13804-1-1-7-1697371888",
+      "relPath": "DestroyableBushes\\config.json",
+      "source": "Destroyable Bushes v1.2.2-6304-1-2-2-1691959356",
       "target": "",
-      "time": 1701024166000
+      "time": 1701025950000
     },
     {
       "relPath": "[CP] DCBurger's High Res Portraits\\config.json",
       "source": "CP - DCBurger's High Res Portraits-4745-1-5-2-1611820458",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
+    },
+    {
+      "relPath": "Custom Farm Loader\\FarmTypeCache.json",
+      "source": "Custom Farm Loader-13804-1-1-7-1697371888",
+      "target": "",
+      "time": 1701025950000
     },
     {
       "relPath": "[CP] Medieval DNT\\config.json",
       "source": "Medieval DNT-10908-1-1-1693686204",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
     },
     {
       "relPath": "[CP] Lumisteria Tilesheets - Indoor\\config.json",
       "source": "Lumisteria Tilesheets - Indoor-9599-1-3-0-1649793195",
       "target": "",
-      "time": 1701024171000
-    },
-    {
-      "relPath": "[CP] Simple Resources\\config.json",
-      "source": "Simple Resources-15026-1-0-1-1686063147",
-      "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
     },
     {
       "relPath": "MovementSpeed\\config.json",
       "source": "Movement Speed-2736-6-0-1671188842",
       "target": "",
-      "time": 1701024167000
-    },
-    {
-      "relPath": "TractorMod\\config.json",
-      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
-      "target": "",
-      "time": 1701024168000
-    },
-    {
-      "relPath": "[CP] DaisyNiko's Tilesheets\\config.json",
-      "source": "DaisyNiko's Tilesheets-4736-1-9-1-1677283651",
-      "target": "",
-      "time": 1701024171000
+      "time": 1701025951000
     },
     {
       "relPath": "[CP] Medieval SV Expanded\\config.json",
       "source": "Medieval SVE-6086-2-8-1639741660",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
     },
     {
-      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\config.json",
-      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
+      "relPath": "[CP] DaisyNiko's Tilesheets\\config.json",
+      "source": "DaisyNiko's Tilesheets-4736-1-9-1-1677283651",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
+    },
+    {
+      "relPath": "[CP] Simple Resources\\config.json",
+      "source": "Simple Resources-15026-1-0-1-1686063147",
+      "target": "",
+      "time": 1701025955000
     },
     {
       "relPath": "East Scarp\\[CP] East Scarp NPCs\\config.json",
       "source": "East Scarp-5787-2-3-8-1696628861",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
     },
     {
       "relPath": "BetterJunimosForestry\\config.json",
       "source": "Better Junimos Forestry-8992-1-0-7-1650711219",
       "target": "",
-      "time": 1701024170000
-    },
-    {
-      "relPath": "ShowBirthdays\\config.json",
-      "source": "Show Birthdays 1.3.0-7495-1-3-0-1652192602",
-      "target": "",
-      "time": 1701024171000
+      "time": 1701025954000
     },
     {
       "relPath": "MailServicesMod\\config.json",
       "source": "MailServicesMod-v1.4.1-7842-1-4-1-1617489304",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
     },
     {
-      "relPath": "TMXLoader\\config.json",
-      "source": "TMXL Map Toolkit-1820-1-22-1-1627473427",
+      "relPath": "Downtown-Zuzu-main\\[NPC] Downtown Zuzu\\config.json",
+      "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
       "target": "",
-      "time": 1701024166000
+      "time": 1701025955000
     },
     {
       "relPath": "MultiYieldCrops\\config.json",
       "source": "Multi Yield Crops-6069-1-0-2-1608582009",
       "target": "",
-      "time": 1701024167000
+      "time": 1701025951000
+    },
+    {
+      "relPath": "TMXLoader\\config.json",
+      "source": "TMXL Map Toolkit-1820-1-22-1-1627473427",
+      "target": "",
+      "time": 1701025950000
+    },
+    {
+      "relPath": "ShowBirthdays\\config.json",
+      "source": "Show Birthdays 1.3.0-7495-1-3-0-1652192602",
+      "target": "",
+      "time": 1701025955000
     },
     {
       "relPath": "SkullCavernElevator\\config.json",
       "source": "SkullCavernElevator-963-1-4-0-1617813114",
       "target": "",
-      "time": 1701024168000
+      "time": 1701025952000
     },
     {
       "relPath": "BiggerBackpack\\config.json",
       "source": "Bigger Backpack-1845-5-0-1627885971",
       "target": "",
-      "time": 1701024165000
+      "time": 1701025949000
     },
     {
       "relPath": "Stardew Valley Expanded\\[CP] Stardew Valley Expanded\\config.json",
       "source": "-Stardew Valley Expanded--3753-1-14-24-1688505756",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
     },
     {
       "relPath": "MoreGrass\\config.json",
       "source": "More Grass-5398-1-1-7-1642651204",
       "target": "",
-      "time": 1701024167000
+      "time": 1701025951000
     },
     {
       "relPath": "[CP] Suitcase Record Player\\config.json",
       "source": "Suitcase Record Player-4794-1-1-0-1575583611",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
     },
     {
       "relPath": "[CP] Seasonal Cute Characters\\config.json",
       "source": "Seasonal Cute Characters-5450-3-2-3-1620136000",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
     },
     {
       "relPath": "[CP] Gwen's Medieval Craftables\\config.json",
       "source": "Gwen's Medieval Craftables-5513-2-3-1-1612963435",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
     },
     {
       "relPath": "ExperienceBars\\config.json",
       "source": "Experience Bars 1.3.0-509-1-3-0-1625961504",
       "target": "",
-      "time": 1701024167000
-    },
-    {
-      "relPath": "ShopTileFramework\\config.json",
-      "source": "Shop Tile Framework-5005-1-0-9-1608583142",
-      "target": "",
-      "time": 1701024166000
+      "time": 1701025951000
     },
     {
       "relPath": "TrainStation\\config.json",
       "source": "Train Station-6183-1-1-1-1618775674",
       "target": "",
-      "time": 1701024167000
+      "time": 1701025951000
+    },
+    {
+      "relPath": "ShopTileFramework\\config.json",
+      "source": "Shop Tile Framework-5005-1-0-9-1608583142",
+      "target": "",
+      "time": 1701025950000
     },
     {
       "relPath": "[CP] Gwen's Paths\\config.json",
       "source": "Gwen's Paths-8683-1-0-0-1620459899",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
     },
     {
       "relPath": "SpaceCore\\config.json",
       "source": "SpaceCore1.17.2-1348-1-17-2-1693525373",
       "target": "",
-      "time": 1701024164000
-    },
-    {
-      "relPath": "[CP] Better Resources\\config.json",
-      "source": "1.2.0-6942-1-2-0-1629421095",
-      "target": "",
-      "time": 1701024171000
+      "time": 1701025947000
     },
     {
       "relPath": "ExtraMapLayers\\config.json",
       "source": "Extra Map Layers-9633-0-3-10-1693187696",
       "target": "",
-      "time": 1701024166000
+      "time": 1701025950000
+    },
+    {
+      "relPath": "[CP] Better Resources\\config.json",
+      "source": "1.2.0-6942-1-2-0-1629421095",
+      "target": "",
+      "time": 1701025955000
     },
     {
       "relPath": "WinterGrass\\config.json",
       "source": "Winter Grass-1601-2-0-3-1608585082",
       "target": "",
-      "time": 1701024168000
+      "time": 1701025952000
     },
     {
       "relPath": "GenericModConfigMenu\\config.json",
       "source": "Generic Mod Config Menu 1.11.2-5098-1-11-2-1689343508",
       "target": "",
-      "time": 1701024165000
+      "time": 1701025949000
     },
     {
       "relPath": "UndergroundSecrets\\config.json",
       "source": "Underground Secrets-6597-0-6-0-1610965810",
       "target": "",
-      "time": 1701024168000
+      "time": 1701025952000
     },
     {
       "relPath": "QuestFramework\\config.json",
       "source": "Quest Framework 1.4.3-6414-1-4-3-1676467536",
       "target": "",
-      "time": 1701024166000
-    },
-    {
-      "relPath": "ContentPatcher\\config.json",
-      "source": "Content Patcher 1.23.5-1915-1-23-5-1632019341",
-      "target": "",
-      "time": 1701024164000
+      "time": 1701025950000
     },
     {
       "relPath": "[CP] Better Crops and Foraging\\config.json",
       "source": "BCAF 1.5 Update (Fixed Manifest)-4912-4-0-0-1624291982",
       "target": "",
-      "time": 1701024171000
-    },
-    {
-      "relPath": "[CP] Cottagecore Fences\\config.json",
-      "source": "Cottagecore Fences-8558-1-0-1619036300",
-      "target": "",
-      "time": 1701024171000
-    },
-    {
-      "relPath": "FarmTypeManager\\config.json",
-      "source": "Farm Type Manager v1.14.0-3231-1-14-0-1621864510",
-      "target": "",
-      "time": 1701024166000
+      "time": 1701025955000
     },
     {
       "relPath": "SMAPIHealthBarMod\\config.json",
       "source": "Enemy Health Bars-193-1-9-1575392244",
       "target": "",
-      "time": 1701024168000
+      "time": 1701025952000
     },
     {
-      "relPath": "BetterJunimos\\BetterJunimos\\config.json",
-      "source": "Better Junimos-2221-2-1-2-1655294538",
+      "relPath": "[CP] Cottagecore Fences\\config.json",
+      "source": "Cottagecore Fences-8558-1-0-1619036300",
       "target": "",
-      "time": 1701024170000
+      "time": 1701025955000
     },
     {
-      "relPath": "[CP] Ghibli Critters\\config.json",
-      "source": "ghiblicritters-7267-1-2-0-1613443014",
+      "relPath": "FarmTypeManager\\config.json",
+      "source": "Farm Type Manager v1.14.0-3231-1-14-0-1621864510",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025950000
     },
     {
       "relPath": "ActivateSprinklers\\config.json",
       "source": "Activate Sprinklers-2088-1-2-4-1577711044",
       "target": "",
-      "time": 1701024163000
+      "time": 1701025947000
+    },
+    {
+      "relPath": "BetterJunimos\\BetterJunimos\\config.json",
+      "source": "Better Junimos-2221-2-1-2-1655294538",
+      "target": "",
+      "time": 1701025954000
+    },
+    {
+      "relPath": "[CP] Ghibli Critters\\config.json",
+      "source": "ghiblicritters-7267-1-2-0-1613443014",
+      "target": "",
+      "time": 1701025955000
     },
     {
       "relPath": "Downtown-Zuzu-main\\[DLL] Downtown Zuzu\\config.json",
       "source": "Downtown Zuzu - V0.8.2-8587-0-8-2-1647360644",
       "target": "",
-      "time": 1701024166000
-    },
-    {
-      "relPath": "[CP] Better Gems and Minerals\\config.json",
-      "source": "Better Gems and Minerals-5443-1-0-1-1582280178",
-      "target": "",
-      "time": 1701024171000
+      "time": 1701025950000
     },
     {
       "relPath": "[CP] Better Artisan Goods\\config.json",
       "source": "Better Artisan Goods-5394-1-2-1-1612842259",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
     },
     {
-      "relPath": "[CP] Cuter Fatter Animals\\config.json",
-      "source": "CP Cuter Fatter Animals Set (Cow Pig Chickens Sheep Rabbit Dino)-348-1-1553790613",
+      "relPath": "[CP] Better Gems and Minerals\\config.json",
+      "source": "Better Gems and Minerals-5443-1-0-1-1582280178",
       "target": "",
-      "time": 1701024171000
-    },
-    {
-      "relPath": "[CPA]Better Gems and Minerals Animated\\config.json",
-      "source": "Better Gems and Minerals animated 1_1-6930-1-0-1-1602368150",
-      "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
     },
     {
       "relPath": "Walk to the Desert Redux 1.3.1-alpha\\[CP] WTDR\\config.json",
       "source": "Walk to the Desert Redux 1.3.1 Alpha-8630-1-3-1-alpha-1662963377",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
+    },
+    {
+      "relPath": "[CPA]Better Gems and Minerals Animated\\config.json",
+      "source": "Better Gems and Minerals animated 1_1-6930-1-0-1-1602368150",
+      "target": "",
+      "time": 1701025955000
+    },
+    {
+      "relPath": "[CP] Cuter Fatter Animals\\config.json",
+      "source": "CP Cuter Fatter Animals Set (Cow Pig Chickens Sheep Rabbit Dino)-348-1-1553790613",
+      "target": "",
+      "time": 1701025955000
     },
     {
       "relPath": "[CP]Bernese by Gweniaczek\\config.json",
       "source": "CP Bernese Mountain Dog-1848-1-2-1575538672",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
     },
     {
       "relPath": "[CP] Aesthetic Garbage\\config.json",
       "source": "(CP) Aesthetic Garbage-11052-1-1-0-1645196548",
       "target": "",
-      "time": 1701024171000
-    },
-    {
-      "relPath": "[MG] Flowergrass and Snowfields - Vanilla\\config.json",
-      "source": "Flowergrass and Snowfields-6742-1-0-1620498445",
-      "target": "",
-      "time": 1701024167000
+      "time": 1701025955000
     },
     {
       "relPath": "[CP] Coii's Hair Sets Pack\\config.json",
       "source": "CP - Coii's Hair Sets Pack-2869-1-4-0-1579392040",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
     },
     {
       "relPath": "[CP] Cozy Farmhouse Kitchen\\config.json",
       "source": "Cozy Farmhouse Kitchen-10473-1-2-2-1680122559",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
     },
     {
-      "relPath": "Automate\\config.json",
-      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "relPath": "[MG] Flowergrass and Snowfields - Vanilla\\config.json",
+      "source": "Flowergrass and Snowfields-6742-1-0-1620498445",
       "target": "",
-      "time": 1701024165000
-    },
-    {
-      "relPath": "catGifts\\config.json",
-      "source": "catGifts-v-1-2-0-2132-1-2-0-1648317202",
-      "target": "",
-      "time": 1701024166000
+      "time": 1701025951000
     },
     {
       "relPath": "Grandpa's Tools\\[CP]Grandpa's Tools\\config.json",
       "source": "Grandpa's Tools-8835-1-2-0-1623179381",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
     },
     {
       "relPath": "[CP-A] Animated Ridgeside Village Fish\\config.json",
       "source": "Animated Ridgeside Village Fish-7353-1-2-0-1651445202",
       "target": "",
-      "time": 1701024171000
+      "time": 1701025955000
+    },
+    {
+      "relPath": "catGifts\\config.json",
+      "source": "catGifts-v-1-2-0-2132-1-2-0-1648317202",
+      "target": "",
+      "time": 1701025950000
+    },
+    {
+      "relPath": "TractorMod\\assets\\tractor.png",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\TractorMod.dll",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\i18n\\default.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\assets\\garage.png",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\manifest.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\i18n\\es.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\i18n\\fr.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\i18n\\hu.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\i18n\\it.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\i18n\\ja.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\i18n\\ko.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\i18n\\pl.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\i18n\\pt.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\i18n\\ru.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\i18n\\th.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\i18n\\tr.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\i18n\\zh.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\i18n\\uk.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "TractorMod\\i18n\\de.json",
+      "source": "Tractor Mod 4.14.4-1401-4-14-4-1632020535",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "ContentPatcher\\manifest.json",
+      "source": "Content Patcher 1.23.5-1915-1-23-5-1632019341",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "ContentPatcher\\ContentPatcher.dll",
+      "source": "Content Patcher 1.23.5-1915-1-23-5-1632019341",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "Automate\\manifest.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "Automate\\i18n\\default.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "Automate\\Automate.dll",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "Automate\\assets\\data.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "Automate\\i18n\\es.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "Automate\\i18n\\fr.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "Automate\\i18n\\hu.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "Automate\\i18n\\it.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "Automate\\i18n\\ko.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "Automate\\i18n\\ru.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "Automate\\i18n\\pt.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "Automate\\i18n\\th.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "Automate\\i18n\\uk.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "Automate\\i18n\\tr.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "Automate\\i18n\\zh.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701422978000
+    },
+    {
+      "relPath": "Automate\\i18n\\de.json",
+      "source": "Automate 1.23.2-1063-1-23-2-1627147890",
+      "target": "",
+      "time": 1701422978000
     }
   ]
 }

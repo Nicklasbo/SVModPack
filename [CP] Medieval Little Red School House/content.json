@@ -1,0 +1,122 @@
+{ 
+	"Format": "1.29.0", 
+
+    "ConfigSchema": {
+		
+        "Exterior Recolour":
+		{
+			"AllowValues":"Auto, Vanilla, Earthy, Eemie, FoliageRedone, Starblue, VibrantPastoral, WittilyNamed",
+            "Default":"Auto"
+		},
+        "Rustic Furniture":
+		{
+			"AllowValues":"On, Off",
+            "Default":"On"
+		}
+	},
+	
+	"DynamicTokens": [
+// Exterior Recolours       
+        {
+            "Name": "ExteriorRecolour",
+            "Value": "Vanilla",
+            "When":{
+                "Exterior Recolour":"Auto, Vanilla"
+            }
+        },
+        {
+            "Name": "ExteriorRecolour",
+            "Value": "Earthy",
+            "When": {
+                "HasMod": "DaisyNiko.EarthyRecolour",
+                "Exterior Recolour":"Auto"
+            }
+        },
+        {
+            "Name": "ExteriorRecolour",
+            "Value": "Eemie",
+            "When": {
+                "HasMod": "minervamaga.CP.eemieMapRecolour",
+                "Exterior Recolour":"Auto"
+            }
+        },
+		{
+            "Name":"ExteriorRecolour",
+            "Value":"FoliageRedone",
+            "When":{
+                "HasMod":"stardewfoliageredone.foliageonly",
+                "Exterior Recolour":"Auto"
+            }
+        },
+        {
+            "Name": "ExteriorRecolour",
+            "Value": "Starblue",
+            "When": {
+                "HasMod": "Lita.StarblueValley",
+                "Exterior Recolour":"Auto"
+            }
+        },
+        {
+            "Name": "ExteriorRecolour",
+            "Value": "VibrantPastoral",
+            "When": {
+                "HasMod": "grapeponta.VibrantPastoralRecolor",
+                "Exterior Recolour":"Auto"
+            }
+        },
+        {
+            "Name": "ExteriorRecolour",
+            "Value": "WittilyNamed",
+            "When": {
+                "HasMod": "Acerbicon.Recolor",
+                "Exterior Recolour":"Auto"
+            }
+        },
+        {
+            "Name":"ExteriorRecolour",
+            "Value":"{{Exterior Recolour}}",
+            "When":{
+                "Exterior Recolour |contains=Auto":"false"
+            }
+    },
+	],
+		
+	"Changes": [ 
+	
+// Exterior Recolours
+
+		{ "Action": "EditImage", 
+		"Target": "Maps/spring_Xiddav", 
+		"FromFile": "Assets/Spring_{{ExteriorRecolour}}.png",
+		"FromArea": {"X":0,"Y":0,"Width":96,"Height":240},
+		"ToArea": {"X":384,"Y":0,"Width":96,"Height":240},
+		}, 
+		{ "Action": "EditImage", 
+		"Target": "Maps/summer_Xiddav", 
+		"FromFile": "Assets/Summer_{{ExteriorRecolour}}.png",
+		"FromArea": {"X":0,"Y":0,"Width":96,"Height":240},
+		"ToArea": {"X":384,"Y":0,"Width":96,"Height":240},
+		}, 
+		{ "Action": "EditImage", 
+		"Target": "Maps/fall_Xiddav", 
+		"FromFile": "Assets/Fall_{{ExteriorRecolour}}.png", 
+		"FromArea": {"X":0,"Y":0,"Width":96,"Height":240},
+		"ToArea": {"X":384,"Y":0,"Width":96,"Height":240},
+		}, 
+		{ "Action": "EditImage", 
+		"Target": "Maps/winter_Xiddav", 
+		"FromFile": "Assets/Winter_{{ExteriorRecolour}}.png", 
+		"FromArea": {"X":0,"Y":0,"Width":96,"Height":240},
+		"ToArea": {"X":384,"Y":0,"Width":96,"Height":240},
+		},
+		
+// Rustic Decorations
+
+		{ "Action": "EditImage", 
+		"Target": "Maps/Xiddav_Indoor", 
+		"FromFile": "Assets/Rustic_Indoor.png",
+		"When": {"Rustic Furniture":"On"}
+		}
+
+	]
+}
